@@ -1,0 +1,6058 @@
+[
+  {
+    "file": "Raleway-Regular.ttf",
+    "hash": "75b4247fdd3b97d0e3b8e07b115673c2"
+  },
+  {
+    "file": "Raleway-SemiBold.ttf",
+    "hash": "8a192102b50118c45033e53ce897f103"
+  },
+  {
+    "file": "app_client.js",
+    "hash": "05fa8be671abdf02ba8d3bddb6bcf0cc"
+  },
+  {
+    "file": "app_client.js.map",
+    "hash": "62de0b12f89c6c38f3a6412ddb5cb72e"
+  },
+  {
+    "file": "assets/fonts/Raleway-Regular.ttf",
+    "hash": "75b4247fdd3b97d0e3b8e07b115673c2"
+  },
+  {
+    "file": "assets/fonts/Raleway-SemiBold.ttf",
+    "hash": "8a192102b50118c45033e53ce897f103"
+  },
+  {
+    "file": "assets/icon/favicon.png",
+    "hash": "988be98f12b400c41a22b59b82cfeab6"
+  },
+  {
+    "file": "assets/images/aio_tester_button.svg",
+    "hash": "e8de29e73f05d17c4fb488f902c357a3"
+  },
+  {
+    "file": "assets/images/buildstartprogress.gif",
+    "hash": "0f003ffd892081ed6ee5f76fde2d89e1"
+  },
+  {
+    "file": "assets/images/clock-icon.svg",
+    "hash": "b450946cad204eb2887eda48882d1138"
+  },
+  {
+    "file": "assets/images/clock-image.png",
+    "hash": "8f1c234440cf8cbb3f1b2af1085be76a"
+  },
+  {
+    "file": "assets/images/clock__2__1.svg",
+    "hash": "6b90a17682a8e0fd4fda62ac630d2c66"
+  },
+  {
+    "file": "assets/images/clockwise.svg",
+    "hash": "e259099f09cf6e6fdb70b95f86b6b914"
+  },
+  {
+    "file": "assets/images/delete-icon.svg",
+    "hash": "827147d9457f9b9668bf86d4285193c7"
+  },
+  {
+    "file": "assets/images/delete-image.png",
+    "hash": "54b07f2cd0ce4f6e139d774e6bc5f961"
+  },
+  {
+    "file": "assets/images/delete.svg",
+    "hash": "3a4ed75d51d2026cccdd6cfb6ad12c10"
+  },
+  {
+    "file": "assets/images/menu-dark.svg",
+    "hash": "446aeb57144fe80aed2b8c58f5c07b4f"
+  },
+  {
+    "file": "assets/images/menu.svg",
+    "hash": "d8e6a5c470b392fa3a9f6cab888e0577"
+  },
+  {
+    "file": "assets/images/no-image.jpg",
+    "hash": "fcf8d14ec3599e3535c5656364a021a1"
+  },
+  {
+    "file": "assets/images/ph_clock-clockwise-light.png",
+    "hash": "5ad7dac9491ba0603957ae76f2a3516c"
+  },
+  {
+    "file": "assets/images/placeholder.png",
+    "hash": "1a09c294555235e958abec18b2f627d1"
+  },
+  {
+    "file": "assets/shapes.svg",
+    "hash": "e535ce83da20a4b7719ca3d45195ebd5"
+  },
+  {
+    "file": "assets/static/social_login.html",
+    "hash": "f94588d9e30f8af54b7c142fface7d6b"
+  },
+  {
+    "file": "chcp.json",
+    "hash": "12707776c81c1aa6f836d71dcda4000d"
+  },
+  {
+    "file": "common.js",
+    "hash": "68bb67205314feb33f2df2dfc144f8f6"
+  },
+  {
+    "file": "common.js.map",
+    "hash": "86779ef82e12ea283db0dcd43f5de558"
+  },
+  {
+    "file": "cordova.js.map",
+    "hash": "2d6809af1249b095c19f184e44084106"
+  },
+  {
+    "file": "cordova_plugins.js",
+    "hash": "cb70ffbc6320df370239121bbecd5f39"
+  },
+  {
+    "file": "data-table.eot",
+    "hash": "bce071e976865da511003c50333620c5"
+  },
+  {
+    "file": "data-table.svg",
+    "hash": "b0aebd744ce7adb780a9342fd395535e"
+  },
+  {
+    "file": "data-table.ttf",
+    "hash": "c8c6d300cb7abb9f36e8cff3c58f584d"
+  },
+  {
+    "file": "data-table.woff",
+    "hash": "246ea8fa6c452b0f3c4fdd23e955e165"
+  },
+  {
+    "file": "default-node_modules_ionic_core_dist_esm_data-caf38df0_js-node_modules_ionic_core_dist_esm_th-d3ab8e.js",
+    "hash": "6fd8ab43c8724775ffe2f98cc1dd054c"
+  },
+  {
+    "file": "default-node_modules_ionic_core_dist_esm_data-caf38df0_js-node_modules_ionic_core_dist_esm_th-d3ab8e.js.map",
+    "hash": "08b6896ee1bc6ac02ddda0e65dcf4fc3"
+  },
+  {
+    "file": "index.html",
+    "hash": "6f803ac3bcf07b6b5c917dcedaafdf85"
+  },
+  {
+    "file": "main.js",
+    "hash": "b9d4aa5526e06ce7e871960d050d980b"
+  },
+  {
+    "file": "main.js.map",
+    "hash": "e4a4310633182362882a791e19a04c76"
+  },
+  {
+    "file": "manifest.json",
+    "hash": "0988130c5cd17f1755c56963a7261ce3"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_index-2061d5f6_js.js",
+    "hash": "23be3123bc43498f05a5b23a5e844029"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_index-2061d5f6_js.js.map",
+    "hash": "af09c77f66fd872e424160b191315e8f"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_input-shims-8459e7d9_js.js",
+    "hash": "708a26a772f657278d74f4c5a1555080"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_input-shims-8459e7d9_js.js.map",
+    "hash": "28bffc4226a26d8e9727fc3e4365b140"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-accordion_2_entry_js.js",
+    "hash": "a712aa1f9af33a64f7090ff14057edd8"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-accordion_2_entry_js.js.map",
+    "hash": "06dcf62126cb5dcce794fff206f2c464"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-action-sheet_entry_js.js",
+    "hash": "8ff1b088038b1a5ccef23d8ae31a45ed"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-action-sheet_entry_js.js.map",
+    "hash": "df5af88347775c9b525dee484990d26e"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-alert_entry_js.js",
+    "hash": "09577a9bb7357d29f02ea17d6d9fcb99"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-alert_entry_js.js.map",
+    "hash": "aa51add854e438fab415cfa4e20c4c11"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-app_8_entry_js.js",
+    "hash": "0d18c8a599b0c0e8401bb405ab51a58e"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-app_8_entry_js.js.map",
+    "hash": "5fe036bc45a5267789fbd94372faee68"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-avatar_3_entry_js.js",
+    "hash": "582c0c9717d3abfd687957a94d41a0ba"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-avatar_3_entry_js.js.map",
+    "hash": "206b22ef77077e0ee0157e4dcfd5b847"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-back-button_entry_js.js",
+    "hash": "bd458bc26e0fb12f33183b10eba12812"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-back-button_entry_js.js.map",
+    "hash": "58709c16b1e059f339377e0e3e5ca2b9"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-backdrop_entry_js.js",
+    "hash": "98a586b1e73ac8ab1dc6b7622b78b93e"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-backdrop_entry_js.js.map",
+    "hash": "0e401f39e8810ac93384ad2caf70df6a"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-breadcrumb_2_entry_js.js",
+    "hash": "a4401a9f7ca3767d07aed3450df137af"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-breadcrumb_2_entry_js.js.map",
+    "hash": "4487110cfc3668f5dd7a243e2fc20f54"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-button_2_entry_js.js",
+    "hash": "97810133bf37a12cfb9ba949e192eab2"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-button_2_entry_js.js.map",
+    "hash": "add1e2f1930520970ce8888065b04c63"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-card_5_entry_js.js",
+    "hash": "c25d27ed36852dced1d6f81aa5aee40b"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-card_5_entry_js.js.map",
+    "hash": "fa54c1c990efefc72b2c4271148d812f"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-checkbox_entry_js.js",
+    "hash": "05462df5cb26c2103092dbb650b44df3"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-checkbox_entry_js.js.map",
+    "hash": "a9ebcfe7461d8dee96fce0308cbb33ca"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-chip_entry_js.js",
+    "hash": "00bba2010723b50f562f74c4e20bed18"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-chip_entry_js.js.map",
+    "hash": "64354ea98c26837ecd07fe224dd2dc69"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-col_3_entry_js.js",
+    "hash": "23398b376313230eb560e00146b2c42f"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-col_3_entry_js.js.map",
+    "hash": "ac9ff8b93d2cc29ca952b54d2245632c"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-datetime-button_entry_js.js",
+    "hash": "de33900cbb20aed43658ffd69043f671"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-datetime-button_entry_js.js.map",
+    "hash": "854973df7fe031e66d42d30bbfa87009"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-datetime_3_entry_js.js",
+    "hash": "c3bb6d0588c39be28a348805ae38a06b"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-datetime_3_entry_js.js.map",
+    "hash": "220b10f1de51f8b6d4d4da670000f18f"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-fab_3_entry_js.js",
+    "hash": "ce984ebe47fcfddaf717acfd9633f40a"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-fab_3_entry_js.js.map",
+    "hash": "b307cfc4b394172865264aae698eac52"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-img_entry_js.js",
+    "hash": "a06552fe9ab8595edbe9d9a74ca4b013"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-img_entry_js.js.map",
+    "hash": "8af900b844f5c0613f8f60d3a2370f39"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-infinite-scroll_2_entry_js.js",
+    "hash": "4a2c4ecd65ad814cabccc63c8135b929"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-infinite-scroll_2_entry_js.js.map",
+    "hash": "0462a4b6e9183aac430972815e9846c9"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-input_entry_js.js",
+    "hash": "536f37d33eb51c8ccf1b61b2c9122c8b"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-input_entry_js.js.map",
+    "hash": "34c00b09b7a3d8b878c8bfe8927ee3fe"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-item-option_3_entry_js.js",
+    "hash": "8624b604e2afc9ca4fa43be8326b7df4"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-item-option_3_entry_js.js.map",
+    "hash": "43fb0eb0862aae2b36653671afaf68f4"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-item_8_entry_js.js",
+    "hash": "03c1ca1dd4fa856dc374779e0cafcb6d"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-item_8_entry_js.js.map",
+    "hash": "4ed3514d0f6c0b06bac8303a32876236"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-loading_entry_js.js",
+    "hash": "a9d963a52760736d1243a68759ba40e3"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-loading_entry_js.js.map",
+    "hash": "ce74681b4de353a0605d60279ea43442"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-menu_3_entry_js.js",
+    "hash": "641a0625eb37a33412963d14cf98bc89"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-menu_3_entry_js.js.map",
+    "hash": "f1cd0f0b707eebc182ff7f5b2b5fd3f6"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-modal_entry_js.js",
+    "hash": "e5facf0334b1543a87749572e19aeb89"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-modal_entry_js.js.map",
+    "hash": "29c5b6cfc916b11a28237c115e697426"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-nav_2_entry_js.js",
+    "hash": "4f23df76011cc17e46a28237aa4179d1"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-nav_2_entry_js.js.map",
+    "hash": "5958aadbf0f9a7c10081a8ef24042649"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-picker-column-internal_entry_js.js",
+    "hash": "31f2bc403affef3ca87db8ee66b0b5c2"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-picker-column-internal_entry_js.js.map",
+    "hash": "64d9292caf3606d5bc175e3ba89b6c62"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-picker-internal_entry_js.js",
+    "hash": "0b619e435cf49570ee3bb6047f37f433"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-picker-internal_entry_js.js.map",
+    "hash": "c562c87e923ed502ea6ed84d082a647d"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-popover_entry_js.js",
+    "hash": "717c1ed5fc94a2f15eda98b967429a9a"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-popover_entry_js.js.map",
+    "hash": "cb0cc77d5f56d0bc529bd6675718335e"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-progress-bar_entry_js.js",
+    "hash": "46918158e28238bf921aa42aa70ab6f7"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-progress-bar_entry_js.js.map",
+    "hash": "81fac8f001f3b3a73ad7e5f734670cc4"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-radio_2_entry_js.js",
+    "hash": "8b7a0a4ebec32dc73a73b701bb9234b4"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-radio_2_entry_js.js.map",
+    "hash": "177e9e60ac790e272191861c2b7b9b98"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-range_entry_js.js",
+    "hash": "6f2dbe9362c0e4e71558c3814b483edb"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-range_entry_js.js.map",
+    "hash": "a3c4aa450c1abff7940f66838eb64e5b"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-refresher_2_entry_js.js",
+    "hash": "11de2529045f61243350f9ac4f9e7702"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-refresher_2_entry_js.js.map",
+    "hash": "c4c3767e5c7051aa77597c92f55dc713"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-reorder_2_entry_js.js",
+    "hash": "f80cc0c9de9c183c44f4faec3f350a29"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-reorder_2_entry_js.js.map",
+    "hash": "747d28c17d20f0276b5c1b0746341c47"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-ripple-effect_entry_js.js",
+    "hash": "e0e52323deb7d12500c25ad003f5d22a"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-ripple-effect_entry_js.js.map",
+    "hash": "f183d8c5a001da5c07d46c2835a447f2"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-route_4_entry_js.js",
+    "hash": "152258c8dbddee22ab4b8c913ae0bff0"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-route_4_entry_js.js.map",
+    "hash": "d5612a1eab113da626eaac8720020da4"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-searchbar_entry_js.js",
+    "hash": "29b7bcf444a207accb707a733526fdc9"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-searchbar_entry_js.js.map",
+    "hash": "7163a25c28c9fda9906e190be1d8d4a2"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-segment_2_entry_js.js",
+    "hash": "04cd389675ac9625e34e9535add55b4a"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-segment_2_entry_js.js.map",
+    "hash": "94e665f9781505a6215a4712fb44b9b8"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-select_3_entry_js.js",
+    "hash": "bf8c9ce83e7da6b241df99ca1f81b162"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-select_3_entry_js.js.map",
+    "hash": "4fa187a29c684c242c2a9be272eef5b9"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-slide_2_entry_js.js",
+    "hash": "e8122ea1c016502a2a8f29a5db7a2322"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-slide_2_entry_js.js.map",
+    "hash": "7b1d61da575f714e2946eb2173308167"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-spinner_entry_js.js",
+    "hash": "4060b80c1d678edbd65f573c3c40db53"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-spinner_entry_js.js.map",
+    "hash": "c9682e22aba003fd35e38e4b62e18878"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-split-pane_entry_js.js",
+    "hash": "76193aa727b126843caa78a0c989a6f0"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-split-pane_entry_js.js.map",
+    "hash": "622dd4189c65c799dadc99d470bb0a2c"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-tab-bar_2_entry_js.js",
+    "hash": "9b2834ab33a861da1ea4f272db91a1a0"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-tab-bar_2_entry_js.js.map",
+    "hash": "74d380fdba5b7e186078709eabbf1e17"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-tab_2_entry_js.js",
+    "hash": "f5bdc8c2a4835f80c278b5aad04019d2"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-tab_2_entry_js.js.map",
+    "hash": "013dea2e71867601a3581482d8f96a27"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-text_entry_js.js",
+    "hash": "4a582e75e9a730d15e7624804685b5a3"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-text_entry_js.js.map",
+    "hash": "048a9c4afa54850c30a9f08ff46157fb"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-textarea_entry_js.js",
+    "hash": "7e0eeee0be1ae349501949e72e878fed"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-textarea_entry_js.js.map",
+    "hash": "f0a293e6b2e69e4dca2fc63c35eecd38"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-toast_entry_js.js",
+    "hash": "589a811396bc36943cbb060efb9101d6"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-toast_entry_js.js.map",
+    "hash": "85564bb71261194335b044c347a75f5a"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-toggle_entry_js.js",
+    "hash": "731549c91f026799a005c04624564775"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-toggle_entry_js.js.map",
+    "hash": "4efe8176ea73a5db4aa14132e3c7fd74"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-virtual-scroll_entry_js.js",
+    "hash": "c196e3d7a6db01f1a9b41ec6d50d340d"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_ion-virtual-scroll_entry_js.js.map",
+    "hash": "be952cdffd1088c64ca5cb76ba181bab"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_status-tap-4d4674a1_js.js",
+    "hash": "7b8e4d38bad46d866e60133281922093"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_status-tap-4d4674a1_js.js.map",
+    "hash": "856c6c89fc79e25603b8d070cbb6fd30"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_swiper_bundle-28080340_js.js",
+    "hash": "eec065a4b0229b0c7938323c1192e354"
+  },
+  {
+    "file": "node_modules_ionic_core_dist_esm_swiper_bundle-28080340_js.js.map",
+    "hash": "55660bfca0e761e889269ad1c6dc4ce7"
+  },
+  {
+    "file": "plugins/@appery/cordova-plugin-badge/www/badge.js",
+    "hash": "122e03f85ea0edd0c2eb8d04f81f2508"
+  },
+  {
+    "file": "plugins/@moodlehq/cordova-plugin-local-notification/www/local-notification.js",
+    "hash": "deeb181781172afc34b3f1d9f958e19e"
+  },
+  {
+    "file": "plugins/cordova-hot-code-push-plugin/www/chcp.js",
+    "hash": "0beaa97dfe7d1183b7c4736ad5f2bbb2"
+  },
+  {
+    "file": "plugins/cordova-plugin-device/www/device.js",
+    "hash": "5a31cd52690af8fdefcc2b9ac8c73d59"
+  },
+  {
+    "file": "plugins/cordova-plugin-ionic-keyboard/www/android/keyboard.js",
+    "hash": "3b51f8b05dd9a0046508898535693472"
+  },
+  {
+    "file": "plugins/cordova-plugin-ionic-webview/src/www/util.js",
+    "hash": "d76fcc544579a6932cf303c05d286127"
+  },
+  {
+    "file": "plugins/cordova-plugin-network-information/www/Connection.js",
+    "hash": "7ad9ec5428e7ea4da3d8fc1e1a368a7d"
+  },
+  {
+    "file": "plugins/cordova-plugin-network-information/www/network.js",
+    "hash": "e0ff71ab2eb6b31eba1f25675c510dfa"
+  },
+  {
+    "file": "plugins/cordova-plugin-screen-orientation/www/screenorientation.js",
+    "hash": "7d1f6068ebed38ea3c469946e7a1111d"
+  },
+  {
+    "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+    "hash": "63c6b117c57f850e0fd8636a843ae644"
+  },
+  {
+    "file": "plugins/cordova-plugin-statusbar/www/statusbar.js",
+    "hash": "0394e866aee05353773171d35eb0cf01"
+  },
+  {
+    "file": "plugins/cordova-sqlite-ext/www/SQLitePlugin.js",
+    "hash": "abe08403b85ce701eb56ac955fdf394a"
+  },
+  {
+    "file": "plugins/es6-promise-plugin/www/promise.js",
+    "hash": "cb864433bfd937b8179568b9947aa88b"
+  },
+  {
+    "file": "polyfills-core-js.js",
+    "hash": "2d36825dfb4a0b2217e1a8db0b23de9d"
+  },
+  {
+    "file": "polyfills-core-js.js.map",
+    "hash": "096e6ffa05c0b7ae391172fa92f2f028"
+  },
+  {
+    "file": "polyfills-dom.js",
+    "hash": "dbb9a0f3026120cc8a08f72644184013"
+  },
+  {
+    "file": "polyfills-dom.js.map",
+    "hash": "e7467c79efee799520e420fcf1725b52"
+  },
+  {
+    "file": "polyfills.js",
+    "hash": "2958e02444909dbf5033c1d00624ccf7"
+  },
+  {
+    "file": "polyfills.js.map",
+    "hash": "601f66f948bc29002dcb04d027c9a0d1"
+  },
+  {
+    "file": "runtime.js",
+    "hash": "5468c27cfebcc4768808c1ca066601ef"
+  },
+  {
+    "file": "runtime.js.map",
+    "hash": "727f6b491ce9c00ffaa888c808635ce3"
+  },
+  {
+    "file": "src_app_AllTasks_AllTasks_module_ts.js",
+    "hash": "515a7dd3698be86cd808798d070f8df2"
+  },
+  {
+    "file": "src_app_AllTasks_AllTasks_module_ts.js.map",
+    "hash": "24d0301d0353f64a9fafe4cc46342347"
+  },
+  {
+    "file": "src_app_ModifyTask_ModifyTask_module_ts.js",
+    "hash": "2e08e4ad8dc28d5f701f71f022dddbce"
+  },
+  {
+    "file": "src_app_ModifyTask_ModifyTask_module_ts.js.map",
+    "hash": "886b6f1bcfa88b246cee632605f443ee"
+  },
+  {
+    "file": "src_app_Notif_Notif_module_ts.js",
+    "hash": "e45dea1395272e35deb60e35e7cfb592"
+  },
+  {
+    "file": "src_app_Notif_Notif_module_ts.js.map",
+    "hash": "0dfd4c6d4fdf67af7884ff2f454c1f89"
+  },
+  {
+    "file": "src_app_OrderBy_OrderBy_module_ts.js",
+    "hash": "bde25ed72bc39689c1e2d40c432b0379"
+  },
+  {
+    "file": "src_app_OrderBy_OrderBy_module_ts.js.map",
+    "hash": "b0c672cfeeff6b1c33ab226ae7f78326"
+  },
+  {
+    "file": "src_app_ProfileConfig_ProfileConfig_module_ts.js",
+    "hash": "3548c978fe1d19ed0b7e602e93ad9798"
+  },
+  {
+    "file": "src_app_ProfileConfig_ProfileConfig_module_ts.js.map",
+    "hash": "f37b4f861957a8ca45bc2fe70fd51a41"
+  },
+  {
+    "file": "src_app_Settings_Settings_module_ts.js",
+    "hash": "d77d20bb10657bf1c8786fd3cc185750"
+  },
+  {
+    "file": "src_app_Settings_Settings_module_ts.js.map",
+    "hash": "edd54793391127a188da9e937ea62686"
+  },
+  {
+    "file": "src_app_scripts_services_ts.js",
+    "hash": "f28f1658795bbd168345dd27c953d85d"
+  },
+  {
+    "file": "src_app_scripts_services_ts.js.map",
+    "hash": "d494cbd974bc224a6050c01b703beac7"
+  },
+  {
+    "file": "styles.css",
+    "hash": "9ecceda9fe4a5b7eddd6739df6a8da0e"
+  },
+  {
+    "file": "styles.css.map",
+    "hash": "cfa0bb8eafbd4fcd18b61875d4aebb52"
+  },
+  {
+    "file": "svg/accessibility-outline.svg",
+    "hash": "1e143e36df31407dd0feac9c197a905c"
+  },
+  {
+    "file": "svg/accessibility-sharp.svg",
+    "hash": "5b610df1fc4e3ab127e0f8bbc4e0e971"
+  },
+  {
+    "file": "svg/accessibility.svg",
+    "hash": "97bd236fe7dce5466374a78f33593ef8"
+  },
+  {
+    "file": "svg/add-circle-outline.svg",
+    "hash": "3b65d9cc4158fdeb213d119cd5f8cadd"
+  },
+  {
+    "file": "svg/add-circle-sharp.svg",
+    "hash": "c8fb8062d71fd73ced0d010839418da2"
+  },
+  {
+    "file": "svg/add-circle.svg",
+    "hash": "4f94ddc83126243a150ad3c2e6a88345"
+  },
+  {
+    "file": "svg/add-outline.svg",
+    "hash": "7d937dc3bc161d07af14594956e344fa"
+  },
+  {
+    "file": "svg/add-sharp.svg",
+    "hash": "f3760a12499af1e0a7a44e0f0d09b3a3"
+  },
+  {
+    "file": "svg/add.svg",
+    "hash": "7d937dc3bc161d07af14594956e344fa"
+  },
+  {
+    "file": "svg/airplane-outline.svg",
+    "hash": "2758635cc04902af69d32fb3ba51ed4d"
+  },
+  {
+    "file": "svg/airplane-sharp.svg",
+    "hash": "8681309c4d101edd0df1174bbdfbf1c5"
+  },
+  {
+    "file": "svg/airplane.svg",
+    "hash": "98dcd3ff389bf3e0ce25eb907b296f67"
+  },
+  {
+    "file": "svg/alarm-outline.svg",
+    "hash": "2b2ebb0db16ddf2b43703a7a8cb6182c"
+  },
+  {
+    "file": "svg/alarm-sharp.svg",
+    "hash": "c0928a02cef69d05b43de2202956969e"
+  },
+  {
+    "file": "svg/alarm.svg",
+    "hash": "3a923bf0dbf8e5d5174d0f470966380e"
+  },
+  {
+    "file": "svg/albums-outline.svg",
+    "hash": "c311e4622b219abade338a98d49611db"
+  },
+  {
+    "file": "svg/albums-sharp.svg",
+    "hash": "49a4911aeb66888e7a561f28a9097528"
+  },
+  {
+    "file": "svg/albums.svg",
+    "hash": "427411d2af609ffe1cb8ebc7ac7478fe"
+  },
+  {
+    "file": "svg/alert-circle-outline.svg",
+    "hash": "ddb9c2651ce47261a102d81bda8a7047"
+  },
+  {
+    "file": "svg/alert-circle-sharp.svg",
+    "hash": "7c8739633e3f792de23558ea219c0a5a"
+  },
+  {
+    "file": "svg/alert-circle.svg",
+    "hash": "8a5c24e363222bb0efbe3c2e7be0221f"
+  },
+  {
+    "file": "svg/alert-outline.svg",
+    "hash": "7a6581e2fa57e358c425eb4ae6a54dd6"
+  },
+  {
+    "file": "svg/alert-sharp.svg",
+    "hash": "9293470c3266388e28d7098feb733792"
+  },
+  {
+    "file": "svg/alert.svg",
+    "hash": "7a6581e2fa57e358c425eb4ae6a54dd6"
+  },
+  {
+    "file": "svg/american-football-outline.svg",
+    "hash": "4a77be9049f41ccab95fae786200ae94"
+  },
+  {
+    "file": "svg/american-football-sharp.svg",
+    "hash": "e06eb9a7baa1c63c937ec1ff3cb0cc7e"
+  },
+  {
+    "file": "svg/american-football.svg",
+    "hash": "6d21cda04ed63dff64d95e49f28d6212"
+  },
+  {
+    "file": "svg/analytics-outline.svg",
+    "hash": "93b4844c726cf3517e081687b20f7fe2"
+  },
+  {
+    "file": "svg/analytics-sharp.svg",
+    "hash": "c91d128048415c63d6238a426d54ff90"
+  },
+  {
+    "file": "svg/analytics.svg",
+    "hash": "30911a683a0d69122a49491448f47a81"
+  },
+  {
+    "file": "svg/aperture-outline.svg",
+    "hash": "8c1d461ca9329ce0ad3092f00fb414d6"
+  },
+  {
+    "file": "svg/aperture-sharp.svg",
+    "hash": "88df6b6a8965b67b649a00293743bce6"
+  },
+  {
+    "file": "svg/aperture.svg",
+    "hash": "e945d789dc9a3e10fbbb13a243ca5328"
+  },
+  {
+    "file": "svg/apps-outline.svg",
+    "hash": "6c27b6cb48b4368b5e3f560ce022de15"
+  },
+  {
+    "file": "svg/apps-sharp.svg",
+    "hash": "ee7a7b19c285b5faf9da77e29f7791ec"
+  },
+  {
+    "file": "svg/apps.svg",
+    "hash": "9e3e5575e3079bf38396189c334bbc6a"
+  },
+  {
+    "file": "svg/archive-outline.svg",
+    "hash": "8e592185649d1de409c6a17c8520f558"
+  },
+  {
+    "file": "svg/archive-sharp.svg",
+    "hash": "a3ce4059e4e8c0a8b07649ddbc83bca1"
+  },
+  {
+    "file": "svg/archive.svg",
+    "hash": "42173e0dcb69fdb617b6cace7bc30408"
+  },
+  {
+    "file": "svg/arrow-back-circle-outline.svg",
+    "hash": "f8fc647ebf7d4d5712c338a81852b349"
+  },
+  {
+    "file": "svg/arrow-back-circle-sharp.svg",
+    "hash": "2d6008d519f851bdabdbb956347f0012"
+  },
+  {
+    "file": "svg/arrow-back-circle.svg",
+    "hash": "31c9f2502dddf3be4dc9d0a6e6a9c4a9"
+  },
+  {
+    "file": "svg/arrow-back-outline.svg",
+    "hash": "9b4723538481acaa240dc95cf6019680"
+  },
+  {
+    "file": "svg/arrow-back-sharp.svg",
+    "hash": "d45202455c1d085868e4f032f1b85e0a"
+  },
+  {
+    "file": "svg/arrow-back.svg",
+    "hash": "9b4723538481acaa240dc95cf6019680"
+  },
+  {
+    "file": "svg/arrow-down-circle-outline.svg",
+    "hash": "823719efb224bb620e9888fea90519be"
+  },
+  {
+    "file": "svg/arrow-down-circle-sharp.svg",
+    "hash": "e30cda6fb37eb0aeeb217c26fc99c98c"
+  },
+  {
+    "file": "svg/arrow-down-circle.svg",
+    "hash": "38024768c147175e2bdf12ff3d284446"
+  },
+  {
+    "file": "svg/arrow-down-outline.svg",
+    "hash": "059dff04f5acdf2c9e9776340d2e920c"
+  },
+  {
+    "file": "svg/arrow-down-sharp.svg",
+    "hash": "368557b29c208dc3643d024853ee5461"
+  },
+  {
+    "file": "svg/arrow-down.svg",
+    "hash": "059dff04f5acdf2c9e9776340d2e920c"
+  },
+  {
+    "file": "svg/arrow-forward-circle-outline.svg",
+    "hash": "492db4e862dcb84ce28edf5235daf718"
+  },
+  {
+    "file": "svg/arrow-forward-circle-sharp.svg",
+    "hash": "844f3c9ac7753c45eefce7dcae5261f3"
+  },
+  {
+    "file": "svg/arrow-forward-circle.svg",
+    "hash": "b663135ff6483ed39e9b35aa6342532e"
+  },
+  {
+    "file": "svg/arrow-forward-outline.svg",
+    "hash": "f179985cbbea3f0128ce6c3071d8399c"
+  },
+  {
+    "file": "svg/arrow-forward-sharp.svg",
+    "hash": "d6915da6e1ddd323d037f9e749989303"
+  },
+  {
+    "file": "svg/arrow-forward.svg",
+    "hash": "f179985cbbea3f0128ce6c3071d8399c"
+  },
+  {
+    "file": "svg/arrow-redo-circle-outline.svg",
+    "hash": "713c553d33d1326967a565c6a73d35fc"
+  },
+  {
+    "file": "svg/arrow-redo-circle-sharp.svg",
+    "hash": "df989633e23bc37c21095cf564ede5c5"
+  },
+  {
+    "file": "svg/arrow-redo-circle.svg",
+    "hash": "88a33256301ff477b0feac06c200a8e8"
+  },
+  {
+    "file": "svg/arrow-redo-outline.svg",
+    "hash": "500f41114140262e5cc31c8f1f29579b"
+  },
+  {
+    "file": "svg/arrow-redo-sharp.svg",
+    "hash": "d7a44dd5e9d38d2927d7a769b4cfdd0b"
+  },
+  {
+    "file": "svg/arrow-redo.svg",
+    "hash": "3b71c8851b235d42eefba901f3f98225"
+  },
+  {
+    "file": "svg/arrow-undo-circle-outline.svg",
+    "hash": "036771debbafc08e0e11476f8d7c0e28"
+  },
+  {
+    "file": "svg/arrow-undo-circle-sharp.svg",
+    "hash": "ec7a6c5de65280ce70f56ace3df375f1"
+  },
+  {
+    "file": "svg/arrow-undo-circle.svg",
+    "hash": "feca5396d635e8b5c296a10b044eac58"
+  },
+  {
+    "file": "svg/arrow-undo-outline.svg",
+    "hash": "2e2ac9540afcf98c86b72ce7d8ce3c01"
+  },
+  {
+    "file": "svg/arrow-undo-sharp.svg",
+    "hash": "4c946fee0c18c884c9dd86b58fc01163"
+  },
+  {
+    "file": "svg/arrow-undo.svg",
+    "hash": "521784bbb7eee29106c205262bf7685a"
+  },
+  {
+    "file": "svg/arrow-up-circle-outline.svg",
+    "hash": "8f9b70eda6da2d6031ff4b67d239db5e"
+  },
+  {
+    "file": "svg/arrow-up-circle-sharp.svg",
+    "hash": "08b7629e4cd8b8a838f31aa1a512d5b5"
+  },
+  {
+    "file": "svg/arrow-up-circle.svg",
+    "hash": "c232491b07d8737d3a52e77b3d4a3e16"
+  },
+  {
+    "file": "svg/arrow-up-outline.svg",
+    "hash": "7c56a53a99151ee8ccc33473b29682e7"
+  },
+  {
+    "file": "svg/arrow-up-sharp.svg",
+    "hash": "944cadd50da42ad892ee4b56192aef46"
+  },
+  {
+    "file": "svg/arrow-up.svg",
+    "hash": "7c56a53a99151ee8ccc33473b29682e7"
+  },
+  {
+    "file": "svg/at-circle-outline.svg",
+    "hash": "43b870af8dbd0808215a74f3b4e58b1f"
+  },
+  {
+    "file": "svg/at-circle-sharp.svg",
+    "hash": "9201881f4c27efcdc3fe4521620f8f34"
+  },
+  {
+    "file": "svg/at-circle.svg",
+    "hash": "1f49d894a04f80403b45c24fef87c24e"
+  },
+  {
+    "file": "svg/at-outline.svg",
+    "hash": "937fe60b8c7f61540dedf9b19cd06351"
+  },
+  {
+    "file": "svg/at-sharp.svg",
+    "hash": "8c97f844f3182aef7518070783203d5b"
+  },
+  {
+    "file": "svg/at.svg",
+    "hash": "937fe60b8c7f61540dedf9b19cd06351"
+  },
+  {
+    "file": "svg/attach-outline.svg",
+    "hash": "db58ad161b68b8741bf9aa644ae0cecb"
+  },
+  {
+    "file": "svg/attach-sharp.svg",
+    "hash": "81d07b2d71a6f0b9f21155408989d29f"
+  },
+  {
+    "file": "svg/attach.svg",
+    "hash": "db58ad161b68b8741bf9aa644ae0cecb"
+  },
+  {
+    "file": "svg/backspace-outline.svg",
+    "hash": "071da9edd16bddc842cc1ccf0ff1bec7"
+  },
+  {
+    "file": "svg/backspace-sharp.svg",
+    "hash": "dae1248d5d5d53ad38afbb54a1374323"
+  },
+  {
+    "file": "svg/backspace.svg",
+    "hash": "447c876b20624f8da5dc9babdf52805a"
+  },
+  {
+    "file": "svg/bag-add-outline.svg",
+    "hash": "62e28c2ccec53ded0dadd3031291a041"
+  },
+  {
+    "file": "svg/bag-add-sharp.svg",
+    "hash": "74ae49d9f46a1bacb650c9731de6db4d"
+  },
+  {
+    "file": "svg/bag-add.svg",
+    "hash": "a3cec3e1f02bdb262576a835a9445dee"
+  },
+  {
+    "file": "svg/bag-check-outline.svg",
+    "hash": "6fefa076a5ffaf24e9cb117bf3d6d770"
+  },
+  {
+    "file": "svg/bag-check-sharp.svg",
+    "hash": "46abfd3554dbb58ead43742487b59d75"
+  },
+  {
+    "file": "svg/bag-check.svg",
+    "hash": "31a84f5f8cb5b734a7d564e08991873b"
+  },
+  {
+    "file": "svg/bag-handle-outline.svg",
+    "hash": "b40f1bcaeb6e272454dedb704c7f78ae"
+  },
+  {
+    "file": "svg/bag-handle-sharp.svg",
+    "hash": "4c926fec5878d528158e0e667b998514"
+  },
+  {
+    "file": "svg/bag-handle.svg",
+    "hash": "7183453feedff2d8b27c41ed4a260bc0"
+  },
+  {
+    "file": "svg/bag-outline.svg",
+    "hash": "40ab9640ff81eb9b3b8a03e05e08704e"
+  },
+  {
+    "file": "svg/bag-remove-outline.svg",
+    "hash": "d2cf94bc2bf84c8e692a6cb13c3a359d"
+  },
+  {
+    "file": "svg/bag-remove-sharp.svg",
+    "hash": "a7d29005828665cabf54602117195423"
+  },
+  {
+    "file": "svg/bag-remove.svg",
+    "hash": "91fa53e1938422fae6a0d26430add587"
+  },
+  {
+    "file": "svg/bag-sharp.svg",
+    "hash": "d85d0c254fbd0388f37ceecc15f3ca1d"
+  },
+  {
+    "file": "svg/bag.svg",
+    "hash": "496858846b59ca07f11a8f6ee73f9157"
+  },
+  {
+    "file": "svg/balloon-outline.svg",
+    "hash": "ddf59c2cf3672d9186ce905c759cc562"
+  },
+  {
+    "file": "svg/balloon-sharp.svg",
+    "hash": "e119ce87efdf62bf8e436b5f32e197ca"
+  },
+  {
+    "file": "svg/balloon.svg",
+    "hash": "ab32c89568ec4e10c5badf7366ba0e60"
+  },
+  {
+    "file": "svg/ban-outline.svg",
+    "hash": "e685efd1bccca32c332e35e0ab56ce24"
+  },
+  {
+    "file": "svg/ban-sharp.svg",
+    "hash": "d2ba70b18ded7678029d34e8d8ce17cd"
+  },
+  {
+    "file": "svg/ban.svg",
+    "hash": "862b27b22c30a111893bfe2419ae9805"
+  },
+  {
+    "file": "svg/bandage-outline.svg",
+    "hash": "7ad3961a92da5aeb70b03bc0f0f4258a"
+  },
+  {
+    "file": "svg/bandage-sharp.svg",
+    "hash": "dc158f317c16d3532d99f43b8b7c28e5"
+  },
+  {
+    "file": "svg/bandage.svg",
+    "hash": "c003e1e5eefe4cc6e9d4ac99967be712"
+  },
+  {
+    "file": "svg/bar-chart-outline.svg",
+    "hash": "9b1a92695dd1b1eda1a06643caa0fdcb"
+  },
+  {
+    "file": "svg/bar-chart-sharp.svg",
+    "hash": "4dbdb361e898b7561ca1713985d23d07"
+  },
+  {
+    "file": "svg/bar-chart.svg",
+    "hash": "1e362732a468a9158fa99f7c3d1ca2ca"
+  },
+  {
+    "file": "svg/barbell-outline.svg",
+    "hash": "0be241797193ebc06e88eb886a7bebef"
+  },
+  {
+    "file": "svg/barbell-sharp.svg",
+    "hash": "ec62e01f5e09ec8b3ea943e98d739d75"
+  },
+  {
+    "file": "svg/barbell.svg",
+    "hash": "87aad47f40fe5ba307c77a187dd82080"
+  },
+  {
+    "file": "svg/barcode-outline.svg",
+    "hash": "bc81998dd300e214fb72b099adb80cbc"
+  },
+  {
+    "file": "svg/barcode-sharp.svg",
+    "hash": "303af0dc5b4f2e9bef43d4eb0e646a59"
+  },
+  {
+    "file": "svg/barcode.svg",
+    "hash": "8dcb3892cdd15def350c0b172274fcee"
+  },
+  {
+    "file": "svg/baseball-outline.svg",
+    "hash": "2269c69e87fd04646d34312556be103e"
+  },
+  {
+    "file": "svg/baseball-sharp.svg",
+    "hash": "001ef91746bd3361042ef334d0cb6fe9"
+  },
+  {
+    "file": "svg/baseball.svg",
+    "hash": "39c607e22c122d7d8470c874c6d88ff3"
+  },
+  {
+    "file": "svg/basket-outline.svg",
+    "hash": "1d0467aac4c830a95d3af3c57d5b4f29"
+  },
+  {
+    "file": "svg/basket-sharp.svg",
+    "hash": "0ff624e7bb48eefad27068cd6a3d7de2"
+  },
+  {
+    "file": "svg/basket.svg",
+    "hash": "cd55b43fb5860edf7db9bc5593708841"
+  },
+  {
+    "file": "svg/basketball-outline.svg",
+    "hash": "8ac7f45301048a1274f88db5f70eaea0"
+  },
+  {
+    "file": "svg/basketball-sharp.svg",
+    "hash": "f07761a188f5e9ecd5326db8b20cd224"
+  },
+  {
+    "file": "svg/basketball.svg",
+    "hash": "f07761a188f5e9ecd5326db8b20cd224"
+  },
+  {
+    "file": "svg/battery-charging-outline.svg",
+    "hash": "2307bb2c7fab08a7ff5b583d596136a4"
+  },
+  {
+    "file": "svg/battery-charging-sharp.svg",
+    "hash": "f346ff2f9b8316688a766cfa11dfedbc"
+  },
+  {
+    "file": "svg/battery-charging.svg",
+    "hash": "2307bb2c7fab08a7ff5b583d596136a4"
+  },
+  {
+    "file": "svg/battery-dead-outline.svg",
+    "hash": "20f47fcc80a72366db06a014c921dfc8"
+  },
+  {
+    "file": "svg/battery-dead-sharp.svg",
+    "hash": "8f7bd9e565ae84ac252a0b0236ce24a3"
+  },
+  {
+    "file": "svg/battery-dead.svg",
+    "hash": "20f47fcc80a72366db06a014c921dfc8"
+  },
+  {
+    "file": "svg/battery-full-outline.svg",
+    "hash": "5760bdfc5e7ab7adb46e2c073e6100d7"
+  },
+  {
+    "file": "svg/battery-full-sharp.svg",
+    "hash": "f284776d15d39a84b0a501bf8d3edb75"
+  },
+  {
+    "file": "svg/battery-full.svg",
+    "hash": "5760bdfc5e7ab7adb46e2c073e6100d7"
+  },
+  {
+    "file": "svg/battery-half-outline.svg",
+    "hash": "975c6419017c496b3fb2c2c34bba33cc"
+  },
+  {
+    "file": "svg/battery-half-sharp.svg",
+    "hash": "122f7fc17c9013ddf11a792501f2f0f6"
+  },
+  {
+    "file": "svg/battery-half.svg",
+    "hash": "975c6419017c496b3fb2c2c34bba33cc"
+  },
+  {
+    "file": "svg/beaker-outline.svg",
+    "hash": "292149f47a9b2956f371b72d7e4afa1e"
+  },
+  {
+    "file": "svg/beaker-sharp.svg",
+    "hash": "7e65b9353cffa14f6d857455c961cd65"
+  },
+  {
+    "file": "svg/beaker.svg",
+    "hash": "009c8182c2dc3c3fe3382a6784a4e605"
+  },
+  {
+    "file": "svg/bed-outline.svg",
+    "hash": "f604032fae248a48fee0c2c6db975c64"
+  },
+  {
+    "file": "svg/bed-sharp.svg",
+    "hash": "0e0ed82df7f495cf10f26a700bb71d1e"
+  },
+  {
+    "file": "svg/bed.svg",
+    "hash": "939b28444ef895445ec8d3c78597538d"
+  },
+  {
+    "file": "svg/beer-outline.svg",
+    "hash": "d7790188e1fa2adf747032947342339d"
+  },
+  {
+    "file": "svg/beer-sharp.svg",
+    "hash": "8d706169a11f0fb17b21e37a5bca16a9"
+  },
+  {
+    "file": "svg/beer.svg",
+    "hash": "d7d84f539cca165296fbcbf821fe1056"
+  },
+  {
+    "file": "svg/bicycle-outline.svg",
+    "hash": "16b7437d07fb9ff1cd126bb37553633c"
+  },
+  {
+    "file": "svg/bicycle-sharp.svg",
+    "hash": "dd8628ca081ebc78053101f3e649bc9f"
+  },
+  {
+    "file": "svg/bicycle.svg",
+    "hash": "3d2215c2b81dcc7913acb432b679d015"
+  },
+  {
+    "file": "svg/bluetooth-outline.svg",
+    "hash": "e20322abf0bfc5d5e74fa6ba1912b417"
+  },
+  {
+    "file": "svg/bluetooth-sharp.svg",
+    "hash": "0f6e4e426e234f9944150f44805dc810"
+  },
+  {
+    "file": "svg/bluetooth.svg",
+    "hash": "116eb29cb0b21ae767ec7ecfedd3e9ab"
+  },
+  {
+    "file": "svg/boat-outline.svg",
+    "hash": "2ac736bed942925c07ca0251b2e8db72"
+  },
+  {
+    "file": "svg/boat-sharp.svg",
+    "hash": "d15f50f26559ac2c52d28cd1fa3bd200"
+  },
+  {
+    "file": "svg/boat.svg",
+    "hash": "60ed2907a1a0bfb3f29cf4a893455688"
+  },
+  {
+    "file": "svg/body-outline.svg",
+    "hash": "debe403dc4f065766bf20607bee016a0"
+  },
+  {
+    "file": "svg/body-sharp.svg",
+    "hash": "0fafca146050c488f092e8e0f8529fe3"
+  },
+  {
+    "file": "svg/body.svg",
+    "hash": "3d10faed8f7879a0d56563414f8b9557"
+  },
+  {
+    "file": "svg/bonfire-outline.svg",
+    "hash": "a11d223638ba39830db2bf44e9becf17"
+  },
+  {
+    "file": "svg/bonfire-sharp.svg",
+    "hash": "b4f4e638008f0cb9467c7748f02511d2"
+  },
+  {
+    "file": "svg/bonfire.svg",
+    "hash": "6ee8b040bd07ee77e773e30d4834bc72"
+  },
+  {
+    "file": "svg/book-outline.svg",
+    "hash": "6edf7665d2317f4be6f9c07da8577e8c"
+  },
+  {
+    "file": "svg/book-sharp.svg",
+    "hash": "fddba162dd80eb2f36c76134f7c30817"
+  },
+  {
+    "file": "svg/book.svg",
+    "hash": "828599dc7886c171a008d0d8ede6ac91"
+  },
+  {
+    "file": "svg/bookmark-outline.svg",
+    "hash": "9affd8f96ad650d697414747b01daf92"
+  },
+  {
+    "file": "svg/bookmark-sharp.svg",
+    "hash": "15fea68094aec4d97d2b2db9e5aa9391"
+  },
+  {
+    "file": "svg/bookmark.svg",
+    "hash": "ad9a90d9322bc7bf531416120f4afc19"
+  },
+  {
+    "file": "svg/bookmarks-outline.svg",
+    "hash": "280dc250edd494cea88c792569790b53"
+  },
+  {
+    "file": "svg/bookmarks-sharp.svg",
+    "hash": "d8d8b29cce40c1b62a9303331d159a2c"
+  },
+  {
+    "file": "svg/bookmarks.svg",
+    "hash": "0f4419c1a15949d1f6b0dfb3e13cef83"
+  },
+  {
+    "file": "svg/bowling-ball-outline.svg",
+    "hash": "86478fbd0b9b6a00ee9244e971635040"
+  },
+  {
+    "file": "svg/bowling-ball-sharp.svg",
+    "hash": "4a73b606bba9cbc4881c78057cbf926e"
+  },
+  {
+    "file": "svg/bowling-ball.svg",
+    "hash": "5f3acedc4a189545aebbf5e43520b5d1"
+  },
+  {
+    "file": "svg/briefcase-outline.svg",
+    "hash": "cee2b8626eade6d7a7193ee21c73bf75"
+  },
+  {
+    "file": "svg/briefcase-sharp.svg",
+    "hash": "d95d7bb0dfc6afa71df989baf8b27d99"
+  },
+  {
+    "file": "svg/briefcase.svg",
+    "hash": "3d5127010e8ef97ffe3a5f085c50d9b9"
+  },
+  {
+    "file": "svg/browsers-outline.svg",
+    "hash": "02566bd9278286f1a4a26388de667b54"
+  },
+  {
+    "file": "svg/browsers-sharp.svg",
+    "hash": "55b3ec5a83328a76b9ffbc2b5b2a2870"
+  },
+  {
+    "file": "svg/browsers.svg",
+    "hash": "6407968cbad10c9d510b276fb7aa3a14"
+  },
+  {
+    "file": "svg/brush-outline.svg",
+    "hash": "c53a38bda06c00c43ed6d90c5f5d218f"
+  },
+  {
+    "file": "svg/brush-sharp.svg",
+    "hash": "3a829baba629fc086f5af8536e68b7ce"
+  },
+  {
+    "file": "svg/brush.svg",
+    "hash": "3a76739eaa7c711ad1d62ea2d502ea23"
+  },
+  {
+    "file": "svg/bug-outline.svg",
+    "hash": "4016cb62dd273f014906dfc4c7ebb512"
+  },
+  {
+    "file": "svg/bug-sharp.svg",
+    "hash": "4d6aecf6468893ff184a931de8059694"
+  },
+  {
+    "file": "svg/bug.svg",
+    "hash": "2d4b9d2c7e023eb0d75d3debed944d7e"
+  },
+  {
+    "file": "svg/build-outline.svg",
+    "hash": "60f00764dff7af970e91f58de88ade4c"
+  },
+  {
+    "file": "svg/build-sharp.svg",
+    "hash": "8d971c40701882a1e101a6ffbe5e4519"
+  },
+  {
+    "file": "svg/build.svg",
+    "hash": "abf9059e237e7eaaf6e076ad57bf7435"
+  },
+  {
+    "file": "svg/bulb-outline.svg",
+    "hash": "4f63a3d2173c7857a0ba0bed051676e1"
+  },
+  {
+    "file": "svg/bulb-sharp.svg",
+    "hash": "ef2beef5f2bfa74ee0b02e5d81b51c43"
+  },
+  {
+    "file": "svg/bulb.svg",
+    "hash": "d4538ea27f593650e82f7fb4a9d169b2"
+  },
+  {
+    "file": "svg/bus-outline.svg",
+    "hash": "b1ae95bf7d1bb5cd21221d9ba4799bc2"
+  },
+  {
+    "file": "svg/bus-sharp.svg",
+    "hash": "78398baa2f2df6eb65f21d82928e1676"
+  },
+  {
+    "file": "svg/bus.svg",
+    "hash": "0795245c72357217f7c8865d984102c9"
+  },
+  {
+    "file": "svg/business-outline.svg",
+    "hash": "b73342bfe9f4c2614b939d1c6ad0835d"
+  },
+  {
+    "file": "svg/business-sharp.svg",
+    "hash": "c184e20fee05b31c19c8e2613a7f1b05"
+  },
+  {
+    "file": "svg/business.svg",
+    "hash": "4abeb21558c3fc070bef91c70490beec"
+  },
+  {
+    "file": "svg/cafe-outline.svg",
+    "hash": "2a26cec46613b66cd157b934063a5eca"
+  },
+  {
+    "file": "svg/cafe-sharp.svg",
+    "hash": "5dfc66b86826e3487cec62f3e84e76d5"
+  },
+  {
+    "file": "svg/cafe.svg",
+    "hash": "626b068497e46e98b7104b20f1668b81"
+  },
+  {
+    "file": "svg/calculator-outline.svg",
+    "hash": "330b9cff11fa1ef9b550fccd33cad5b9"
+  },
+  {
+    "file": "svg/calculator-sharp.svg",
+    "hash": "c2381f97d854f25eb20ddf5d895813cf"
+  },
+  {
+    "file": "svg/calculator.svg",
+    "hash": "70e2fb91544da6f07d742e12355cca8e"
+  },
+  {
+    "file": "svg/calendar-clear-outline.svg",
+    "hash": "f9106c566878b4c88d96930250133817"
+  },
+  {
+    "file": "svg/calendar-clear-sharp.svg",
+    "hash": "ccc0adba45e9c49c4165e3268285a785"
+  },
+  {
+    "file": "svg/calendar-clear.svg",
+    "hash": "43b1ae2013a2668d2335cd2967351435"
+  },
+  {
+    "file": "svg/calendar-number-outline.svg",
+    "hash": "0b93a462c53ffe9e324d06eee8d1e978"
+  },
+  {
+    "file": "svg/calendar-number-sharp.svg",
+    "hash": "c254a34bbccb193ea2224ea49a9b82c6"
+  },
+  {
+    "file": "svg/calendar-number.svg",
+    "hash": "7ec9a4de051421a10df4eb236e3a094d"
+  },
+  {
+    "file": "svg/calendar-outline.svg",
+    "hash": "61a9004aee54729bb05eac935cfe2b74"
+  },
+  {
+    "file": "svg/calendar-sharp.svg",
+    "hash": "4373c0ffbbc9fb2c02fea56dd795ad8d"
+  },
+  {
+    "file": "svg/calendar.svg",
+    "hash": "82197d62ac097f6eefade9a117b1067b"
+  },
+  {
+    "file": "svg/call-outline.svg",
+    "hash": "13fd248135f6b9b1d25c89d62791276b"
+  },
+  {
+    "file": "svg/call-sharp.svg",
+    "hash": "b8397a867d1c1c8522ccb94139e73b8d"
+  },
+  {
+    "file": "svg/call.svg",
+    "hash": "139c748540ba7e4f86886089dece09f7"
+  },
+  {
+    "file": "svg/camera-outline.svg",
+    "hash": "28bb01d70c9251c85047ff1a55bc0fdd"
+  },
+  {
+    "file": "svg/camera-reverse-outline.svg",
+    "hash": "30e492ab966def66294efd2f5861f452"
+  },
+  {
+    "file": "svg/camera-reverse-sharp.svg",
+    "hash": "077ab7120e722d314032e54ca86bff5f"
+  },
+  {
+    "file": "svg/camera-reverse.svg",
+    "hash": "3397e645ee7e5934bb4f048c79c143ba"
+  },
+  {
+    "file": "svg/camera-sharp.svg",
+    "hash": "1e83d56b3c6e0afa6ace7ff775ad6977"
+  },
+  {
+    "file": "svg/camera.svg",
+    "hash": "21f25d002e121b93569b215ea5520cd5"
+  },
+  {
+    "file": "svg/car-outline.svg",
+    "hash": "694b848c2c59619ba3ba927308371e5e"
+  },
+  {
+    "file": "svg/car-sharp.svg",
+    "hash": "828d75288567377064a75e344e070ac6"
+  },
+  {
+    "file": "svg/car-sport-outline.svg",
+    "hash": "10b654cfd13d16dea78bd9ad273024e1"
+  },
+  {
+    "file": "svg/car-sport-sharp.svg",
+    "hash": "5d62b78db070f3088528d833d15bd8e3"
+  },
+  {
+    "file": "svg/car-sport.svg",
+    "hash": "3b650ab7f64e12bdd54410be5022fbbd"
+  },
+  {
+    "file": "svg/car.svg",
+    "hash": "1d1023e8a9a2927fca2857d16a2a7c79"
+  },
+  {
+    "file": "svg/card-outline.svg",
+    "hash": "8f1976eaeced62692105c46c97150426"
+  },
+  {
+    "file": "svg/card-sharp.svg",
+    "hash": "b713d02fc9c9af66555f5e8e6507a239"
+  },
+  {
+    "file": "svg/card.svg",
+    "hash": "fcb92fab90809a6c17c80fba726718bd"
+  },
+  {
+    "file": "svg/caret-back-circle-outline.svg",
+    "hash": "d6e8b7607a0ec2c58f3477998a30924f"
+  },
+  {
+    "file": "svg/caret-back-circle-sharp.svg",
+    "hash": "bd67ee769628e1f05a5bd8a89f8606f1"
+  },
+  {
+    "file": "svg/caret-back-circle.svg",
+    "hash": "e60dbc5b5daed1e44b46defe3b5df7c0"
+  },
+  {
+    "file": "svg/caret-back-outline.svg",
+    "hash": "0a583e4321b5df2841e0e7b4ab4bc079"
+  },
+  {
+    "file": "svg/caret-back-sharp.svg",
+    "hash": "66517d7d923a86cb7820605dc1d51ec4"
+  },
+  {
+    "file": "svg/caret-back.svg",
+    "hash": "0a583e4321b5df2841e0e7b4ab4bc079"
+  },
+  {
+    "file": "svg/caret-down-circle-outline.svg",
+    "hash": "427aabb7dd6a384994ed6257799842e1"
+  },
+  {
+    "file": "svg/caret-down-circle-sharp.svg",
+    "hash": "1ae6b6ff43a4e34e95b67e025257d1bf"
+  },
+  {
+    "file": "svg/caret-down-circle.svg",
+    "hash": "b42a01e115afc91b0899420ee07a91b2"
+  },
+  {
+    "file": "svg/caret-down-outline.svg",
+    "hash": "ec18bfdd5dc7b27d2a83fd533e1fac18"
+  },
+  {
+    "file": "svg/caret-down-sharp.svg",
+    "hash": "7250e205643635bd142dce9bf1958f94"
+  },
+  {
+    "file": "svg/caret-down.svg",
+    "hash": "ec18bfdd5dc7b27d2a83fd533e1fac18"
+  },
+  {
+    "file": "svg/caret-forward-circle-outline.svg",
+    "hash": "e80fbb95f66564d4a0676f5a53ed3634"
+  },
+  {
+    "file": "svg/caret-forward-circle-sharp.svg",
+    "hash": "a4491db8ec6d6c1fd54238616d57a4f8"
+  },
+  {
+    "file": "svg/caret-forward-circle.svg",
+    "hash": "410d4b5dff8a9166b5b64eee1a2cffa5"
+  },
+  {
+    "file": "svg/caret-forward-outline.svg",
+    "hash": "ef6fd8c3466aab97d4fdf529cc22d963"
+  },
+  {
+    "file": "svg/caret-forward-sharp.svg",
+    "hash": "dc7f10d64daf7ee07732f470ba0b80ca"
+  },
+  {
+    "file": "svg/caret-forward.svg",
+    "hash": "ef6fd8c3466aab97d4fdf529cc22d963"
+  },
+  {
+    "file": "svg/caret-up-circle-outline.svg",
+    "hash": "1cdb779c84f3cc42a1cfcaee1bfb1677"
+  },
+  {
+    "file": "svg/caret-up-circle-sharp.svg",
+    "hash": "6ebe98642da616106a5357c2eeaef400"
+  },
+  {
+    "file": "svg/caret-up-circle.svg",
+    "hash": "ffb0739d1c75fb743bf5b10e50d019c1"
+  },
+  {
+    "file": "svg/caret-up-outline.svg",
+    "hash": "fb19f7e85146b5e2fd62e72c72fcd66f"
+  },
+  {
+    "file": "svg/caret-up-sharp.svg",
+    "hash": "94006a540b11adb0b0bfb6c5463e1fad"
+  },
+  {
+    "file": "svg/caret-up.svg",
+    "hash": "fb19f7e85146b5e2fd62e72c72fcd66f"
+  },
+  {
+    "file": "svg/cart-outline.svg",
+    "hash": "4d089a4038976c9bf70ae790a1039e1d"
+  },
+  {
+    "file": "svg/cart-sharp.svg",
+    "hash": "e8847116f346cccc3873eddc9394ecc2"
+  },
+  {
+    "file": "svg/cart.svg",
+    "hash": "f9d66eb3c9f595164b16d597e0aac036"
+  },
+  {
+    "file": "svg/cash-outline.svg",
+    "hash": "03855d07260ea5ee1614d25fd7c4f2b5"
+  },
+  {
+    "file": "svg/cash-sharp.svg",
+    "hash": "5ef310e0bdc2643bfe97f13db9e4a2fb"
+  },
+  {
+    "file": "svg/cash.svg",
+    "hash": "cae0fa6626c3a7bb4f2789a2c0949221"
+  },
+  {
+    "file": "svg/cellular-outline.svg",
+    "hash": "cafb84ffd8924f56a3818c9421055a0b"
+  },
+  {
+    "file": "svg/cellular-sharp.svg",
+    "hash": "96ac114c3ea25a26d91731ed3e6070fe"
+  },
+  {
+    "file": "svg/cellular.svg",
+    "hash": "19861c4783d9a56066a93553e0d1f9df"
+  },
+  {
+    "file": "svg/chatbox-ellipses-outline.svg",
+    "hash": "22bf99bf48d47a84d0f00e701e4eb7f5"
+  },
+  {
+    "file": "svg/chatbox-ellipses-sharp.svg",
+    "hash": "0f9f24bdac12ef960406c9677cc5bacf"
+  },
+  {
+    "file": "svg/chatbox-ellipses.svg",
+    "hash": "e1026493994e2be1a00c66c549d9e0cc"
+  },
+  {
+    "file": "svg/chatbox-outline.svg",
+    "hash": "12adee5582b681ad1fe25eb1c3852daa"
+  },
+  {
+    "file": "svg/chatbox-sharp.svg",
+    "hash": "51bbab026586f45be602d4d42ad6746d"
+  },
+  {
+    "file": "svg/chatbox.svg",
+    "hash": "ffa797cbcd88eac3d8e5e9379352e3ef"
+  },
+  {
+    "file": "svg/chatbubble-ellipses-outline.svg",
+    "hash": "0f5725d7ecf3682fac4a7d2ecf616f80"
+  },
+  {
+    "file": "svg/chatbubble-ellipses-sharp.svg",
+    "hash": "d315fd66bf6e038153e2c189f373a642"
+  },
+  {
+    "file": "svg/chatbubble-ellipses.svg",
+    "hash": "45bee3f55e5af6896b0ffe8441649893"
+  },
+  {
+    "file": "svg/chatbubble-outline.svg",
+    "hash": "20ba23bd4433370a034ebecf8cc9d231"
+  },
+  {
+    "file": "svg/chatbubble-sharp.svg",
+    "hash": "74dbaaabf63f5810bbda1d7654c66973"
+  },
+  {
+    "file": "svg/chatbubble.svg",
+    "hash": "584ad60503ed38d3a5577778eebdcbaa"
+  },
+  {
+    "file": "svg/chatbubbles-outline.svg",
+    "hash": "82e7b4fe449b104e9949831b5bdc245c"
+  },
+  {
+    "file": "svg/chatbubbles-sharp.svg",
+    "hash": "85082224828669cbddd525ce1b1cbe4d"
+  },
+  {
+    "file": "svg/chatbubbles.svg",
+    "hash": "233135ea7b2e624a54a34cdd0acdafd9"
+  },
+  {
+    "file": "svg/checkbox-outline.svg",
+    "hash": "2c7b8485fa5aae0ffdabe1e85f467654"
+  },
+  {
+    "file": "svg/checkbox-sharp.svg",
+    "hash": "7250a6c230e42b4b7a5dc76939f0f80e"
+  },
+  {
+    "file": "svg/checkbox.svg",
+    "hash": "6e7b545252be3caeaac087dcc775a65c"
+  },
+  {
+    "file": "svg/checkmark-circle-outline.svg",
+    "hash": "c97c5d47275ee8706436efdb60421f25"
+  },
+  {
+    "file": "svg/checkmark-circle-sharp.svg",
+    "hash": "a0821d375c226b23921525dc6db96057"
+  },
+  {
+    "file": "svg/checkmark-circle.svg",
+    "hash": "6253ed964dae93b492414dde515aaa22"
+  },
+  {
+    "file": "svg/checkmark-done-circle-outline.svg",
+    "hash": "5d60c6cde93c17cdc6eee00205de2c69"
+  },
+  {
+    "file": "svg/checkmark-done-circle-sharp.svg",
+    "hash": "be6366575593230d1267c35583db10a0"
+  },
+  {
+    "file": "svg/checkmark-done-circle.svg",
+    "hash": "976fa0f0278ad4e5d4d6599279b4469d"
+  },
+  {
+    "file": "svg/checkmark-done-outline.svg",
+    "hash": "a0318e5a959c176b473af449f5d82c89"
+  },
+  {
+    "file": "svg/checkmark-done-sharp.svg",
+    "hash": "fd3616c1aa2c202fa1c5696586f19dba"
+  },
+  {
+    "file": "svg/checkmark-done.svg",
+    "hash": "a0318e5a959c176b473af449f5d82c89"
+  },
+  {
+    "file": "svg/checkmark-outline.svg",
+    "hash": "ac430bc791d1fb1cbbff5d02c17f5104"
+  },
+  {
+    "file": "svg/checkmark-sharp.svg",
+    "hash": "7343ca6970085d21d15ac3bf13b70aa5"
+  },
+  {
+    "file": "svg/checkmark.svg",
+    "hash": "ac430bc791d1fb1cbbff5d02c17f5104"
+  },
+  {
+    "file": "svg/chevron-back-circle-outline.svg",
+    "hash": "bece476867d61bf63953b475046be24b"
+  },
+  {
+    "file": "svg/chevron-back-circle-sharp.svg",
+    "hash": "5d0bc3b8def7ff35811a212c1e54af6a"
+  },
+  {
+    "file": "svg/chevron-back-circle.svg",
+    "hash": "4f8f9b0cb675a4741145ad00ca649405"
+  },
+  {
+    "file": "svg/chevron-back-outline.svg",
+    "hash": "3cc32ec8449360afadf16ab753d364fe"
+  },
+  {
+    "file": "svg/chevron-back-sharp.svg",
+    "hash": "d31fc623f7eeffd0048b66ad25c60461"
+  },
+  {
+    "file": "svg/chevron-back.svg",
+    "hash": "3cc32ec8449360afadf16ab753d364fe"
+  },
+  {
+    "file": "svg/chevron-down-circle-outline.svg",
+    "hash": "c561084e860702f7e9daded28cc80ee4"
+  },
+  {
+    "file": "svg/chevron-down-circle-sharp.svg",
+    "hash": "d9615fa6782cfca48cb0d5649a47100e"
+  },
+  {
+    "file": "svg/chevron-down-circle.svg",
+    "hash": "d84e3ee3114424eadb87c5fac718ad1d"
+  },
+  {
+    "file": "svg/chevron-down-outline.svg",
+    "hash": "e0945809615dce64d174f11cc0782f76"
+  },
+  {
+    "file": "svg/chevron-down-sharp.svg",
+    "hash": "56e9c7d13219447cb2ab9f4cfe7648dd"
+  },
+  {
+    "file": "svg/chevron-down.svg",
+    "hash": "e0945809615dce64d174f11cc0782f76"
+  },
+  {
+    "file": "svg/chevron-forward-circle-outline.svg",
+    "hash": "8873f8a4bc249ec50f827501b0e9e61e"
+  },
+  {
+    "file": "svg/chevron-forward-circle-sharp.svg",
+    "hash": "8f17bb7a9f35f67e4865da28979d4434"
+  },
+  {
+    "file": "svg/chevron-forward-circle.svg",
+    "hash": "3ee30298e7a069b20e0ed1b231358b74"
+  },
+  {
+    "file": "svg/chevron-forward-outline.svg",
+    "hash": "f5442bce9a45fddaa8a210a66facd4d6"
+  },
+  {
+    "file": "svg/chevron-forward-sharp.svg",
+    "hash": "61cea698a214899582f36926b1b40aec"
+  },
+  {
+    "file": "svg/chevron-forward.svg",
+    "hash": "f5442bce9a45fddaa8a210a66facd4d6"
+  },
+  {
+    "file": "svg/chevron-up-circle-outline.svg",
+    "hash": "2c8bcc6f663571490fc08709ad764d51"
+  },
+  {
+    "file": "svg/chevron-up-circle-sharp.svg",
+    "hash": "5806fa85ab09d2418bd2ca9490aecbdd"
+  },
+  {
+    "file": "svg/chevron-up-circle.svg",
+    "hash": "1f9357acf3ac8f64508536e33d28984a"
+  },
+  {
+    "file": "svg/chevron-up-outline.svg",
+    "hash": "510050b0091d8197a0bd82fd7d0c175b"
+  },
+  {
+    "file": "svg/chevron-up-sharp.svg",
+    "hash": "b796244553d45315003f4927be9e1788"
+  },
+  {
+    "file": "svg/chevron-up.svg",
+    "hash": "510050b0091d8197a0bd82fd7d0c175b"
+  },
+  {
+    "file": "svg/clipboard-outline.svg",
+    "hash": "1af6aabc157948747232e3f0f2cbe070"
+  },
+  {
+    "file": "svg/clipboard-sharp.svg",
+    "hash": "53e34aa364d31f16f4ac490f474e18f9"
+  },
+  {
+    "file": "svg/clipboard.svg",
+    "hash": "cad1cc101c19817574b31da243007eaf"
+  },
+  {
+    "file": "svg/close-circle-outline.svg",
+    "hash": "a43c22cd74aa1107113fb99aeb45e3d2"
+  },
+  {
+    "file": "svg/close-circle-sharp.svg",
+    "hash": "033fffc34b05a606ea806c0f187f14be"
+  },
+  {
+    "file": "svg/close-circle.svg",
+    "hash": "13bc3cc8bb4c10781aa10f4d7fc56507"
+  },
+  {
+    "file": "svg/close-outline.svg",
+    "hash": "7a05f9dcd415b75f50c77d9cdb02e41d"
+  },
+  {
+    "file": "svg/close-sharp.svg",
+    "hash": "91cc089613e124f5ded61cb886131f09"
+  },
+  {
+    "file": "svg/close.svg",
+    "hash": "fe0e3cd9a5e6ea4f636fa693c2f999a1"
+  },
+  {
+    "file": "svg/cloud-circle-outline.svg",
+    "hash": "b5c536a73489ae760ef64d68f7563c2c"
+  },
+  {
+    "file": "svg/cloud-circle-sharp.svg",
+    "hash": "f5747607e6b6a8bcb437484b03c30847"
+  },
+  {
+    "file": "svg/cloud-circle.svg",
+    "hash": "0ef004bf3eb18500eb1ee3e9cfda547c"
+  },
+  {
+    "file": "svg/cloud-done-outline.svg",
+    "hash": "e365d89aedb0b4a1c26aa22d1ef17045"
+  },
+  {
+    "file": "svg/cloud-done-sharp.svg",
+    "hash": "3d0159b6776fa6722c9be018e9fdaec0"
+  },
+  {
+    "file": "svg/cloud-done.svg",
+    "hash": "4088148fec112fa87177275b88d513a2"
+  },
+  {
+    "file": "svg/cloud-download-outline.svg",
+    "hash": "c4f742fc20d19432c665f866b1edf627"
+  },
+  {
+    "file": "svg/cloud-download-sharp.svg",
+    "hash": "482b81c884d94ba0512b0c0bf4c14c6f"
+  },
+  {
+    "file": "svg/cloud-download.svg",
+    "hash": "c10ffe2dedf2bc0cdd7be0423df9bf41"
+  },
+  {
+    "file": "svg/cloud-offline-outline.svg",
+    "hash": "2c24097d7ac19e802dc7ebf958905206"
+  },
+  {
+    "file": "svg/cloud-offline-sharp.svg",
+    "hash": "958ae402b9b18ec71ccffc735ff8c873"
+  },
+  {
+    "file": "svg/cloud-offline.svg",
+    "hash": "32e2d7fbc8a162fb84568bea4bda777a"
+  },
+  {
+    "file": "svg/cloud-outline.svg",
+    "hash": "808ef6445aa619aa715f427b04d017bd"
+  },
+  {
+    "file": "svg/cloud-sharp.svg",
+    "hash": "8838dcd99e6dd1225b38999d803cd976"
+  },
+  {
+    "file": "svg/cloud-upload-outline.svg",
+    "hash": "3ecae0b96725a69a59f224d6f7f179b5"
+  },
+  {
+    "file": "svg/cloud-upload-sharp.svg",
+    "hash": "5978b6f71bd7932f2b1d10531f2065c3"
+  },
+  {
+    "file": "svg/cloud-upload.svg",
+    "hash": "8d2f85ac26011f0b4cefc3b533358e9f"
+  },
+  {
+    "file": "svg/cloud.svg",
+    "hash": "a3ed30a00cd1e5c56d2444c17aa90468"
+  },
+  {
+    "file": "svg/cloudy-night-outline.svg",
+    "hash": "46519d2da178b349387e1709a57ed392"
+  },
+  {
+    "file": "svg/cloudy-night-sharp.svg",
+    "hash": "54b091d0b568b7cdc049043a1189e835"
+  },
+  {
+    "file": "svg/cloudy-night.svg",
+    "hash": "97b9da11d010e1012a733a7722a5f479"
+  },
+  {
+    "file": "svg/cloudy-outline.svg",
+    "hash": "91d51e3a019cf8c80059e6805d3130dd"
+  },
+  {
+    "file": "svg/cloudy-sharp.svg",
+    "hash": "373f1338490be367b97398fb46195669"
+  },
+  {
+    "file": "svg/cloudy.svg",
+    "hash": "38f6ff4121742fed0a0e70903f638fe8"
+  },
+  {
+    "file": "svg/code-download-outline.svg",
+    "hash": "097c79c6bd9b62c5f2dc160087979911"
+  },
+  {
+    "file": "svg/code-download-sharp.svg",
+    "hash": "901b10d01a0aaef4cac15eaef82c08ab"
+  },
+  {
+    "file": "svg/code-download.svg",
+    "hash": "66c2b1f2a5750f0c03f4199ae7c89a61"
+  },
+  {
+    "file": "svg/code-outline.svg",
+    "hash": "8c60985079b114ca4a1f5dc2cb1f864a"
+  },
+  {
+    "file": "svg/code-sharp.svg",
+    "hash": "06ecf26f7a3ee0f4ad8b5bdc1625a68a"
+  },
+  {
+    "file": "svg/code-slash-outline.svg",
+    "hash": "8ba2377d6d362df3c1460f19d62eb36b"
+  },
+  {
+    "file": "svg/code-slash-sharp.svg",
+    "hash": "1056a1bb22d1adb1d4473759311907d5"
+  },
+  {
+    "file": "svg/code-slash.svg",
+    "hash": "5f44f193b80459e1e73f039d38bc1fa6"
+  },
+  {
+    "file": "svg/code-working-outline.svg",
+    "hash": "cf1d8fdc8dfdcc3c3704672ac0b3c8cb"
+  },
+  {
+    "file": "svg/code-working-sharp.svg",
+    "hash": "7d2f6698f3ae74f54a4de8730d2a8585"
+  },
+  {
+    "file": "svg/code-working.svg",
+    "hash": "9e1a9ea379845a2030a60f040d9ab873"
+  },
+  {
+    "file": "svg/code.svg",
+    "hash": "54d90837263ef814d7cda4ed51db407d"
+  },
+  {
+    "file": "svg/cog-outline.svg",
+    "hash": "03a61d7ca1cdb5a3e1d076a27464c131"
+  },
+  {
+    "file": "svg/cog-sharp.svg",
+    "hash": "da177d1894965ec4a4b2661f281fb586"
+  },
+  {
+    "file": "svg/cog.svg",
+    "hash": "331da047018fa5d245e69f1929e044d3"
+  },
+  {
+    "file": "svg/color-fill-outline.svg",
+    "hash": "46deb70c5979e150a09bab18d3f20a08"
+  },
+  {
+    "file": "svg/color-fill-sharp.svg",
+    "hash": "e6a1268f16ec9654ab2f1fb3d553e5f1"
+  },
+  {
+    "file": "svg/color-fill.svg",
+    "hash": "842486487698f47789c07e80664b6fb8"
+  },
+  {
+    "file": "svg/color-filter-outline.svg",
+    "hash": "26acd8275879ed7b7f594b8460e2f89b"
+  },
+  {
+    "file": "svg/color-filter-sharp.svg",
+    "hash": "5545939e4153a0260926269d860309f6"
+  },
+  {
+    "file": "svg/color-filter.svg",
+    "hash": "c77e6b11cc4016dc5ad12676131f55ae"
+  },
+  {
+    "file": "svg/color-palette-outline.svg",
+    "hash": "ef8b60bc6d35545824b253fca7033c83"
+  },
+  {
+    "file": "svg/color-palette-sharp.svg",
+    "hash": "2dc469aa331dc0f6bd647e357fc77021"
+  },
+  {
+    "file": "svg/color-palette.svg",
+    "hash": "7aa71f59e19249b45e8160eeb46618be"
+  },
+  {
+    "file": "svg/color-wand-outline.svg",
+    "hash": "46e671f13fa42577c4ea2076c09c41f5"
+  },
+  {
+    "file": "svg/color-wand-sharp.svg",
+    "hash": "53ff73914b3832398573e35ce050114e"
+  },
+  {
+    "file": "svg/color-wand.svg",
+    "hash": "951fd146ae10a53f15c10fa259725383"
+  },
+  {
+    "file": "svg/compass-outline.svg",
+    "hash": "3d9049e054f9d85a5230340791ab4102"
+  },
+  {
+    "file": "svg/compass-sharp.svg",
+    "hash": "5c5f5b7796299658fb7484ae69c34ed9"
+  },
+  {
+    "file": "svg/compass.svg",
+    "hash": "5abd1512519a066fd902be749b3369a9"
+  },
+  {
+    "file": "svg/construct-outline.svg",
+    "hash": "8403b2e24396c9ccadac5e1ef488d753"
+  },
+  {
+    "file": "svg/construct-sharp.svg",
+    "hash": "2e5d46a096ef424c8c1cd54acb20cd3e"
+  },
+  {
+    "file": "svg/construct.svg",
+    "hash": "aae6ba7a7e77882ec9dc5eead4a337c8"
+  },
+  {
+    "file": "svg/contract-outline.svg",
+    "hash": "8d2311f40843c7dd7498e10f668b7b9a"
+  },
+  {
+    "file": "svg/contract-sharp.svg",
+    "hash": "e8afb5a8d18b81330de79c16b3fc4d52"
+  },
+  {
+    "file": "svg/contract.svg",
+    "hash": "8d2311f40843c7dd7498e10f668b7b9a"
+  },
+  {
+    "file": "svg/contrast-outline.svg",
+    "hash": "70cbb9f4289230849be9bcb8bce94e18"
+  },
+  {
+    "file": "svg/contrast-sharp.svg",
+    "hash": "deb440c8099206652b68e8e06ba41a80"
+  },
+  {
+    "file": "svg/contrast.svg",
+    "hash": "b6d68b7b030692735e6f793bebdf4284"
+  },
+  {
+    "file": "svg/copy-outline.svg",
+    "hash": "b57d5eaa2cd2dd72fa07a6143b90a977"
+  },
+  {
+    "file": "svg/copy-sharp.svg",
+    "hash": "0a1a3aa88e04eac06fd437992d8a17fa"
+  },
+  {
+    "file": "svg/copy.svg",
+    "hash": "931a21eee9d4969d9836659d010a6634"
+  },
+  {
+    "file": "svg/create-outline.svg",
+    "hash": "0a6d9e843842ddc80e5ed5cdff42a49c"
+  },
+  {
+    "file": "svg/create-sharp.svg",
+    "hash": "15cd0ea8f013714aed53e635cc283a89"
+  },
+  {
+    "file": "svg/create.svg",
+    "hash": "91ed377c40314b38a5a3a05da3aff7eb"
+  },
+  {
+    "file": "svg/crop-outline.svg",
+    "hash": "8889cde86e635c1eb008be7898a6a765"
+  },
+  {
+    "file": "svg/crop-sharp.svg",
+    "hash": "f01aecb90c6c59b4d53db0d61130d0ce"
+  },
+  {
+    "file": "svg/crop.svg",
+    "hash": "4c35cab3160873fc390baedc40f3862f"
+  },
+  {
+    "file": "svg/cube-outline.svg",
+    "hash": "a13801b8af3a7e98469b8ff93dae2d28"
+  },
+  {
+    "file": "svg/cube-sharp.svg",
+    "hash": "2382cdb99e60817ee627bb6e27042535"
+  },
+  {
+    "file": "svg/cube.svg",
+    "hash": "fdfe524b4e68a2fa2da4b46d7a63cfb8"
+  },
+  {
+    "file": "svg/cut-outline.svg",
+    "hash": "6af9c9cb82e64298a16f92fb1bd64ad4"
+  },
+  {
+    "file": "svg/cut-sharp.svg",
+    "hash": "7bead8105b9c253399c60c039d81a685"
+  },
+  {
+    "file": "svg/cut.svg",
+    "hash": "c92759095d382fa426c34d0f063e5ddb"
+  },
+  {
+    "file": "svg/desktop-outline.svg",
+    "hash": "323e5ed5376af204e39ce3d6b8781b1e"
+  },
+  {
+    "file": "svg/desktop-sharp.svg",
+    "hash": "61d6b06e3f5c2c98ee4b24d552cd6bfc"
+  },
+  {
+    "file": "svg/desktop.svg",
+    "hash": "f5f2b3c4601a9238577d4e48182fbca5"
+  },
+  {
+    "file": "svg/diamond-outline.svg",
+    "hash": "6aae6f63874193c99ebe92c9a021fd6e"
+  },
+  {
+    "file": "svg/diamond-sharp.svg",
+    "hash": "bc6baf6ec84727e239626049978f1634"
+  },
+  {
+    "file": "svg/diamond.svg",
+    "hash": "edc779bea8ef3c1fde06a76151d52ec8"
+  },
+  {
+    "file": "svg/dice-outline.svg",
+    "hash": "cfd9ef39f6210b4881ad0922871a108b"
+  },
+  {
+    "file": "svg/dice-sharp.svg",
+    "hash": "01da64c7aa7ccf837792a8c7f3945755"
+  },
+  {
+    "file": "svg/dice.svg",
+    "hash": "df4361fee19671705dda2f67d59c2bbb"
+  },
+  {
+    "file": "svg/disc-outline.svg",
+    "hash": "1565a35422eafbc46ee696b97341f54b"
+  },
+  {
+    "file": "svg/disc-sharp.svg",
+    "hash": "ea498f17df5720acf2f56de4a1165baa"
+  },
+  {
+    "file": "svg/disc.svg",
+    "hash": "2f933ce4ab8f0c4a49a7243d0afe6c9b"
+  },
+  {
+    "file": "svg/document-attach-outline.svg",
+    "hash": "905e3e6722a36a7de4071688de1a500f"
+  },
+  {
+    "file": "svg/document-attach-sharp.svg",
+    "hash": "511ccf86e7a041d044e39e27b19f4c19"
+  },
+  {
+    "file": "svg/document-attach.svg",
+    "hash": "2a2e18bde8e2f14983c0dc41e1cd0e4b"
+  },
+  {
+    "file": "svg/document-lock-outline.svg",
+    "hash": "d0e83da52e1d7c4ed0a097a6340e0562"
+  },
+  {
+    "file": "svg/document-lock-sharp.svg",
+    "hash": "3c16bf19d399ec62ec4d08524badd5c9"
+  },
+  {
+    "file": "svg/document-lock.svg",
+    "hash": "3d8c36ce090a03a82aca230097d8bdb5"
+  },
+  {
+    "file": "svg/document-outline.svg",
+    "hash": "1343b6ad387bc2630572531204f0030b"
+  },
+  {
+    "file": "svg/document-sharp.svg",
+    "hash": "cb1e82dff5a3c4b8255ed85cd4284864"
+  },
+  {
+    "file": "svg/document-text-outline.svg",
+    "hash": "87318da290246c754055b9003b61b0a9"
+  },
+  {
+    "file": "svg/document-text-sharp.svg",
+    "hash": "2ad1f1bc57a1d05c753d8ffe73fe5169"
+  },
+  {
+    "file": "svg/document-text.svg",
+    "hash": "5eaec6bea62901487950f421167e90cf"
+  },
+  {
+    "file": "svg/document.svg",
+    "hash": "3c35180d7ece9b447013921b38270082"
+  },
+  {
+    "file": "svg/documents-outline.svg",
+    "hash": "572ba365f6b2413f2cd2615b82076ae4"
+  },
+  {
+    "file": "svg/documents-sharp.svg",
+    "hash": "095e30fb9f3b4da554d1ca60dec37750"
+  },
+  {
+    "file": "svg/documents.svg",
+    "hash": "80e94e808c101d8509f76e2186e6a597"
+  },
+  {
+    "file": "svg/download-outline.svg",
+    "hash": "7cab96ce339e0702b3ca7e6d549816ad"
+  },
+  {
+    "file": "svg/download-sharp.svg",
+    "hash": "44de5ab6c82f6f8d1356c241c1a3b90a"
+  },
+  {
+    "file": "svg/download.svg",
+    "hash": "16e1abd7760797ed1f3fb6c7bdf4e91a"
+  },
+  {
+    "file": "svg/duplicate-outline.svg",
+    "hash": "82f10fb39f536907db8a31b721be12b9"
+  },
+  {
+    "file": "svg/duplicate-sharp.svg",
+    "hash": "6be1906ea0d95dab393bc3ceaaaa3ef8"
+  },
+  {
+    "file": "svg/duplicate.svg",
+    "hash": "d5cddd18c64e5551a94e73dca5f42066"
+  },
+  {
+    "file": "svg/ear-outline.svg",
+    "hash": "fd09b24e95afe7542d27ba93ac6d6645"
+  },
+  {
+    "file": "svg/ear-sharp.svg",
+    "hash": "707d822199417ed089f4158d1258ffdf"
+  },
+  {
+    "file": "svg/ear.svg",
+    "hash": "bdb80f133c449171b726326a41533d1c"
+  },
+  {
+    "file": "svg/earth-outline.svg",
+    "hash": "b2cfd4afe55beec162752e6ae778296c"
+  },
+  {
+    "file": "svg/earth-sharp.svg",
+    "hash": "2064b183d4427a0239b1a89db67819a8"
+  },
+  {
+    "file": "svg/earth.svg",
+    "hash": "73b0eeb922bdb2996a7b14ffaf43ae71"
+  },
+  {
+    "file": "svg/easel-outline.svg",
+    "hash": "6d6fc63c65680c46564fd56a0531ccb9"
+  },
+  {
+    "file": "svg/easel-sharp.svg",
+    "hash": "2ec986f9b275741e914a80e45e97666c"
+  },
+  {
+    "file": "svg/easel.svg",
+    "hash": "a09c8ff14c4f5bb18716f23d4952f516"
+  },
+  {
+    "file": "svg/egg-outline.svg",
+    "hash": "a13e2c26d52bddc0a2ceb94b1d789e9e"
+  },
+  {
+    "file": "svg/egg-sharp.svg",
+    "hash": "fb1372170b629842bdbcaa697db170d1"
+  },
+  {
+    "file": "svg/egg.svg",
+    "hash": "5051fb44024ddeb5666e9d19100db8bd"
+  },
+  {
+    "file": "svg/ellipse-outline.svg",
+    "hash": "1fff68fc856ad2b8848280df89d6ea99"
+  },
+  {
+    "file": "svg/ellipse-sharp.svg",
+    "hash": "979361d6c90c47b706e889126b8f165f"
+  },
+  {
+    "file": "svg/ellipse.svg",
+    "hash": "979361d6c90c47b706e889126b8f165f"
+  },
+  {
+    "file": "svg/ellipsis-horizontal-circle-outline.svg",
+    "hash": "5132fe9fc70293b8be6f1d6c22f0b834"
+  },
+  {
+    "file": "svg/ellipsis-horizontal-circle-sharp.svg",
+    "hash": "cf38b9475c5481112dd076944ddae32c"
+  },
+  {
+    "file": "svg/ellipsis-horizontal-circle.svg",
+    "hash": "5132fe9fc70293b8be6f1d6c22f0b834"
+  },
+  {
+    "file": "svg/ellipsis-horizontal-outline.svg",
+    "hash": "de4ac6d993b94b8da32f44ddc70833cb"
+  },
+  {
+    "file": "svg/ellipsis-horizontal-sharp.svg",
+    "hash": "1330453591b3c509cb279dbccce03cec"
+  },
+  {
+    "file": "svg/ellipsis-horizontal.svg",
+    "hash": "1330453591b3c509cb279dbccce03cec"
+  },
+  {
+    "file": "svg/ellipsis-vertical-circle-outline.svg",
+    "hash": "afc2368db7ba4bdfeae97b15c257ccd8"
+  },
+  {
+    "file": "svg/ellipsis-vertical-circle-sharp.svg",
+    "hash": "6e624c8967914d5ccd0399aad1eb0c92"
+  },
+  {
+    "file": "svg/ellipsis-vertical-circle.svg",
+    "hash": "afc2368db7ba4bdfeae97b15c257ccd8"
+  },
+  {
+    "file": "svg/ellipsis-vertical-outline.svg",
+    "hash": "d26e91807c368ecd1220310c50aa5e1b"
+  },
+  {
+    "file": "svg/ellipsis-vertical-sharp.svg",
+    "hash": "86b6ebdd26f9d3d026ea862ad3f1f596"
+  },
+  {
+    "file": "svg/ellipsis-vertical.svg",
+    "hash": "86b6ebdd26f9d3d026ea862ad3f1f596"
+  },
+  {
+    "file": "svg/enter-outline.svg",
+    "hash": "737c829bf4710c9001bd9abf5a5a3341"
+  },
+  {
+    "file": "svg/enter-sharp.svg",
+    "hash": "64b63a16ca12ea03d3e29ade4e1efced"
+  },
+  {
+    "file": "svg/enter.svg",
+    "hash": "7ff7636b036738bc477ded2f8f92c8e1"
+  },
+  {
+    "file": "svg/exit-outline.svg",
+    "hash": "0bb4cf59cdc013e97afbc469638c0e49"
+  },
+  {
+    "file": "svg/exit-sharp.svg",
+    "hash": "9e042440a84827e231ea36065f35b0c8"
+  },
+  {
+    "file": "svg/exit.svg",
+    "hash": "067423950d8bca9dfc05c261f0395bdf"
+  },
+  {
+    "file": "svg/expand-outline.svg",
+    "hash": "630b237eb8006134a4a85a664f7eb173"
+  },
+  {
+    "file": "svg/expand-sharp.svg",
+    "hash": "be8689b942898bf5ab5f0379ac6eca1b"
+  },
+  {
+    "file": "svg/expand.svg",
+    "hash": "630b237eb8006134a4a85a664f7eb173"
+  },
+  {
+    "file": "svg/extension-puzzle-outline.svg",
+    "hash": "22f333114f6178f3b5fbb69d2a0371da"
+  },
+  {
+    "file": "svg/extension-puzzle-sharp.svg",
+    "hash": "56e8a12f2de829f938c00964d595d463"
+  },
+  {
+    "file": "svg/extension-puzzle.svg",
+    "hash": "5fc8609a27a6cecbc91532a638aa9471"
+  },
+  {
+    "file": "svg/eye-off-outline.svg",
+    "hash": "1f5942388821039f86362e48609e81ef"
+  },
+  {
+    "file": "svg/eye-off-sharp.svg",
+    "hash": "7c8e9f3afd2e08e38452ceb017787b2b"
+  },
+  {
+    "file": "svg/eye-off.svg",
+    "hash": "7b6ed1afe26e210d27bb4e4a9af48902"
+  },
+  {
+    "file": "svg/eye-outline.svg",
+    "hash": "135466197d69ce8dbf17f290eb0d0bf0"
+  },
+  {
+    "file": "svg/eye-sharp.svg",
+    "hash": "ad19700e75d09e5ecace3decae7a3f81"
+  },
+  {
+    "file": "svg/eye.svg",
+    "hash": "a6f8885e8545f160b0575d2fbe42ab5a"
+  },
+  {
+    "file": "svg/eyedrop-outline.svg",
+    "hash": "9696b3fd4edd04c186113ef916bcc8c8"
+  },
+  {
+    "file": "svg/eyedrop-sharp.svg",
+    "hash": "00b3b6e9b0e73e0d108fed7fa864be52"
+  },
+  {
+    "file": "svg/eyedrop.svg",
+    "hash": "80ace25662ae959c1033bd5a74513294"
+  },
+  {
+    "file": "svg/fast-food-outline.svg",
+    "hash": "5ddc87d5e1dc32f608c49fd233f63c33"
+  },
+  {
+    "file": "svg/fast-food-sharp.svg",
+    "hash": "e96ed2f7f1bacff2bfb8523e83089b31"
+  },
+  {
+    "file": "svg/fast-food.svg",
+    "hash": "54d2459a105677c72b443a8cdd9a48bc"
+  },
+  {
+    "file": "svg/female-outline.svg",
+    "hash": "0e7990a1e1e48515ccc79ec9fe1f95f3"
+  },
+  {
+    "file": "svg/female-sharp.svg",
+    "hash": "335ad50a85baa488f9efdf3f8e24e705"
+  },
+  {
+    "file": "svg/female.svg",
+    "hash": "1c0adb4f67a1a5d7b54d01923176e4e1"
+  },
+  {
+    "file": "svg/file-tray-full-outline.svg",
+    "hash": "56f9f10262a8e9ef60c3d08750d11095"
+  },
+  {
+    "file": "svg/file-tray-full-sharp.svg",
+    "hash": "3ccb44e87e47a9124d7b11281fdccd63"
+  },
+  {
+    "file": "svg/file-tray-full.svg",
+    "hash": "a20f2777d85078791959dd7a19c8c49a"
+  },
+  {
+    "file": "svg/file-tray-outline.svg",
+    "hash": "6034ffb2f82799c09084c2f6fbf01bb2"
+  },
+  {
+    "file": "svg/file-tray-sharp.svg",
+    "hash": "5c2f6658d06a0fb2069c69ea84c4e5e8"
+  },
+  {
+    "file": "svg/file-tray-stacked-outline.svg",
+    "hash": "f54de522dce27b9422be3fcb398a756b"
+  },
+  {
+    "file": "svg/file-tray-stacked-sharp.svg",
+    "hash": "d6af56f52db2ac1ca17dd1cf4248cec9"
+  },
+  {
+    "file": "svg/file-tray-stacked.svg",
+    "hash": "b702adc17a7f9da27970df48598cc5f8"
+  },
+  {
+    "file": "svg/file-tray.svg",
+    "hash": "2b036c2ede2924cac53b80c319fbd29d"
+  },
+  {
+    "file": "svg/film-outline.svg",
+    "hash": "280e152ba0ca624427d13179df457718"
+  },
+  {
+    "file": "svg/film-sharp.svg",
+    "hash": "e3054def1238bfbaff7fafb02a8ba9aa"
+  },
+  {
+    "file": "svg/film.svg",
+    "hash": "209b35ea52d963bfe1570c637d4d5b85"
+  },
+  {
+    "file": "svg/filter-circle-outline.svg",
+    "hash": "2e2a624bae8e10663a7e0b9a86aeef3f"
+  },
+  {
+    "file": "svg/filter-circle-sharp.svg",
+    "hash": "ed9733313323741a74e9b3c8b5b5d818"
+  },
+  {
+    "file": "svg/filter-circle.svg",
+    "hash": "b79a26524f33a0d922edf583e5634f85"
+  },
+  {
+    "file": "svg/filter-outline.svg",
+    "hash": "28dfb74c745c1151a7249814b948c454"
+  },
+  {
+    "file": "svg/filter-sharp.svg",
+    "hash": "ae7a3a9a24a33008daef0ff82c2966f1"
+  },
+  {
+    "file": "svg/filter.svg",
+    "hash": "540997da0ac27d76c85cdd5e992a7efd"
+  },
+  {
+    "file": "svg/finger-print-outline.svg",
+    "hash": "4f0a2b46d2fdccf55e98355989b0efc4"
+  },
+  {
+    "file": "svg/finger-print-sharp.svg",
+    "hash": "6f7106cc203ddf5ae9514229f2ccb19c"
+  },
+  {
+    "file": "svg/finger-print.svg",
+    "hash": "c3bb9c37783dcc3acb34d45bd0153e3a"
+  },
+  {
+    "file": "svg/fish-outline.svg",
+    "hash": "24e838f88b4186fc6285caf88723879a"
+  },
+  {
+    "file": "svg/fish-sharp.svg",
+    "hash": "e1d21524e6d12ff4c7b8d18652659811"
+  },
+  {
+    "file": "svg/fish.svg",
+    "hash": "d7b88b741a5bbc5a24154510fc18eb0d"
+  },
+  {
+    "file": "svg/fitness-outline.svg",
+    "hash": "b2e7058dce52a0b8130febf694d76183"
+  },
+  {
+    "file": "svg/fitness-sharp.svg",
+    "hash": "e70613f2c52061f73a4bf07ac1fd47bf"
+  },
+  {
+    "file": "svg/fitness.svg",
+    "hash": "94a81052bcc486ed76af4e76087368fa"
+  },
+  {
+    "file": "svg/flag-outline.svg",
+    "hash": "8195c210bf86c0e9f08db02485707ac6"
+  },
+  {
+    "file": "svg/flag-sharp.svg",
+    "hash": "ebca7fb96b4c543993db9b8b8f65910d"
+  },
+  {
+    "file": "svg/flag.svg",
+    "hash": "ed15cb15f0ec41523f1119fc4cabd55c"
+  },
+  {
+    "file": "svg/flame-outline.svg",
+    "hash": "ca1a46eb912fb2b9ab26f78a46f3535e"
+  },
+  {
+    "file": "svg/flame-sharp.svg",
+    "hash": "d78ba9c7f4976a7b6c1af5dcd49cc7c7"
+  },
+  {
+    "file": "svg/flame.svg",
+    "hash": "48c76c3da6133ec46cbfb97ccb1b02e0"
+  },
+  {
+    "file": "svg/flash-off-outline.svg",
+    "hash": "0a5398c76ea503b59cdd9663c8388492"
+  },
+  {
+    "file": "svg/flash-off-sharp.svg",
+    "hash": "14be2fc40b1c0a6fe2886f9639865401"
+  },
+  {
+    "file": "svg/flash-off.svg",
+    "hash": "e62d21b148ac99690bf777d6c7c4a8a8"
+  },
+  {
+    "file": "svg/flash-outline.svg",
+    "hash": "8961df052dd885818099574f03c158f7"
+  },
+  {
+    "file": "svg/flash-sharp.svg",
+    "hash": "5ffc25a5490cbd575e00524b647b3821"
+  },
+  {
+    "file": "svg/flash.svg",
+    "hash": "c085779e83482c4b3978ceb65ae0b351"
+  },
+  {
+    "file": "svg/flashlight-outline.svg",
+    "hash": "1f6d25fefae7b10850c640f32fc4061d"
+  },
+  {
+    "file": "svg/flashlight-sharp.svg",
+    "hash": "ae3192e0a898d6b7714110829b0f39e3"
+  },
+  {
+    "file": "svg/flashlight.svg",
+    "hash": "e1eeccceebf78bd4344917aa96081c3c"
+  },
+  {
+    "file": "svg/flask-outline.svg",
+    "hash": "7b95107afdd324323d1ce3515ba1dd62"
+  },
+  {
+    "file": "svg/flask-sharp.svg",
+    "hash": "eb0e3ff9a95377aebeeb85be238b555c"
+  },
+  {
+    "file": "svg/flask.svg",
+    "hash": "8fc2ccfab2f40c1e6d7f7dae3cecdfa7"
+  },
+  {
+    "file": "svg/flower-outline.svg",
+    "hash": "49b0474aa1512f2fa57a494b7ca6ad92"
+  },
+  {
+    "file": "svg/flower-sharp.svg",
+    "hash": "72f8123037563fc26725c81ed2d17e9f"
+  },
+  {
+    "file": "svg/flower.svg",
+    "hash": "eb03be87f827ff4a3efcafa4d1d6a5fb"
+  },
+  {
+    "file": "svg/folder-open-outline.svg",
+    "hash": "f0373bb9ced8f5fef9c699a3b894f8cd"
+  },
+  {
+    "file": "svg/folder-open-sharp.svg",
+    "hash": "9d3a732e1e5cd18ffb9f5422279d87c2"
+  },
+  {
+    "file": "svg/folder-open.svg",
+    "hash": "eff89bc7880a646cce196fc5135eb041"
+  },
+  {
+    "file": "svg/folder-outline.svg",
+    "hash": "61cda7d309683f3779364fe5157b0ebc"
+  },
+  {
+    "file": "svg/folder-sharp.svg",
+    "hash": "8d70d7c334d613e1ea6afca63aef0d67"
+  },
+  {
+    "file": "svg/folder.svg",
+    "hash": "1c801f56f5c2c4ec073fedd91031f794"
+  },
+  {
+    "file": "svg/football-outline.svg",
+    "hash": "095cadf941086909f66b2cded4f82b63"
+  },
+  {
+    "file": "svg/football-sharp.svg",
+    "hash": "b9f4c1be4724a2c7078b3896a7868c2e"
+  },
+  {
+    "file": "svg/football.svg",
+    "hash": "7bf9e30cab32c9bbfee6c98bd28a0d4d"
+  },
+  {
+    "file": "svg/footsteps-outline.svg",
+    "hash": "7af2f9ba0998fd3fe3798c18eee4cd23"
+  },
+  {
+    "file": "svg/footsteps-sharp.svg",
+    "hash": "9cfec7dde0d898c28c0ec4025c4650d4"
+  },
+  {
+    "file": "svg/footsteps.svg",
+    "hash": "eb28f3009831138ccc1fb9b5f1fc8f77"
+  },
+  {
+    "file": "svg/funnel-outline.svg",
+    "hash": "e8d43c34676ecfb68b2737b52d8d372f"
+  },
+  {
+    "file": "svg/funnel-sharp.svg",
+    "hash": "0ac9d9861465dac8af097be1e3f74bce"
+  },
+  {
+    "file": "svg/funnel.svg",
+    "hash": "ec89979a454f79a32d5bfabc0b71427d"
+  },
+  {
+    "file": "svg/game-controller-outline.svg",
+    "hash": "1d024c198eab3ae617e956ec29567b00"
+  },
+  {
+    "file": "svg/game-controller-sharp.svg",
+    "hash": "7c04a314403cfdbf7eb32741487f866c"
+  },
+  {
+    "file": "svg/game-controller.svg",
+    "hash": "80c3810a1454c6add3a8e87d0bd71ffa"
+  },
+  {
+    "file": "svg/gift-outline.svg",
+    "hash": "95bffc8a1124db4c59f3522771b87bd5"
+  },
+  {
+    "file": "svg/gift-sharp.svg",
+    "hash": "036e386da393b18688a1459a66cede01"
+  },
+  {
+    "file": "svg/gift.svg",
+    "hash": "c3922b0f25dfe4436a766e0111c6459f"
+  },
+  {
+    "file": "svg/git-branch-outline.svg",
+    "hash": "244e3e0d462c59cdd59d73922a26fd7b"
+  },
+  {
+    "file": "svg/git-branch-sharp.svg",
+    "hash": "1d6821194229fca41860f9750829add3"
+  },
+  {
+    "file": "svg/git-branch.svg",
+    "hash": "5d45493df9d3f5cc6e0b937c52e92c63"
+  },
+  {
+    "file": "svg/git-commit-outline.svg",
+    "hash": "254a6f31198a644489f78c2ae745f79a"
+  },
+  {
+    "file": "svg/git-commit-sharp.svg",
+    "hash": "65265260f8156b5c0a8cb2976bead6c9"
+  },
+  {
+    "file": "svg/git-commit.svg",
+    "hash": "9d2d6559d09e3bf4d551026022cfe5db"
+  },
+  {
+    "file": "svg/git-compare-outline.svg",
+    "hash": "a9579ea0e77704c2ae5f0d9ec3cb15e9"
+  },
+  {
+    "file": "svg/git-compare-sharp.svg",
+    "hash": "2bb9a3c32b6bb43a22e278d29b57cd43"
+  },
+  {
+    "file": "svg/git-compare.svg",
+    "hash": "01414cd8feea88afcbea2f19ca50f9ae"
+  },
+  {
+    "file": "svg/git-merge-outline.svg",
+    "hash": "75d1cb5137d1cd715bcd0eb65f9a3ead"
+  },
+  {
+    "file": "svg/git-merge-sharp.svg",
+    "hash": "c7b1313b337964e8d13d73ce5af4e915"
+  },
+  {
+    "file": "svg/git-merge.svg",
+    "hash": "794af5e60ae722e094d45ae9a1e4b34d"
+  },
+  {
+    "file": "svg/git-network-outline.svg",
+    "hash": "2737914253a159b832ad5397b26bd8e5"
+  },
+  {
+    "file": "svg/git-network-sharp.svg",
+    "hash": "6e6180b07e6807a30ff787da348ee543"
+  },
+  {
+    "file": "svg/git-network.svg",
+    "hash": "4556f1ffee629dec5303fcdc311eef47"
+  },
+  {
+    "file": "svg/git-pull-request-outline.svg",
+    "hash": "e8b76c2364f318f95e7e3497b1884020"
+  },
+  {
+    "file": "svg/git-pull-request-sharp.svg",
+    "hash": "5c8c59739f71d02746c6e5380cd424bb"
+  },
+  {
+    "file": "svg/git-pull-request.svg",
+    "hash": "4f35ac46558a9e895436f2350a149340"
+  },
+  {
+    "file": "svg/glasses-outline.svg",
+    "hash": "262a1e3c9caab1176b19d8aec55d35d6"
+  },
+  {
+    "file": "svg/glasses-sharp.svg",
+    "hash": "e0a0c1ece989b05075cf710f5bc5a610"
+  },
+  {
+    "file": "svg/glasses.svg",
+    "hash": "8de3147613d108385e6b966306873ee0"
+  },
+  {
+    "file": "svg/globe-outline.svg",
+    "hash": "79708de755aaece9ff85d03f51cc33eb"
+  },
+  {
+    "file": "svg/globe-sharp.svg",
+    "hash": "9443efeaafbd1ef3be6c92757d6a12d3"
+  },
+  {
+    "file": "svg/globe.svg",
+    "hash": "8f07669bc182022c065581cbfd057558"
+  },
+  {
+    "file": "svg/golf-outline.svg",
+    "hash": "c84916123fff1fdaf88ec55502763a67"
+  },
+  {
+    "file": "svg/golf-sharp.svg",
+    "hash": "e1bcc3a2d62b1dcb4269bbaddccd27b5"
+  },
+  {
+    "file": "svg/golf.svg",
+    "hash": "5a116ad8d11268c3aa704f120b67bb9a"
+  },
+  {
+    "file": "svg/grid-outline.svg",
+    "hash": "99d609fa84f15ad5bb6bb55c80291d9a"
+  },
+  {
+    "file": "svg/grid-sharp.svg",
+    "hash": "250810643a8009f5623fd2989e7142e1"
+  },
+  {
+    "file": "svg/grid.svg",
+    "hash": "c82dbf2933b27c61b25ba939373e05ad"
+  },
+  {
+    "file": "svg/hammer-outline.svg",
+    "hash": "de2824335474ab30c8e7066f66adfa04"
+  },
+  {
+    "file": "svg/hammer-sharp.svg",
+    "hash": "f1156f57e64938b55673e9ccd737030b"
+  },
+  {
+    "file": "svg/hammer.svg",
+    "hash": "68a887cb6a605dea4ad937523bba5e3f"
+  },
+  {
+    "file": "svg/hand-left-outline.svg",
+    "hash": "6787a87de346a84e9b9630b2a2001d22"
+  },
+  {
+    "file": "svg/hand-left-sharp.svg",
+    "hash": "4352e81cedcbf8215b6f22fa8ab18c3f"
+  },
+  {
+    "file": "svg/hand-left.svg",
+    "hash": "47fd48ba52ce2529267a75ccc981c3c5"
+  },
+  {
+    "file": "svg/hand-right-outline.svg",
+    "hash": "e09b9df574dbd7856a77147d0a041e4f"
+  },
+  {
+    "file": "svg/hand-right-sharp.svg",
+    "hash": "ee91077fc59676d29fae05d85fc4b68d"
+  },
+  {
+    "file": "svg/hand-right.svg",
+    "hash": "d38338986c5b4667605b674cc4f7638a"
+  },
+  {
+    "file": "svg/happy-outline.svg",
+    "hash": "597eabb58f541e8939d31482cc0dcf1d"
+  },
+  {
+    "file": "svg/happy-sharp.svg",
+    "hash": "3d4e44ea2e8cc2eff6e1c997ce889fb0"
+  },
+  {
+    "file": "svg/happy.svg",
+    "hash": "60667bdbc5980fb55d72197cebc57856"
+  },
+  {
+    "file": "svg/hardware-chip-outline.svg",
+    "hash": "5056457faf46526a237379d120e5320d"
+  },
+  {
+    "file": "svg/hardware-chip-sharp.svg",
+    "hash": "61299a157a039207b782a5c45fc73288"
+  },
+  {
+    "file": "svg/hardware-chip.svg",
+    "hash": "ab386e35209edc6dd7a925ff361ebe68"
+  },
+  {
+    "file": "svg/headset-outline.svg",
+    "hash": "b15d988a00609d79ef1244bca73beddb"
+  },
+  {
+    "file": "svg/headset-sharp.svg",
+    "hash": "ee720922b79e68ddf105fb3c79eaca62"
+  },
+  {
+    "file": "svg/headset.svg",
+    "hash": "8d1aa9678edc2939c0de0aaf8723c042"
+  },
+  {
+    "file": "svg/heart-circle-outline.svg",
+    "hash": "bfc9ad081903061c79a0c581f72ffabf"
+  },
+  {
+    "file": "svg/heart-circle-sharp.svg",
+    "hash": "af5fd72bd280ef91a6e9be4d43bacb93"
+  },
+  {
+    "file": "svg/heart-circle.svg",
+    "hash": "2fc587325e8990270588a3ca2ed53655"
+  },
+  {
+    "file": "svg/heart-dislike-circle-outline.svg",
+    "hash": "6e3d4d23cea27789e4f8563fdcf45a06"
+  },
+  {
+    "file": "svg/heart-dislike-circle-sharp.svg",
+    "hash": "ae145b2e2dbbaeb8575e085b3af3ec7f"
+  },
+  {
+    "file": "svg/heart-dislike-circle.svg",
+    "hash": "fca6202bc6c5fe973e83ad78125c7826"
+  },
+  {
+    "file": "svg/heart-dislike-outline.svg",
+    "hash": "908f1515619cd669025d222a73b414d5"
+  },
+  {
+    "file": "svg/heart-dislike-sharp.svg",
+    "hash": "c124f45d3a1e0a3ec444f95b8a8c457f"
+  },
+  {
+    "file": "svg/heart-dislike.svg",
+    "hash": "f8dee7c2680d34f88c72cab58ef375d0"
+  },
+  {
+    "file": "svg/heart-half-outline.svg",
+    "hash": "b69c6772941dc969fad6fdda5ade17a5"
+  },
+  {
+    "file": "svg/heart-half-sharp.svg",
+    "hash": "9870f8cf4cdb5c8a49e9c0ef53c4e131"
+  },
+  {
+    "file": "svg/heart-half.svg",
+    "hash": "b69c6772941dc969fad6fdda5ade17a5"
+  },
+  {
+    "file": "svg/heart-outline.svg",
+    "hash": "16d9bc785e31ec5bfb42521903072c59"
+  },
+  {
+    "file": "svg/heart-sharp.svg",
+    "hash": "068906244e0a85f49d412ade81ad6d7b"
+  },
+  {
+    "file": "svg/heart.svg",
+    "hash": "897222f8e73e78946fa551de8def8077"
+  },
+  {
+    "file": "svg/help-buoy-outline.svg",
+    "hash": "2fffc04d6bca2707091c62cd76754fc0"
+  },
+  {
+    "file": "svg/help-buoy-sharp.svg",
+    "hash": "e4c2fdb9205b5c2acc0e593cce2f2933"
+  },
+  {
+    "file": "svg/help-buoy.svg",
+    "hash": "65f4aeebc0cd2cc3e2684949adc96a04"
+  },
+  {
+    "file": "svg/help-circle-outline.svg",
+    "hash": "322a6b68d877a6190d4b380768bdc867"
+  },
+  {
+    "file": "svg/help-circle-sharp.svg",
+    "hash": "f796ea8328424ae802a39a600bdb61b7"
+  },
+  {
+    "file": "svg/help-circle.svg",
+    "hash": "a6cf57e911a9923ac1fa52ab12348b10"
+  },
+  {
+    "file": "svg/help-outline.svg",
+    "hash": "9872b2ef8f078d046ccbe6b01eaae89d"
+  },
+  {
+    "file": "svg/help-sharp.svg",
+    "hash": "3cf58c46eb8ded76d0aab85d4098625e"
+  },
+  {
+    "file": "svg/help.svg",
+    "hash": "9872b2ef8f078d046ccbe6b01eaae89d"
+  },
+  {
+    "file": "svg/home-outline.svg",
+    "hash": "c7d14bf8bc6152ff6d2c105ee3f09b4a"
+  },
+  {
+    "file": "svg/home-sharp.svg",
+    "hash": "5b3b40a016afbf1d5498bf05b7780d05"
+  },
+  {
+    "file": "svg/home.svg",
+    "hash": "c70080e69060dd63e8c02776e2c920e2"
+  },
+  {
+    "file": "svg/hourglass-outline.svg",
+    "hash": "1aec46a9cddb3b134dde983a612f8eec"
+  },
+  {
+    "file": "svg/hourglass-sharp.svg",
+    "hash": "06be662a666e6ebd7ad7265a681ba117"
+  },
+  {
+    "file": "svg/hourglass.svg",
+    "hash": "9899a08aa0337488e73bf17cd5ab9eb2"
+  },
+  {
+    "file": "svg/ice-cream-outline.svg",
+    "hash": "bf91a58d775506d6566e7e71ddfc2034"
+  },
+  {
+    "file": "svg/ice-cream-sharp.svg",
+    "hash": "cc2b8a2ed1b5e43d0bc22b5d2ab7e1a7"
+  },
+  {
+    "file": "svg/ice-cream.svg",
+    "hash": "d6aa82c972524d4b4685ed7e0326089f"
+  },
+  {
+    "file": "svg/id-card-outline.svg",
+    "hash": "a000b806829d6ceaecd191ae7bbd141f"
+  },
+  {
+    "file": "svg/id-card-sharp.svg",
+    "hash": "815258813f6a56238962b0e1161aefb1"
+  },
+  {
+    "file": "svg/id-card.svg",
+    "hash": "d1d49c9887ba5a544feeba6618002653"
+  },
+  {
+    "file": "svg/image-outline.svg",
+    "hash": "92737fb1eaeecf26814858d4f9c287a5"
+  },
+  {
+    "file": "svg/image-sharp.svg",
+    "hash": "f3d01e083c70bd6d49473c5239a4052f"
+  },
+  {
+    "file": "svg/image.svg",
+    "hash": "acbf6ea1f43451025717a3b35ae99865"
+  },
+  {
+    "file": "svg/images-outline.svg",
+    "hash": "b1a6d8ee75713ce507f4642e9d5285d6"
+  },
+  {
+    "file": "svg/images-sharp.svg",
+    "hash": "d3712d892ca05e61c00aa64f51be4478"
+  },
+  {
+    "file": "svg/images.svg",
+    "hash": "3a2f69d7952be431fa906a779f4fdaf0"
+  },
+  {
+    "file": "svg/infinite-outline.svg",
+    "hash": "39bd966540d1093cab9851216e3a2cb8"
+  },
+  {
+    "file": "svg/infinite-sharp.svg",
+    "hash": "ef8f0c6f40412cdb8be2aa7a23e754fd"
+  },
+  {
+    "file": "svg/infinite.svg",
+    "hash": "ea2a8e885f8059e58bf57b5c895b8aa3"
+  },
+  {
+    "file": "svg/information-circle-outline.svg",
+    "hash": "8fe3c7f17492ceb372c52a3c50182d99"
+  },
+  {
+    "file": "svg/information-circle-sharp.svg",
+    "hash": "04934ae24e953f4bb124339a52520ae0"
+  },
+  {
+    "file": "svg/information-circle.svg",
+    "hash": "c7c1737431c60cc2e24a17f47e6068cb"
+  },
+  {
+    "file": "svg/information-outline.svg",
+    "hash": "394027e27e8eebf25e868cb7da6bf75f"
+  },
+  {
+    "file": "svg/information-sharp.svg",
+    "hash": "5298bcfa1ae4db317d09952efeecfc09"
+  },
+  {
+    "file": "svg/information.svg",
+    "hash": "394027e27e8eebf25e868cb7da6bf75f"
+  },
+  {
+    "file": "svg/invert-mode-outline.svg",
+    "hash": "e147443d93b137981666f52592fdd3f6"
+  },
+  {
+    "file": "svg/invert-mode-sharp.svg",
+    "hash": "66eb08a5e13a5c866a5e3d05335a0460"
+  },
+  {
+    "file": "svg/invert-mode.svg",
+    "hash": "777fe7909c3c44833421010be9acae08"
+  },
+  {
+    "file": "svg/journal-outline.svg",
+    "hash": "98ae0e23fa7afb5c7566abe79f964969"
+  },
+  {
+    "file": "svg/journal-sharp.svg",
+    "hash": "b75e5c495ad71f10b7fac70d4fbbcead"
+  },
+  {
+    "file": "svg/journal.svg",
+    "hash": "8df91a69f54d50091173974b2ecab97b"
+  },
+  {
+    "file": "svg/key-outline.svg",
+    "hash": "6136c50c4155ba934e314bed227a9a5b"
+  },
+  {
+    "file": "svg/key-sharp.svg",
+    "hash": "0f7074166db7a8b5ea7d7922ce708e3f"
+  },
+  {
+    "file": "svg/key.svg",
+    "hash": "e5b3cebc96549eedac4c27590bb6d154"
+  },
+  {
+    "file": "svg/keypad-outline.svg",
+    "hash": "544ca4d0c53b01fe161f88fcf53fd18e"
+  },
+  {
+    "file": "svg/keypad-sharp.svg",
+    "hash": "af75bb44fbb2307e17c1bfd2fb794524"
+  },
+  {
+    "file": "svg/keypad.svg",
+    "hash": "fd57cbc94b0209a734b3011736c84113"
+  },
+  {
+    "file": "svg/language-outline.svg",
+    "hash": "cb85f85eb9cc7f0f24fa43d92dc799bf"
+  },
+  {
+    "file": "svg/language-sharp.svg",
+    "hash": "a089559fe332206dc0df60ae15f19737"
+  },
+  {
+    "file": "svg/language.svg",
+    "hash": "d0053417117c6f07c58a1812c51cfad2"
+  },
+  {
+    "file": "svg/laptop-outline.svg",
+    "hash": "3188ce7d6875cd279a83d735c2a45350"
+  },
+  {
+    "file": "svg/laptop-sharp.svg",
+    "hash": "4fd2d688c487b0e769b3236b2c8db564"
+  },
+  {
+    "file": "svg/laptop.svg",
+    "hash": "fe509b26671341a306b554bcc49f05fd"
+  },
+  {
+    "file": "svg/layers-outline.svg",
+    "hash": "7f3a29a28f019943339035b172e4bf62"
+  },
+  {
+    "file": "svg/layers-sharp.svg",
+    "hash": "7bfe1e4e92d00d945b0d8e788a26dcc8"
+  },
+  {
+    "file": "svg/layers.svg",
+    "hash": "b15d258b2b212e3e40e361a9d59efe31"
+  },
+  {
+    "file": "svg/leaf-outline.svg",
+    "hash": "9fe3484641be7a271ba7334272748ab9"
+  },
+  {
+    "file": "svg/leaf-sharp.svg",
+    "hash": "109a8302c910c445d2067359c441519d"
+  },
+  {
+    "file": "svg/leaf.svg",
+    "hash": "b2d51d1e7576cabe51932e69a12f7c92"
+  },
+  {
+    "file": "svg/library-outline.svg",
+    "hash": "2b32bcb19f351f38f4c64a75aab31f0c"
+  },
+  {
+    "file": "svg/library-sharp.svg",
+    "hash": "d4707f0d1e2093fb898a3a853df0adba"
+  },
+  {
+    "file": "svg/library.svg",
+    "hash": "51fff8b812cfbbc8627a52aee4d13221"
+  },
+  {
+    "file": "svg/link-outline.svg",
+    "hash": "71fb77aefa360bab6b3413478ed43309"
+  },
+  {
+    "file": "svg/link-sharp.svg",
+    "hash": "f6cff33124f2b2674bf43cf1cd6c676a"
+  },
+  {
+    "file": "svg/link.svg",
+    "hash": "6f19607558b23bfea136f51cf30b52c7"
+  },
+  {
+    "file": "svg/list-circle-outline.svg",
+    "hash": "51b6691f6326140a6f9f1ed5c262998f"
+  },
+  {
+    "file": "svg/list-circle-sharp.svg",
+    "hash": "8d1809826d56712cae25f8cf8c2e606f"
+  },
+  {
+    "file": "svg/list-circle.svg",
+    "hash": "465c52d3d24c49095191aa940281a94b"
+  },
+  {
+    "file": "svg/list-outline.svg",
+    "hash": "3f4bb35ef48b6b049f719bf487848c64"
+  },
+  {
+    "file": "svg/list-sharp.svg",
+    "hash": "66b672a4ddd536ef9744ad9a72a84e6a"
+  },
+  {
+    "file": "svg/list.svg",
+    "hash": "a90ee02056e707ea49e2564cd6d505bd"
+  },
+  {
+    "file": "svg/locate-outline.svg",
+    "hash": "acf32f35f0d4c9cdbb2ac062fa37d253"
+  },
+  {
+    "file": "svg/locate-sharp.svg",
+    "hash": "05f0c39a0f8e64d4978d61a873714995"
+  },
+  {
+    "file": "svg/locate.svg",
+    "hash": "e00b44336d76c28180ecf343650c9a1f"
+  },
+  {
+    "file": "svg/location-outline.svg",
+    "hash": "d30d01e698bda879e2783e60e3c29b5a"
+  },
+  {
+    "file": "svg/location-sharp.svg",
+    "hash": "478574af75415376f1a2c4f1d115f620"
+  },
+  {
+    "file": "svg/location.svg",
+    "hash": "e674fc1bfab82ebf35b6758324a8cd72"
+  },
+  {
+    "file": "svg/lock-closed-outline.svg",
+    "hash": "0b82f79f5f6834e932d085420ea701a5"
+  },
+  {
+    "file": "svg/lock-closed-sharp.svg",
+    "hash": "672fdbbe8ecbab0fdaa2511b7fb9e6f2"
+  },
+  {
+    "file": "svg/lock-closed.svg",
+    "hash": "03f7b586a59b4b21b408add27b6713c2"
+  },
+  {
+    "file": "svg/lock-open-outline.svg",
+    "hash": "8e4405c18583fcbc3a2b28ea26ebeee7"
+  },
+  {
+    "file": "svg/lock-open-sharp.svg",
+    "hash": "9312307b6c3f6820719993e18b9189cb"
+  },
+  {
+    "file": "svg/lock-open.svg",
+    "hash": "5b6d132cd7fb41d758a7eb1fb5106932"
+  },
+  {
+    "file": "svg/log-in-outline.svg",
+    "hash": "f874ed3e78d245f54221b3033119811d"
+  },
+  {
+    "file": "svg/log-in-sharp.svg",
+    "hash": "a087ca733ef70128bc09f81acefcd29c"
+  },
+  {
+    "file": "svg/log-in.svg",
+    "hash": "8f9443bc16b0f0eb6e5d3f39a7b591b5"
+  },
+  {
+    "file": "svg/log-out-outline.svg",
+    "hash": "e9b5b187ac7901942593a3c87d3d37f3"
+  },
+  {
+    "file": "svg/log-out-sharp.svg",
+    "hash": "5dd1b184e998d0c415d8688d57725721"
+  },
+  {
+    "file": "svg/log-out.svg",
+    "hash": "0ca77806803bc1f2044609e65f523dae"
+  },
+  {
+    "file": "svg/logo-alipay.svg",
+    "hash": "0e1eb2709e291a5c3ecaaa100be44770"
+  },
+  {
+    "file": "svg/logo-amazon.svg",
+    "hash": "eaaa8ba100db683015c5ff170841fd9b"
+  },
+  {
+    "file": "svg/logo-amplify.svg",
+    "hash": "dc536535d43193b873cec8acd08c0e09"
+  },
+  {
+    "file": "svg/logo-android.svg",
+    "hash": "a84aecb0f064804d0309c74748a8c71c"
+  },
+  {
+    "file": "svg/logo-angular.svg",
+    "hash": "f468d5c5df4a5ed107080fc116be9d69"
+  },
+  {
+    "file": "svg/logo-apple-appstore.svg",
+    "hash": "5b3bfa91cc527b1f167be59342507b8f"
+  },
+  {
+    "file": "svg/logo-apple-ar.svg",
+    "hash": "1385dec62ddcab7cd832328772a60124"
+  },
+  {
+    "file": "svg/logo-apple.svg",
+    "hash": "85d78159afcf70d57b8589a578deaa20"
+  },
+  {
+    "file": "svg/logo-behance.svg",
+    "hash": "e15cdde386a0cef7e0fa31db5847c848"
+  },
+  {
+    "file": "svg/logo-bitbucket.svg",
+    "hash": "fabad6afe8f6627bd41fa2c29ec65ba1"
+  },
+  {
+    "file": "svg/logo-bitcoin.svg",
+    "hash": "b2cad0fd1164044359c0f5749ddf5912"
+  },
+  {
+    "file": "svg/logo-buffer.svg",
+    "hash": "bf71a91ced48946c42d24a2785af3b8e"
+  },
+  {
+    "file": "svg/logo-capacitor.svg",
+    "hash": "f4a72c62300ee8c2a0bf463daabf4675"
+  },
+  {
+    "file": "svg/logo-chrome.svg",
+    "hash": "5a51100f5a855a9c8118d77d43a361e2"
+  },
+  {
+    "file": "svg/logo-closed-captioning.svg",
+    "hash": "2551669e6a9dc6d622e33e126fbd57cd"
+  },
+  {
+    "file": "svg/logo-codepen.svg",
+    "hash": "ad2855ae2b9f9bf985d5403488e32a2d"
+  },
+  {
+    "file": "svg/logo-css3.svg",
+    "hash": "587cc2ad57ad89843481c5bd3046c539"
+  },
+  {
+    "file": "svg/logo-designernews.svg",
+    "hash": "7479d29b4feb7af21e490e93aad82503"
+  },
+  {
+    "file": "svg/logo-deviantart.svg",
+    "hash": "b3747f68ca50a32524f5d2422fd29cf8"
+  },
+  {
+    "file": "svg/logo-discord.svg",
+    "hash": "b9a47db91cbc4ca2bcf351fd189c28d0"
+  },
+  {
+    "file": "svg/logo-docker.svg",
+    "hash": "e6b94900c4dfd7d4fbcecda8f5022582"
+  },
+  {
+    "file": "svg/logo-dribbble.svg",
+    "hash": "5f74818b1c7a10f451cf6410778aa37f"
+  },
+  {
+    "file": "svg/logo-dropbox.svg",
+    "hash": "b337fe462cf0f2aefa82fc2c7ca9cc08"
+  },
+  {
+    "file": "svg/logo-edge.svg",
+    "hash": "d31d0d58d78fd0d3d3f1a80341329667"
+  },
+  {
+    "file": "svg/logo-electron.svg",
+    "hash": "369adc8bf214e50d3945fa6e5aa81c76"
+  },
+  {
+    "file": "svg/logo-euro.svg",
+    "hash": "0f637b4705fd601933825efc6ea22801"
+  },
+  {
+    "file": "svg/logo-facebook.svg",
+    "hash": "988c4574aa6b82842b4b8f592c704444"
+  },
+  {
+    "file": "svg/logo-figma.svg",
+    "hash": "aad8c78c8fbda6c98fe9dd2f14f45b1f"
+  },
+  {
+    "file": "svg/logo-firebase.svg",
+    "hash": "01560b7fb4a038324638fb5a588848c4"
+  },
+  {
+    "file": "svg/logo-firefox.svg",
+    "hash": "6b8415c0605900cc4e14a95786cbf36a"
+  },
+  {
+    "file": "svg/logo-flickr.svg",
+    "hash": "e4c46f2d62997c6799ee97bd1fb022e6"
+  },
+  {
+    "file": "svg/logo-foursquare.svg",
+    "hash": "ede33edf66299d0325595329d50c7ad7"
+  },
+  {
+    "file": "svg/logo-github.svg",
+    "hash": "ecaefd058c8b50de9e3070d4abab72e9"
+  },
+  {
+    "file": "svg/logo-gitlab.svg",
+    "hash": "6e8d5f73d86a92aeb5cd633e03896072"
+  },
+  {
+    "file": "svg/logo-google-playstore.svg",
+    "hash": "b629c91fbb1d5914b4e68156e0d82e5c"
+  },
+  {
+    "file": "svg/logo-google.svg",
+    "hash": "899ea7d50439e7dd7b9bf00dd9c64614"
+  },
+  {
+    "file": "svg/logo-hackernews.svg",
+    "hash": "661bc660a57ba348f0a7cebab244e8f5"
+  },
+  {
+    "file": "svg/logo-html5.svg",
+    "hash": "da0088d155c90cd9c8fa0c4dbaaee0c6"
+  },
+  {
+    "file": "svg/logo-instagram.svg",
+    "hash": "5e95a281315ab4ba977312019eec6e58"
+  },
+  {
+    "file": "svg/logo-ionic.svg",
+    "hash": "a80ed1bbb9393a2c2f6152ab8dc8b04b"
+  },
+  {
+    "file": "svg/logo-ionitron.svg",
+    "hash": "64852451747fb4f42aaa27ca688657f0"
+  },
+  {
+    "file": "svg/logo-javascript.svg",
+    "hash": "950b621dce5f99f557c4a2f604ae528f"
+  },
+  {
+    "file": "svg/logo-laravel.svg",
+    "hash": "a0b518e61eb56f953e5116360b78fc89"
+  },
+  {
+    "file": "svg/logo-linkedin.svg",
+    "hash": "b5cd8be80f156bc337ba2af2f1f5fa09"
+  },
+  {
+    "file": "svg/logo-markdown.svg",
+    "hash": "1187fe325fa5ec6949d59bb04e0d2c09"
+  },
+  {
+    "file": "svg/logo-mastodon.svg",
+    "hash": "1f2855342fd74b42ae40217765f9d446"
+  },
+  {
+    "file": "svg/logo-medium.svg",
+    "hash": "8a8fc0e99b56f6e48045eebaab2dcdc4"
+  },
+  {
+    "file": "svg/logo-microsoft.svg",
+    "hash": "d6f33c176cf8fe9e4cdd05c297af9129"
+  },
+  {
+    "file": "svg/logo-no-smoking.svg",
+    "hash": "78038b7afb3260c35b63b6f81b25cea4"
+  },
+  {
+    "file": "svg/logo-nodejs.svg",
+    "hash": "ba9dcf6cc0e651233dd91d1363e33ef5"
+  },
+  {
+    "file": "svg/logo-npm.svg",
+    "hash": "65743a410e927228e720b633f1b1f0ae"
+  },
+  {
+    "file": "svg/logo-octocat.svg",
+    "hash": "35305c244b5e69735b41877d7b134588"
+  },
+  {
+    "file": "svg/logo-paypal.svg",
+    "hash": "467a56aa4caae15cce51e5a9335580bb"
+  },
+  {
+    "file": "svg/logo-pinterest.svg",
+    "hash": "04bb6ededd63868bd4bb477c749c041d"
+  },
+  {
+    "file": "svg/logo-playstation.svg",
+    "hash": "69a8c37e876c28a5375d4198c7b51a26"
+  },
+  {
+    "file": "svg/logo-pwa.svg",
+    "hash": "e44503ed3c44109617bcd208786550cf"
+  },
+  {
+    "file": "svg/logo-python.svg",
+    "hash": "082243104d5906293a3b7c4970f93294"
+  },
+  {
+    "file": "svg/logo-react.svg",
+    "hash": "2b725c612e993a2c6b458177ffb4a8b5"
+  },
+  {
+    "file": "svg/logo-reddit.svg",
+    "hash": "fe47a59ad1f279d1a59ab3177e49b404"
+  },
+  {
+    "file": "svg/logo-rss.svg",
+    "hash": "4e81cb63be3799141953991c598a1b2e"
+  },
+  {
+    "file": "svg/logo-sass.svg",
+    "hash": "523fdfc0d47a8c28fe2efcbccf7c71d3"
+  },
+  {
+    "file": "svg/logo-skype.svg",
+    "hash": "eaa26cff37e3f84180927ee84a319a0f"
+  },
+  {
+    "file": "svg/logo-slack.svg",
+    "hash": "039b7f77a0835a0a421668a8e25fd6af"
+  },
+  {
+    "file": "svg/logo-snapchat.svg",
+    "hash": "a03c6c92dc99b5582b044321d7b6c591"
+  },
+  {
+    "file": "svg/logo-soundcloud.svg",
+    "hash": "d78b6668996765ef1b852e8ec6415448"
+  },
+  {
+    "file": "svg/logo-stackoverflow.svg",
+    "hash": "6538e51734d926ace8a247092df5ea41"
+  },
+  {
+    "file": "svg/logo-steam.svg",
+    "hash": "69cc3a60dbcf1858bb0be599e28e4dc7"
+  },
+  {
+    "file": "svg/logo-stencil.svg",
+    "hash": "c9e78aba61b53a535925cf55e75e9e6d"
+  },
+  {
+    "file": "svg/logo-tableau.svg",
+    "hash": "9a6c492ddfa9b64f41eb50e3dc892fcf"
+  },
+  {
+    "file": "svg/logo-tiktok.svg",
+    "hash": "6f167ba6f48077125b2085359898e417"
+  },
+  {
+    "file": "svg/logo-tumblr.svg",
+    "hash": "6ee5b96e59c7b40c6455f88a8de0caa0"
+  },
+  {
+    "file": "svg/logo-tux.svg",
+    "hash": "aff5d4bf8d0d52fd5b0fe2fdbf144156"
+  },
+  {
+    "file": "svg/logo-twitch.svg",
+    "hash": "e42aff66a379a61221606fd6e660b7e5"
+  },
+  {
+    "file": "svg/logo-twitter.svg",
+    "hash": "f2b077338ef3bee8a2302fcc3c920c53"
+  },
+  {
+    "file": "svg/logo-usd.svg",
+    "hash": "953f090d5fb57747ce2da3f884f04727"
+  },
+  {
+    "file": "svg/logo-venmo.svg",
+    "hash": "4af3220c76e670fcdcaf2d25b243eb37"
+  },
+  {
+    "file": "svg/logo-vercel.svg",
+    "hash": "12b8e8040c89594867eee5fb2f2da08b"
+  },
+  {
+    "file": "svg/logo-vimeo.svg",
+    "hash": "bd98e76ef731ea53febf0be82a8c21ee"
+  },
+  {
+    "file": "svg/logo-vk.svg",
+    "hash": "b7822303494dd2779a204496c1bc0a43"
+  },
+  {
+    "file": "svg/logo-vue.svg",
+    "hash": "459d943130f763d54e80ae15cca3bb53"
+  },
+  {
+    "file": "svg/logo-web-component.svg",
+    "hash": "6df4babb93f689b257abcb2ed6b998cd"
+  },
+  {
+    "file": "svg/logo-wechat.svg",
+    "hash": "cba9bc5fbe2edc3e257725f13e62a8c1"
+  },
+  {
+    "file": "svg/logo-whatsapp.svg",
+    "hash": "2032427249d6af8b7fec9e9bc3bbb713"
+  },
+  {
+    "file": "svg/logo-windows.svg",
+    "hash": "7b45aca9635ac586cdf5eeb4d4588684"
+  },
+  {
+    "file": "svg/logo-wordpress.svg",
+    "hash": "850e7d5064023ea287ac93f056b5c84e"
+  },
+  {
+    "file": "svg/logo-xbox.svg",
+    "hash": "2bad13aeb6d83d23c9cf7fd18ae8b98b"
+  },
+  {
+    "file": "svg/logo-xing.svg",
+    "hash": "318d3bc9f193f263ec214424753a1029"
+  },
+  {
+    "file": "svg/logo-yahoo.svg",
+    "hash": "d1db688189c475163c50fceec8d44abe"
+  },
+  {
+    "file": "svg/logo-yen.svg",
+    "hash": "ca28bc602a3056ed274c0c738ccee336"
+  },
+  {
+    "file": "svg/logo-youtube.svg",
+    "hash": "529b6d5353baac87b7e801f5043e5567"
+  },
+  {
+    "file": "svg/magnet-outline.svg",
+    "hash": "9816c3142a844f344808a3a8a896b2fe"
+  },
+  {
+    "file": "svg/magnet-sharp.svg",
+    "hash": "b6653acaf29b6188087f04e08ebe338d"
+  },
+  {
+    "file": "svg/magnet.svg",
+    "hash": "5a32e3a6967ff8b3ac0582e20ad6f09e"
+  },
+  {
+    "file": "svg/mail-open-outline.svg",
+    "hash": "0de599542a1aff17c2c95cc430f523a7"
+  },
+  {
+    "file": "svg/mail-open-sharp.svg",
+    "hash": "b3f2c894ed75da0d221aeb2bd17439be"
+  },
+  {
+    "file": "svg/mail-open.svg",
+    "hash": "d4f1cea7c9dec26582283b69a3e38765"
+  },
+  {
+    "file": "svg/mail-outline.svg",
+    "hash": "9709b147124b7e43b767e4d0c8c8019a"
+  },
+  {
+    "file": "svg/mail-sharp.svg",
+    "hash": "597d6366d448f29b4ed86b340d479d69"
+  },
+  {
+    "file": "svg/mail-unread-outline.svg",
+    "hash": "b5586dfb53ff9c4644f79b050750b57b"
+  },
+  {
+    "file": "svg/mail-unread-sharp.svg",
+    "hash": "bc110bd57990bdd918fccc610d5e09d3"
+  },
+  {
+    "file": "svg/mail-unread.svg",
+    "hash": "4ca99d7b0261a606eaf4248b55065a4b"
+  },
+  {
+    "file": "svg/mail.svg",
+    "hash": "076b8582301d392dd837903ec2fa414d"
+  },
+  {
+    "file": "svg/male-female-outline.svg",
+    "hash": "27cc108e42c404573139be610dcaa193"
+  },
+  {
+    "file": "svg/male-female-sharp.svg",
+    "hash": "0106269cff96cc9f0e8ce9d4a3f2dff7"
+  },
+  {
+    "file": "svg/male-female.svg",
+    "hash": "84ab6e809bf98efc12866f0df35d9b63"
+  },
+  {
+    "file": "svg/male-outline.svg",
+    "hash": "3a2c059a7110fa134c6c652fda8e9977"
+  },
+  {
+    "file": "svg/male-sharp.svg",
+    "hash": "62d7dfeaedc2840e1c81ec656012b024"
+  },
+  {
+    "file": "svg/male.svg",
+    "hash": "66bd7c30f65d88e7eac2da0b006f3feb"
+  },
+  {
+    "file": "svg/man-outline.svg",
+    "hash": "9545199edcfadcee8613a4b112bb5368"
+  },
+  {
+    "file": "svg/man-sharp.svg",
+    "hash": "84bc69dc36b8cd645046d943fdfdae22"
+  },
+  {
+    "file": "svg/man.svg",
+    "hash": "c4df24a3de66066cf4640ec1295e1bf6"
+  },
+  {
+    "file": "svg/map-outline.svg",
+    "hash": "cb54f9790c50ac81c6682c87fa91e64d"
+  },
+  {
+    "file": "svg/map-sharp.svg",
+    "hash": "48635e60a78c369e20565586c68a42ce"
+  },
+  {
+    "file": "svg/map.svg",
+    "hash": "5e75aa24a5ba497d9d5aac4db8f83061"
+  },
+  {
+    "file": "svg/medal-outline.svg",
+    "hash": "0cfc033496e4ee3b8cf4257ffcb5da54"
+  },
+  {
+    "file": "svg/medal-sharp.svg",
+    "hash": "423e8e05f1f2bd6d830c32d7b42877ab"
+  },
+  {
+    "file": "svg/medal.svg",
+    "hash": "81206ba3a92f2392e25388b81072cc2e"
+  },
+  {
+    "file": "svg/medical-outline.svg",
+    "hash": "6184a1e0b423c1a9c8a06077d90961c1"
+  },
+  {
+    "file": "svg/medical-sharp.svg",
+    "hash": "9e808b7febed13e1e11e5318f54dac4e"
+  },
+  {
+    "file": "svg/medical.svg",
+    "hash": "c3804576b944d32d4909a4a719714dea"
+  },
+  {
+    "file": "svg/medkit-outline.svg",
+    "hash": "6ff2aad516bd342102d4b5a12e071e27"
+  },
+  {
+    "file": "svg/medkit-sharp.svg",
+    "hash": "a661aebe7badd83bd09cb0ebd261f2bb"
+  },
+  {
+    "file": "svg/medkit.svg",
+    "hash": "a8c08f9910b1dbb0c0785b3569aef008"
+  },
+  {
+    "file": "svg/megaphone-outline.svg",
+    "hash": "c88ed9835cec77b3a9fc38f6ed2d1f8a"
+  },
+  {
+    "file": "svg/megaphone-sharp.svg",
+    "hash": "2a219ad65fb2060fe379e79cd4dea8c2"
+  },
+  {
+    "file": "svg/megaphone.svg",
+    "hash": "7d8eafb3741bf5d5718c2205c56fa3a3"
+  },
+  {
+    "file": "svg/menu-outline.svg",
+    "hash": "d2718ba486c15322a1d5f91b33fffc05"
+  },
+  {
+    "file": "svg/menu-sharp.svg",
+    "hash": "44e8b6e30747b8eccebd47335368e839"
+  },
+  {
+    "file": "svg/menu.svg",
+    "hash": "17fe33074458629c0138f36ad16c6e4d"
+  },
+  {
+    "file": "svg/mic-circle-outline.svg",
+    "hash": "a8cd68e3197ce3f766a84c964b253237"
+  },
+  {
+    "file": "svg/mic-circle-sharp.svg",
+    "hash": "c0d370b54999856d6b0dc656e94f10ed"
+  },
+  {
+    "file": "svg/mic-circle.svg",
+    "hash": "faf22d79eb5a6e4ed6bc7f617e257b08"
+  },
+  {
+    "file": "svg/mic-off-circle-outline.svg",
+    "hash": "576657b5ed4a8fd0ac9c4814abecd8cc"
+  },
+  {
+    "file": "svg/mic-off-circle-sharp.svg",
+    "hash": "73bddaab8aaca6fa4f9fca930f2b8733"
+  },
+  {
+    "file": "svg/mic-off-circle.svg",
+    "hash": "3c1bb709e683108a1916bbd7e44e887f"
+  },
+  {
+    "file": "svg/mic-off-outline.svg",
+    "hash": "417f23011f50232c0022b6a0e34d7eb3"
+  },
+  {
+    "file": "svg/mic-off-sharp.svg",
+    "hash": "21ee4ab2dfffa9ac32342ddc050b1f91"
+  },
+  {
+    "file": "svg/mic-off.svg",
+    "hash": "e2cef55ac181658a12a4293aa4a56b5b"
+  },
+  {
+    "file": "svg/mic-outline.svg",
+    "hash": "e67d4c2027a1a13d039080f10a0ce8f3"
+  },
+  {
+    "file": "svg/mic-sharp.svg",
+    "hash": "250cc539917d09be7e5956d2b68a0c97"
+  },
+  {
+    "file": "svg/mic.svg",
+    "hash": "fbd2af2417f44cb83b1094de43049e0a"
+  },
+  {
+    "file": "svg/moon-outline.svg",
+    "hash": "953c0a5cadf0501f2e7f1e5398891b11"
+  },
+  {
+    "file": "svg/moon-sharp.svg",
+    "hash": "80ed5294ad8dd7a8aaf465167a9dc281"
+  },
+  {
+    "file": "svg/moon.svg",
+    "hash": "bab0793bea5cee36831785d59fb16e74"
+  },
+  {
+    "file": "svg/move-outline.svg",
+    "hash": "1c026c07d71acff9f126a366a7e0ba33"
+  },
+  {
+    "file": "svg/move-sharp.svg",
+    "hash": "e14d27717c7271d41baeaa1849f6264d"
+  },
+  {
+    "file": "svg/move.svg",
+    "hash": "1c026c07d71acff9f126a366a7e0ba33"
+  },
+  {
+    "file": "svg/musical-note-outline.svg",
+    "hash": "9a6d0069c6d059ac540cf32793ddefca"
+  },
+  {
+    "file": "svg/musical-note-sharp.svg",
+    "hash": "cf72b80e297af3e85fe6d6fcb1314743"
+  },
+  {
+    "file": "svg/musical-note.svg",
+    "hash": "92eff755ed3e50c8cdec2402cc8a3a41"
+  },
+  {
+    "file": "svg/musical-notes-outline.svg",
+    "hash": "a3d6d152f0a09fe342eb45a0769abee3"
+  },
+  {
+    "file": "svg/musical-notes-sharp.svg",
+    "hash": "25f8921039236bbb99b0345b2a9a0aa9"
+  },
+  {
+    "file": "svg/musical-notes.svg",
+    "hash": "deb7edb6e2fa52ac15babd280d17cbe6"
+  },
+  {
+    "file": "svg/navigate-circle-outline.svg",
+    "hash": "6fd6541d2e89b33c3bc9c47786e3a89b"
+  },
+  {
+    "file": "svg/navigate-circle-sharp.svg",
+    "hash": "a700869337c0945a6bb272639cc6278c"
+  },
+  {
+    "file": "svg/navigate-circle.svg",
+    "hash": "de06c39c4f29c110ca1f5ac071edbbac"
+  },
+  {
+    "file": "svg/navigate-outline.svg",
+    "hash": "07f2ecf18641b698ea1e910d6e81178a"
+  },
+  {
+    "file": "svg/navigate-sharp.svg",
+    "hash": "ebe1121c678b16e8ec1d3c96a7e9ca6a"
+  },
+  {
+    "file": "svg/navigate.svg",
+    "hash": "2d9c54f2fa09879965bb91ec08d6076a"
+  },
+  {
+    "file": "svg/newspaper-outline.svg",
+    "hash": "3aea6f9f25fda86a064fb911e9c2d4d6"
+  },
+  {
+    "file": "svg/newspaper-sharp.svg",
+    "hash": "8bf4954d76590bcba0e30835631a1826"
+  },
+  {
+    "file": "svg/newspaper.svg",
+    "hash": "a1f592adb8fb5b6b619577ce736484e0"
+  },
+  {
+    "file": "svg/notifications-circle-outline.svg",
+    "hash": "bbd9022e3a2b3d0c4bdd7b4559d3cace"
+  },
+  {
+    "file": "svg/notifications-circle-sharp.svg",
+    "hash": "f5bedddb2d73e513156265ffe8386fbd"
+  },
+  {
+    "file": "svg/notifications-circle.svg",
+    "hash": "2699fd22d15667bdcc884dd28d541e56"
+  },
+  {
+    "file": "svg/notifications-off-circle-outline.svg",
+    "hash": "b2d93ea019a01271b80b258b4b058803"
+  },
+  {
+    "file": "svg/notifications-off-circle-sharp.svg",
+    "hash": "c4bcfd39431a95c5b9971b97dd095b46"
+  },
+  {
+    "file": "svg/notifications-off-circle.svg",
+    "hash": "b179c73baed7f27e9516aac7cf11d64d"
+  },
+  {
+    "file": "svg/notifications-off-outline.svg",
+    "hash": "3d96e090c223a15ece7eb3b55a916424"
+  },
+  {
+    "file": "svg/notifications-off-sharp.svg",
+    "hash": "c7dbb8428dba05229ffb6cacde0a3f8e"
+  },
+  {
+    "file": "svg/notifications-off.svg",
+    "hash": "599fd60d1d8a3fea30271459a799183b"
+  },
+  {
+    "file": "svg/notifications-outline.svg",
+    "hash": "6921bdf612859e807e09bf4fe2d52e85"
+  },
+  {
+    "file": "svg/notifications-sharp.svg",
+    "hash": "6675bdce69892f9b49c4c9c6e52cfc9a"
+  },
+  {
+    "file": "svg/notifications.svg",
+    "hash": "7fc408251331cc4ddc17de572d2ee229"
+  },
+  {
+    "file": "svg/nuclear-outline.svg",
+    "hash": "36f2ddcda600f029cca919edf23bed6e"
+  },
+  {
+    "file": "svg/nuclear-sharp.svg",
+    "hash": "7105b08219449fc8eac13424cbeaf2b4"
+  },
+  {
+    "file": "svg/nuclear.svg",
+    "hash": "b9441a1daeecfbb554553d6d9ffbded2"
+  },
+  {
+    "file": "svg/nutrition-outline.svg",
+    "hash": "802c16eb80c988909b24b3b553dc201e"
+  },
+  {
+    "file": "svg/nutrition-sharp.svg",
+    "hash": "39e95d2b05edd74b157181a9b9b1173c"
+  },
+  {
+    "file": "svg/nutrition.svg",
+    "hash": "7fc90413e9c70e3fb0ae2c4356634157"
+  },
+  {
+    "file": "svg/open-outline.svg",
+    "hash": "2a26dc41c25e484d559febddc336e79a"
+  },
+  {
+    "file": "svg/open-sharp.svg",
+    "hash": "f0770438702e79df16f6cf5f1d19e160"
+  },
+  {
+    "file": "svg/open.svg",
+    "hash": "a1c83a66560a5ef39b175f2ae406f687"
+  },
+  {
+    "file": "svg/options-outline.svg",
+    "hash": "073f0af7ff03e3ab071f914c33d7a5db"
+  },
+  {
+    "file": "svg/options-sharp.svg",
+    "hash": "d92ff694d5d1c4fb37753b11efa9975d"
+  },
+  {
+    "file": "svg/options.svg",
+    "hash": "f9a85b2ae372e35504558713daed38df"
+  },
+  {
+    "file": "svg/paper-plane-outline.svg",
+    "hash": "b4a9c782e7bfbf1993c00059944e412c"
+  },
+  {
+    "file": "svg/paper-plane-sharp.svg",
+    "hash": "a54c56eae3837929124a8ae03a69fbda"
+  },
+  {
+    "file": "svg/paper-plane.svg",
+    "hash": "06000b4d5d4a464acd672d03423f3776"
+  },
+  {
+    "file": "svg/partly-sunny-outline.svg",
+    "hash": "e9015af5db9237164762a994a3af84fb"
+  },
+  {
+    "file": "svg/partly-sunny-sharp.svg",
+    "hash": "bf15eb8862d157dbf8317a6fb7515f00"
+  },
+  {
+    "file": "svg/partly-sunny.svg",
+    "hash": "1f66dbfbd8398ec775639eebd68879f8"
+  },
+  {
+    "file": "svg/pause-circle-outline.svg",
+    "hash": "a1074234aa247b41558f82bc0d52772f"
+  },
+  {
+    "file": "svg/pause-circle-sharp.svg",
+    "hash": "6a682099e9567034d553e3270dc00e88"
+  },
+  {
+    "file": "svg/pause-circle.svg",
+    "hash": "7d75b660def233f29ef5096e8724652a"
+  },
+  {
+    "file": "svg/pause-outline.svg",
+    "hash": "110b2c0ea9b78a1d10b3569bfbe65456"
+  },
+  {
+    "file": "svg/pause-sharp.svg",
+    "hash": "d8254b68a74026926ccff7e6a7437409"
+  },
+  {
+    "file": "svg/pause.svg",
+    "hash": "d2cd429c30ebcf1e909b9a6847ed853d"
+  },
+  {
+    "file": "svg/paw-outline.svg",
+    "hash": "24d6837daee2aba596474d5b63d9fa20"
+  },
+  {
+    "file": "svg/paw-sharp.svg",
+    "hash": "a8ffd5e73077c94d58b4c120106334c3"
+  },
+  {
+    "file": "svg/paw.svg",
+    "hash": "af17b77ad2cc8a8f7d04558051db2ee0"
+  },
+  {
+    "file": "svg/pencil-outline.svg",
+    "hash": "453356e09696457c17d78320f08b519b"
+  },
+  {
+    "file": "svg/pencil-sharp.svg",
+    "hash": "32e366e4b03f327bc5b52ed4aff31593"
+  },
+  {
+    "file": "svg/pencil.svg",
+    "hash": "9a83b45788b885437fcd22e333f15014"
+  },
+  {
+    "file": "svg/people-circle-outline.svg",
+    "hash": "6dd5e8ceaa841e9d4c4098f96707594d"
+  },
+  {
+    "file": "svg/people-circle-sharp.svg",
+    "hash": "42ab317fd0fa45cd732a95be1da0be2b"
+  },
+  {
+    "file": "svg/people-circle.svg",
+    "hash": "0719a16d15b7b45dadee886d523b3a3a"
+  },
+  {
+    "file": "svg/people-outline.svg",
+    "hash": "0b3f4632f238590084e8a4465bb09191"
+  },
+  {
+    "file": "svg/people-sharp.svg",
+    "hash": "52324d8cdea8ce55abaf9034b705cb88"
+  },
+  {
+    "file": "svg/people.svg",
+    "hash": "14021808737c2104680d41a238e0d70a"
+  },
+  {
+    "file": "svg/person-add-outline.svg",
+    "hash": "786ef9cfc75e25fd50691168d1f36c9c"
+  },
+  {
+    "file": "svg/person-add-sharp.svg",
+    "hash": "900a30d790a2961745a656a587e138f2"
+  },
+  {
+    "file": "svg/person-add.svg",
+    "hash": "0675786ae28725b05c84113ba6e96000"
+  },
+  {
+    "file": "svg/person-circle-outline.svg",
+    "hash": "b426b9a8c01c0364139bd6ab6e86fedf"
+  },
+  {
+    "file": "svg/person-circle-sharp.svg",
+    "hash": "36c17ec8b0f43121dd21e72a487272ca"
+  },
+  {
+    "file": "svg/person-circle.svg",
+    "hash": "3962aa7700d0b1cec0f5c4322c2d3e92"
+  },
+  {
+    "file": "svg/person-outline.svg",
+    "hash": "f3918abd0123dfeecbf3c83d77931cfa"
+  },
+  {
+    "file": "svg/person-remove-outline.svg",
+    "hash": "460ffb5a4f46e5c34f59583d7d2bf7a3"
+  },
+  {
+    "file": "svg/person-remove-sharp.svg",
+    "hash": "36def65427c9567eebec1453fdddcc1c"
+  },
+  {
+    "file": "svg/person-remove.svg",
+    "hash": "34ad679427dbfebe710050783b7efa9e"
+  },
+  {
+    "file": "svg/person-sharp.svg",
+    "hash": "e95167250c5b47a3f615f4ea777e2ea7"
+  },
+  {
+    "file": "svg/person.svg",
+    "hash": "dd98ebe1becdfffa38f6afce0fdd65d5"
+  },
+  {
+    "file": "svg/phone-landscape-outline.svg",
+    "hash": "1ffa38a32498ab4d65d6278a301be4c8"
+  },
+  {
+    "file": "svg/phone-landscape-sharp.svg",
+    "hash": "2dc1dccbbe65583587966a06c4eb518a"
+  },
+  {
+    "file": "svg/phone-landscape.svg",
+    "hash": "2a3307562c0e70d6d769fc3d9a8ee220"
+  },
+  {
+    "file": "svg/phone-portrait-outline.svg",
+    "hash": "490a2f2e2f2a0d79affadcea5ecdc6d7"
+  },
+  {
+    "file": "svg/phone-portrait-sharp.svg",
+    "hash": "5fb94aaa1575b03df77ef25363b38826"
+  },
+  {
+    "file": "svg/phone-portrait.svg",
+    "hash": "d75bbf30df14b0b3c2772dcc98b5a932"
+  },
+  {
+    "file": "svg/pie-chart-outline.svg",
+    "hash": "02b1ba0ed7e93d1e8371c77373259006"
+  },
+  {
+    "file": "svg/pie-chart-sharp.svg",
+    "hash": "01d3be636e8f8e47c4c0cc3e672cdd56"
+  },
+  {
+    "file": "svg/pie-chart.svg",
+    "hash": "213f9318e1e7745d8fcee56a04f2798e"
+  },
+  {
+    "file": "svg/pin-outline.svg",
+    "hash": "5b6c241cddb4c2e1ce219c4b60a9435e"
+  },
+  {
+    "file": "svg/pin-sharp.svg",
+    "hash": "78ab8fd8a3af6434b764cb51ccaeb7fb"
+  },
+  {
+    "file": "svg/pin.svg",
+    "hash": "467213f374ba04a8e2f888870986893e"
+  },
+  {
+    "file": "svg/pint-outline.svg",
+    "hash": "075aa15401073739ec2591a5e3025aeb"
+  },
+  {
+    "file": "svg/pint-sharp.svg",
+    "hash": "f8c2daf920a36d0c25deadb3bd33a033"
+  },
+  {
+    "file": "svg/pint.svg",
+    "hash": "92336bd0fd2cec997cd69096d593deda"
+  },
+  {
+    "file": "svg/pizza-outline.svg",
+    "hash": "f7edf093826197e66d2e9b8a9e4f715f"
+  },
+  {
+    "file": "svg/pizza-sharp.svg",
+    "hash": "49319b179fe380f14c0493b0347911b9"
+  },
+  {
+    "file": "svg/pizza.svg",
+    "hash": "2f515cb23e3bb2069c1774a48103228c"
+  },
+  {
+    "file": "svg/planet-outline.svg",
+    "hash": "7076409050f3c8ab0ac90311a4dbf822"
+  },
+  {
+    "file": "svg/planet-sharp.svg",
+    "hash": "aea069469ea92f0f436706fec77da026"
+  },
+  {
+    "file": "svg/planet.svg",
+    "hash": "ee9f51c4389c0943802308305f922a5e"
+  },
+  {
+    "file": "svg/play-back-circle-outline.svg",
+    "hash": "6da92f8738afc6e14b701b576c25c358"
+  },
+  {
+    "file": "svg/play-back-circle-sharp.svg",
+    "hash": "f729e99922d600d834f8ffbb7b5f9811"
+  },
+  {
+    "file": "svg/play-back-circle.svg",
+    "hash": "a251a885031c548fc73bb265bf12a31a"
+  },
+  {
+    "file": "svg/play-back-outline.svg",
+    "hash": "9d1069b9acc266480a520891d2be568d"
+  },
+  {
+    "file": "svg/play-back-sharp.svg",
+    "hash": "8e0e087a30a521b28d409a21e6f35260"
+  },
+  {
+    "file": "svg/play-back.svg",
+    "hash": "45e375266b3a7d23274098d5d33c6b8e"
+  },
+  {
+    "file": "svg/play-circle-outline.svg",
+    "hash": "58d81218188bf310d61a95bc01601a20"
+  },
+  {
+    "file": "svg/play-circle-sharp.svg",
+    "hash": "e63e55df4026a5f490f0e906995a1771"
+  },
+  {
+    "file": "svg/play-circle.svg",
+    "hash": "90b821b68a4fa2ad20b88c06f5592124"
+  },
+  {
+    "file": "svg/play-forward-circle-outline.svg",
+    "hash": "d3e592accd84b0107dfe42cbb36c9105"
+  },
+  {
+    "file": "svg/play-forward-circle-sharp.svg",
+    "hash": "b001940f97fd0266f7281a22065f842f"
+  },
+  {
+    "file": "svg/play-forward-circle.svg",
+    "hash": "785b87255fa22df40fae7aec895ea3e1"
+  },
+  {
+    "file": "svg/play-forward-outline.svg",
+    "hash": "de90e77675fff00144ca8be75773fc1b"
+  },
+  {
+    "file": "svg/play-forward-sharp.svg",
+    "hash": "d2f08150586284a986d5fec28b9e06ea"
+  },
+  {
+    "file": "svg/play-forward.svg",
+    "hash": "d1d08abf4e3f34c5d99f212fa32a0ddc"
+  },
+  {
+    "file": "svg/play-outline.svg",
+    "hash": "e0f98084d4ff1a835ddcc19ee2a4116c"
+  },
+  {
+    "file": "svg/play-sharp.svg",
+    "hash": "b3ed52ec26505b93fd559e711fa92863"
+  },
+  {
+    "file": "svg/play-skip-back-circle-outline.svg",
+    "hash": "6600a30092b3031b1c2ea304d771e421"
+  },
+  {
+    "file": "svg/play-skip-back-circle-sharp.svg",
+    "hash": "04a867eacfce59f0ab02fd4e3b88c65a"
+  },
+  {
+    "file": "svg/play-skip-back-circle.svg",
+    "hash": "bb4d92cea0475c53e0ed05debbaa5067"
+  },
+  {
+    "file": "svg/play-skip-back-outline.svg",
+    "hash": "5987abdbc324d19ea5c8e3538fcf5a74"
+  },
+  {
+    "file": "svg/play-skip-back-sharp.svg",
+    "hash": "d6761f5af6853616eeef5d4ac9a43cd2"
+  },
+  {
+    "file": "svg/play-skip-back.svg",
+    "hash": "76e1e84549280a1f5b09ad4e0ae68e9a"
+  },
+  {
+    "file": "svg/play-skip-forward-circle-outline.svg",
+    "hash": "436258aea1d1294cd41562adfb43c78a"
+  },
+  {
+    "file": "svg/play-skip-forward-circle-sharp.svg",
+    "hash": "41c3530c19e052639aca5894ba67b70d"
+  },
+  {
+    "file": "svg/play-skip-forward-circle.svg",
+    "hash": "19e74c8cb618341391e9154e53fbd9da"
+  },
+  {
+    "file": "svg/play-skip-forward-outline.svg",
+    "hash": "38651313a2f03e746d6acc982d46cee8"
+  },
+  {
+    "file": "svg/play-skip-forward-sharp.svg",
+    "hash": "097707552354a3b6f65ed893da4df4b5"
+  },
+  {
+    "file": "svg/play-skip-forward.svg",
+    "hash": "932d85ebc033df9ff7627f70b1578224"
+  },
+  {
+    "file": "svg/play.svg",
+    "hash": "59555ad50bf341d3bb5941eb73f12c6e"
+  },
+  {
+    "file": "svg/podium-outline.svg",
+    "hash": "823ee8dfd911fc06fdd9a62864805db9"
+  },
+  {
+    "file": "svg/podium-sharp.svg",
+    "hash": "c2db2b61cf1f28193583f4b6fbdc4e35"
+  },
+  {
+    "file": "svg/podium.svg",
+    "hash": "722c5ab54143758d728523360639a173"
+  },
+  {
+    "file": "svg/power-outline.svg",
+    "hash": "2a21270e5949c34f4a9f9acca449d5de"
+  },
+  {
+    "file": "svg/power-sharp.svg",
+    "hash": "82e25be50f5409f34b17b402c0417ca0"
+  },
+  {
+    "file": "svg/power.svg",
+    "hash": "a17c1ce518bc71ff6641b5593c45df38"
+  },
+  {
+    "file": "svg/pricetag-outline.svg",
+    "hash": "6400e93a24445e08926e952d7d9a718d"
+  },
+  {
+    "file": "svg/pricetag-sharp.svg",
+    "hash": "e20cafdcba380d41479956f598b89e6e"
+  },
+  {
+    "file": "svg/pricetag.svg",
+    "hash": "3cabf24f4ed9c3ff3339d394acde1bc5"
+  },
+  {
+    "file": "svg/pricetags-outline.svg",
+    "hash": "7eba0c836c46445df777f012111492d0"
+  },
+  {
+    "file": "svg/pricetags-sharp.svg",
+    "hash": "039d2876407ca092e8e84c475cc9896f"
+  },
+  {
+    "file": "svg/pricetags.svg",
+    "hash": "9cb74d3b7f9944bfde6517b14814f34c"
+  },
+  {
+    "file": "svg/print-outline.svg",
+    "hash": "1fef6900bbb80e7c679060edc30b78ee"
+  },
+  {
+    "file": "svg/print-sharp.svg",
+    "hash": "3f81c0167af4e762e7a37464d5e320e5"
+  },
+  {
+    "file": "svg/print.svg",
+    "hash": "71f7c872d7bb99fb08af37543440da83"
+  },
+  {
+    "file": "svg/prism-outline.svg",
+    "hash": "820e827f04928d149cb77f37a77e9f33"
+  },
+  {
+    "file": "svg/prism-sharp.svg",
+    "hash": "2f720f72ef6a1a83febaa1f87239cab9"
+  },
+  {
+    "file": "svg/prism.svg",
+    "hash": "b394dedf091a8cb285931491cad2aad3"
+  },
+  {
+    "file": "svg/pulse-outline.svg",
+    "hash": "a4f44dc594c434957212e636cce35ee2"
+  },
+  {
+    "file": "svg/pulse-sharp.svg",
+    "hash": "52ef67c4340b70216fe8ade832ab42d7"
+  },
+  {
+    "file": "svg/pulse.svg",
+    "hash": "3d15c5a7f9faba85061ef526f9a5bf22"
+  },
+  {
+    "file": "svg/push-outline.svg",
+    "hash": "2d21b4d5d58c160b0bb6fbbed174b12f"
+  },
+  {
+    "file": "svg/push-sharp.svg",
+    "hash": "8aea6958f4b39003e47a0f196f1113a9"
+  },
+  {
+    "file": "svg/push.svg",
+    "hash": "b7fc4787af15c126cf3546ce68c96335"
+  },
+  {
+    "file": "svg/qr-code-outline.svg",
+    "hash": "3880496e6b6bb2227dea17e809913568"
+  },
+  {
+    "file": "svg/qr-code-sharp.svg",
+    "hash": "872491fb0c936f2ddff86ea256781fd6"
+  },
+  {
+    "file": "svg/qr-code.svg",
+    "hash": "ccae4c0fd6a0ddd37ec6c32ac1cdb913"
+  },
+  {
+    "file": "svg/radio-button-off-outline.svg",
+    "hash": "5a15b2e0f5725b0ae7ce436356794dee"
+  },
+  {
+    "file": "svg/radio-button-off-sharp.svg",
+    "hash": "5a15b2e0f5725b0ae7ce436356794dee"
+  },
+  {
+    "file": "svg/radio-button-off.svg",
+    "hash": "5a15b2e0f5725b0ae7ce436356794dee"
+  },
+  {
+    "file": "svg/radio-button-on-outline.svg",
+    "hash": "8da3753d5195f35d8bcfd34d2f85f645"
+  },
+  {
+    "file": "svg/radio-button-on-sharp.svg",
+    "hash": "8da3753d5195f35d8bcfd34d2f85f645"
+  },
+  {
+    "file": "svg/radio-button-on.svg",
+    "hash": "8da3753d5195f35d8bcfd34d2f85f645"
+  },
+  {
+    "file": "svg/radio-outline.svg",
+    "hash": "b7e0f49c5dd201f7b303b29684bd2977"
+  },
+  {
+    "file": "svg/radio-sharp.svg",
+    "hash": "2bb887573f050e9f4e7e9e12d28a1916"
+  },
+  {
+    "file": "svg/radio.svg",
+    "hash": "feac4ced1011f882de578e499e54de08"
+  },
+  {
+    "file": "svg/rainy-outline.svg",
+    "hash": "12361534f9dc82ee7ba1af046b49881e"
+  },
+  {
+    "file": "svg/rainy-sharp.svg",
+    "hash": "2b8c3a52d69d199cfbc67bed63c25342"
+  },
+  {
+    "file": "svg/rainy.svg",
+    "hash": "27e76602484a16278d6088e5a35e0a34"
+  },
+  {
+    "file": "svg/reader-outline.svg",
+    "hash": "2d950cf4a4949577a28b5080cace1168"
+  },
+  {
+    "file": "svg/reader-sharp.svg",
+    "hash": "78f3705f49d258d83e1328f82b39ee5f"
+  },
+  {
+    "file": "svg/reader.svg",
+    "hash": "116e1adc3e96049a3622e40f0d0ceff2"
+  },
+  {
+    "file": "svg/receipt-outline.svg",
+    "hash": "86e632ba8f7101f5c310c36ae8d0b635"
+  },
+  {
+    "file": "svg/receipt-sharp.svg",
+    "hash": "908bbb233aed87b355763744f6b204f0"
+  },
+  {
+    "file": "svg/receipt.svg",
+    "hash": "89b38ac49a60a989b1fcb36c7ecc07e9"
+  },
+  {
+    "file": "svg/recording-outline.svg",
+    "hash": "a2935c3a213ac855f75eceddc1124d07"
+  },
+  {
+    "file": "svg/recording-sharp.svg",
+    "hash": "89ae856babca544deb1221ac2976ff8f"
+  },
+  {
+    "file": "svg/recording.svg",
+    "hash": "5e3218a6e380a2f18c85f621cbc564fa"
+  },
+  {
+    "file": "svg/refresh-circle-outline.svg",
+    "hash": "ddb8f26829b589f9dd303c97831c736c"
+  },
+  {
+    "file": "svg/refresh-circle-sharp.svg",
+    "hash": "f1ec1657c77f83354915f8c4cc3794cd"
+  },
+  {
+    "file": "svg/refresh-circle.svg",
+    "hash": "62da01c9dcb0e0d9bf68e6c07b4104d6"
+  },
+  {
+    "file": "svg/refresh-outline.svg",
+    "hash": "d683b6f288062090628c808ffe8207c9"
+  },
+  {
+    "file": "svg/refresh-sharp.svg",
+    "hash": "96b31a249fd0711a278d336313892d02"
+  },
+  {
+    "file": "svg/refresh.svg",
+    "hash": "d683b6f288062090628c808ffe8207c9"
+  },
+  {
+    "file": "svg/reload-circle-outline.svg",
+    "hash": "889f9abb0ccfacb64041ccff3474f7aa"
+  },
+  {
+    "file": "svg/reload-circle-sharp.svg",
+    "hash": "fe1e09d079fe75ca46a65685479e6c82"
+  },
+  {
+    "file": "svg/reload-circle.svg",
+    "hash": "279a37f908f8c6fcc4f88d1f0585ee1c"
+  },
+  {
+    "file": "svg/reload-outline.svg",
+    "hash": "33f432b5fd46ba97cc3acd6b9a5180ac"
+  },
+  {
+    "file": "svg/reload-sharp.svg",
+    "hash": "21af3d45800221051ab7dd073fa1dc6e"
+  },
+  {
+    "file": "svg/reload.svg",
+    "hash": "33f432b5fd46ba97cc3acd6b9a5180ac"
+  },
+  {
+    "file": "svg/remove-circle-outline.svg",
+    "hash": "9c95585bf767828b992a775c6bc20759"
+  },
+  {
+    "file": "svg/remove-circle-sharp.svg",
+    "hash": "42bb4969ee59f2a386d8fa961ddf8227"
+  },
+  {
+    "file": "svg/remove-circle.svg",
+    "hash": "e4ef9adf485ebfdcb553c4b33e513e24"
+  },
+  {
+    "file": "svg/remove-outline.svg",
+    "hash": "a5f19b413f5ef49126b2d43387fef898"
+  },
+  {
+    "file": "svg/remove-sharp.svg",
+    "hash": "ae87f403e3c945573179ad645d21ee95"
+  },
+  {
+    "file": "svg/remove.svg",
+    "hash": "a5f19b413f5ef49126b2d43387fef898"
+  },
+  {
+    "file": "svg/reorder-four-outline.svg",
+    "hash": "f540e0d9d1e1961179e76f553fb55305"
+  },
+  {
+    "file": "svg/reorder-four-sharp.svg",
+    "hash": "0c204dc6776473d9ff416f48a95fef17"
+  },
+  {
+    "file": "svg/reorder-four.svg",
+    "hash": "2088cc24a44b328ecfc8b345ca91fcf2"
+  },
+  {
+    "file": "svg/reorder-three-outline.svg",
+    "hash": "e7b5a2071c999990b85830326c4038da"
+  },
+  {
+    "file": "svg/reorder-three-sharp.svg",
+    "hash": "619e5ecf21515c0bf38000f69549faee"
+  },
+  {
+    "file": "svg/reorder-three.svg",
+    "hash": "56839fed409cac3adc3c2feb4767b1b3"
+  },
+  {
+    "file": "svg/reorder-two-outline.svg",
+    "hash": "e20dfd38df276b7c3b2e773bc5c8c2f9"
+  },
+  {
+    "file": "svg/reorder-two-sharp.svg",
+    "hash": "466f9f8b05b69783224406b4d11c2472"
+  },
+  {
+    "file": "svg/reorder-two.svg",
+    "hash": "b70bb0776ee83d0e4074ee475232926e"
+  },
+  {
+    "file": "svg/repeat-outline.svg",
+    "hash": "1e3ce08a9986b80e91fbb30523f2a652"
+  },
+  {
+    "file": "svg/repeat-sharp.svg",
+    "hash": "c36a726e32ffa509bf510105397e0dd4"
+  },
+  {
+    "file": "svg/repeat.svg",
+    "hash": "1e3ce08a9986b80e91fbb30523f2a652"
+  },
+  {
+    "file": "svg/resize-outline.svg",
+    "hash": "58a238ecac704cda233c5280e32b6f98"
+  },
+  {
+    "file": "svg/resize-sharp.svg",
+    "hash": "97084cf6fe377ecb309ee47b91130cee"
+  },
+  {
+    "file": "svg/resize.svg",
+    "hash": "58a238ecac704cda233c5280e32b6f98"
+  },
+  {
+    "file": "svg/restaurant-outline.svg",
+    "hash": "ac22b46c336ad769809b7a9d30809627"
+  },
+  {
+    "file": "svg/restaurant-sharp.svg",
+    "hash": "39aa788349ad0d29ca7922b1ec0cd7e3"
+  },
+  {
+    "file": "svg/restaurant.svg",
+    "hash": "e5f27ac1e1db3325e55132a459da5bdc"
+  },
+  {
+    "file": "svg/return-down-back-outline.svg",
+    "hash": "cf16bb98962225ad34f5d76b59a625b6"
+  },
+  {
+    "file": "svg/return-down-back-sharp.svg",
+    "hash": "525a9595272f00fdf57709f0d717dd64"
+  },
+  {
+    "file": "svg/return-down-back.svg",
+    "hash": "cf16bb98962225ad34f5d76b59a625b6"
+  },
+  {
+    "file": "svg/return-down-forward-outline.svg",
+    "hash": "f1b81a8d4ec1dcd74f70461d616fa15a"
+  },
+  {
+    "file": "svg/return-down-forward-sharp.svg",
+    "hash": "434d55da5034b0898d04c179c0aaeec5"
+  },
+  {
+    "file": "svg/return-down-forward.svg",
+    "hash": "f1b81a8d4ec1dcd74f70461d616fa15a"
+  },
+  {
+    "file": "svg/return-up-back-outline.svg",
+    "hash": "d72686b629fc8c5bcfbef6b3375d1676"
+  },
+  {
+    "file": "svg/return-up-back-sharp.svg",
+    "hash": "33a17daf7422c87d4ca0cf9372f36531"
+  },
+  {
+    "file": "svg/return-up-back.svg",
+    "hash": "d72686b629fc8c5bcfbef6b3375d1676"
+  },
+  {
+    "file": "svg/return-up-forward-outline.svg",
+    "hash": "671769f39c8bf9dceb9e1ea77b6a21c1"
+  },
+  {
+    "file": "svg/return-up-forward-sharp.svg",
+    "hash": "e36930f34e2b78119382c2e15d2b0ebb"
+  },
+  {
+    "file": "svg/return-up-forward.svg",
+    "hash": "671769f39c8bf9dceb9e1ea77b6a21c1"
+  },
+  {
+    "file": "svg/ribbon-outline.svg",
+    "hash": "509712c9b5bc3aaeb2e32eda2b3f756e"
+  },
+  {
+    "file": "svg/ribbon-sharp.svg",
+    "hash": "eb1f587c147fba982517ac874ee85163"
+  },
+  {
+    "file": "svg/ribbon.svg",
+    "hash": "30d0c0da7dcf65b89bd1234b3b3f3edb"
+  },
+  {
+    "file": "svg/rocket-outline.svg",
+    "hash": "29e87e2409e4b6f12a5b12a5d585aa61"
+  },
+  {
+    "file": "svg/rocket-sharp.svg",
+    "hash": "6fa6417492759a51a960bf854b4826f3"
+  },
+  {
+    "file": "svg/rocket.svg",
+    "hash": "482cf86f6c39c3ff08831f2cee84d225"
+  },
+  {
+    "file": "svg/rose-outline.svg",
+    "hash": "bbbe0e675bd53cab6b2146ac8a670ad7"
+  },
+  {
+    "file": "svg/rose-sharp.svg",
+    "hash": "6d0906fcf3e51540023665f48b6f96a4"
+  },
+  {
+    "file": "svg/rose.svg",
+    "hash": "2ac9300bc18918110ffed92d863d9b3e"
+  },
+  {
+    "file": "svg/sad-outline.svg",
+    "hash": "2bdf7bfbe199311e2242f2e1969e6b8a"
+  },
+  {
+    "file": "svg/sad-sharp.svg",
+    "hash": "ff3aabc1455291218b20b4f71833e700"
+  },
+  {
+    "file": "svg/sad.svg",
+    "hash": "2fc277ce23c18198806aa42f60b9c97f"
+  },
+  {
+    "file": "svg/save-outline.svg",
+    "hash": "e01b2e432e9b7d2b8d9156316ab6d4a5"
+  },
+  {
+    "file": "svg/save-sharp.svg",
+    "hash": "b10378068f9d87dabe8547766ac7a941"
+  },
+  {
+    "file": "svg/save.svg",
+    "hash": "4d378c43c69740a95c92dc34e6884f5f"
+  },
+  {
+    "file": "svg/scale-outline.svg",
+    "hash": "fd27ca3809911d124bf29245bb39b78c"
+  },
+  {
+    "file": "svg/scale-sharp.svg",
+    "hash": "7720610cc53f98335dbfa531d3188815"
+  },
+  {
+    "file": "svg/scale.svg",
+    "hash": "2efbccbe6940efb665f0588c652a8c00"
+  },
+  {
+    "file": "svg/scan-circle-outline.svg",
+    "hash": "7ff9b7b659df547fb721a841e5603aad"
+  },
+  {
+    "file": "svg/scan-circle-sharp.svg",
+    "hash": "4673b32920155851f985f0ca38d52bdd"
+  },
+  {
+    "file": "svg/scan-circle.svg",
+    "hash": "b311aa7a2dfed56c10a4214102c54f8a"
+  },
+  {
+    "file": "svg/scan-outline.svg",
+    "hash": "35740d6c9c787a823baa987c5938ccb9"
+  },
+  {
+    "file": "svg/scan-sharp.svg",
+    "hash": "c6d0fc6e2d9ee910e82cdbd0616a9b17"
+  },
+  {
+    "file": "svg/scan.svg",
+    "hash": "a47cc122a1877a1bae65a204a7a138f2"
+  },
+  {
+    "file": "svg/school-outline.svg",
+    "hash": "41ca7d7c0dfd0be0178b0f8b207e91ab"
+  },
+  {
+    "file": "svg/school-sharp.svg",
+    "hash": "21a6ee9071e24cdb496ab172ea6adf98"
+  },
+  {
+    "file": "svg/school.svg",
+    "hash": "42dc554706317b0f882ad86f570375a7"
+  },
+  {
+    "file": "svg/search-circle-outline.svg",
+    "hash": "b9309d12671c397dd09eac1751d5ba83"
+  },
+  {
+    "file": "svg/search-circle-sharp.svg",
+    "hash": "78edadc9835a7d22f6f898a8e9a3db77"
+  },
+  {
+    "file": "svg/search-circle.svg",
+    "hash": "651925c4fb4adb13b20dd5ee6e48ec38"
+  },
+  {
+    "file": "svg/search-outline.svg",
+    "hash": "7a6668e3609b603651c52a2dac7e23ce"
+  },
+  {
+    "file": "svg/search-sharp.svg",
+    "hash": "ed3a8369eef97a84b15767ffb0ef4195"
+  },
+  {
+    "file": "svg/search.svg",
+    "hash": "8393dae9da74958a591c2aa481d11451"
+  },
+  {
+    "file": "svg/send-outline.svg",
+    "hash": "8367df6a27ecfdbefc282d8ca4149dab"
+  },
+  {
+    "file": "svg/send-sharp.svg",
+    "hash": "347d2fd31104de64ad8dbd590fbe63d7"
+  },
+  {
+    "file": "svg/send.svg",
+    "hash": "ecfce86c5fa56eab87a38a7ae3a9cb5d"
+  },
+  {
+    "file": "svg/server-outline.svg",
+    "hash": "b4cd0b218ee676ba65e2ad249648f4fd"
+  },
+  {
+    "file": "svg/server-sharp.svg",
+    "hash": "8eb9004aeee8b48af61ba90cef6cc74c"
+  },
+  {
+    "file": "svg/server.svg",
+    "hash": "d856a24ebe9c897b32a0fbfb46997f0e"
+  },
+  {
+    "file": "svg/settings-outline.svg",
+    "hash": "a834dc30dbdd06409164603198c2af68"
+  },
+  {
+    "file": "svg/settings-sharp.svg",
+    "hash": "edc080f2f55c1b1e224edd02db3bf0d9"
+  },
+  {
+    "file": "svg/settings.svg",
+    "hash": "6b509ee84c46f7e5b5094c82587ac692"
+  },
+  {
+    "file": "svg/shapes-outline.svg",
+    "hash": "919ab6c6a0d3a205ebf10509f2b29e87"
+  },
+  {
+    "file": "svg/shapes-sharp.svg",
+    "hash": "ad74438878164f009e60e81c74f17c89"
+  },
+  {
+    "file": "svg/shapes.svg",
+    "hash": "2fcc654953af1334dfa6900e93e3bb16"
+  },
+  {
+    "file": "svg/share-outline.svg",
+    "hash": "678f35d50d56df784d7ad60028089996"
+  },
+  {
+    "file": "svg/share-sharp.svg",
+    "hash": "ddda7b2c60631ec0b7bcc29cf9d9b69d"
+  },
+  {
+    "file": "svg/share-social-outline.svg",
+    "hash": "1f2390fc883cee6cc464ee0860584f63"
+  },
+  {
+    "file": "svg/share-social-sharp.svg",
+    "hash": "cc6581bc07c1a87bb1b9e103ae7fade8"
+  },
+  {
+    "file": "svg/share-social.svg",
+    "hash": "e4381dadff3ebd97ea92ab18a151b350"
+  },
+  {
+    "file": "svg/share.svg",
+    "hash": "588defed29f58d4a7bb6b669b4e81a94"
+  },
+  {
+    "file": "svg/shield-checkmark-outline.svg",
+    "hash": "64fe06fe091ec22a17df6f55b6d55339"
+  },
+  {
+    "file": "svg/shield-checkmark-sharp.svg",
+    "hash": "f3cf288b35135839bd7e5e9f8b660eef"
+  },
+  {
+    "file": "svg/shield-checkmark.svg",
+    "hash": "1e3f79d5c957546579b141b43e0c0bd6"
+  },
+  {
+    "file": "svg/shield-half-outline.svg",
+    "hash": "c8fac6c9c9eca7045a419afd762567f2"
+  },
+  {
+    "file": "svg/shield-half-sharp.svg",
+    "hash": "78b5da2f921f85e985a9369d47c570a3"
+  },
+  {
+    "file": "svg/shield-half.svg",
+    "hash": "9e3c1f30a2b1d664527d78336d97000b"
+  },
+  {
+    "file": "svg/shield-outline.svg",
+    "hash": "3d74c2a06e2730aeba642e6f67ceef9b"
+  },
+  {
+    "file": "svg/shield-sharp.svg",
+    "hash": "f0c1fda0049d155b591733b77e0d3ee9"
+  },
+  {
+    "file": "svg/shield.svg",
+    "hash": "31cbe5c9bd96d9d5804e1ca1f4f8737a"
+  },
+  {
+    "file": "svg/shirt-outline.svg",
+    "hash": "43735e20142e0e87ef53a32bd261f243"
+  },
+  {
+    "file": "svg/shirt-sharp.svg",
+    "hash": "4f87e87fd3bceae1a5ff9e266cf0f2ab"
+  },
+  {
+    "file": "svg/shirt.svg",
+    "hash": "910d4c8512122216bba61b25580ce354"
+  },
+  {
+    "file": "svg/shuffle-outline.svg",
+    "hash": "5e75fa6b12e6b37d5ed48a8bd9ccdb8a"
+  },
+  {
+    "file": "svg/shuffle-sharp.svg",
+    "hash": "843b41ffe548e66572f0cf7b2a8a0b98"
+  },
+  {
+    "file": "svg/shuffle.svg",
+    "hash": "5e75fa6b12e6b37d5ed48a8bd9ccdb8a"
+  },
+  {
+    "file": "svg/skull-outline.svg",
+    "hash": "685f0f7674b5f2c20897db303d1033fa"
+  },
+  {
+    "file": "svg/skull-sharp.svg",
+    "hash": "0e92db0c99097c8bf8e2e9e8c695c0fb"
+  },
+  {
+    "file": "svg/skull.svg",
+    "hash": "f9bb5149c7fd66baf5474e7bd99441c5"
+  },
+  {
+    "file": "svg/snow-outline.svg",
+    "hash": "6e15812bc1ef60eaa77b3461d54f025a"
+  },
+  {
+    "file": "svg/snow-sharp.svg",
+    "hash": "eda85877975d6585260f4efa994a6a96"
+  },
+  {
+    "file": "svg/snow.svg",
+    "hash": "b3d3f43738f4a387825e22f82ffeb10a"
+  },
+  {
+    "file": "svg/sparkles-outline.svg",
+    "hash": "bd7ef68405a5be406a6a78899981fdd9"
+  },
+  {
+    "file": "svg/sparkles-sharp.svg",
+    "hash": "db7491509ad8866c113bc1553e6811d8"
+  },
+  {
+    "file": "svg/sparkles.svg",
+    "hash": "6666197e1674208ce1e763919b7e091f"
+  },
+  {
+    "file": "svg/speedometer-outline.svg",
+    "hash": "c2c0dac43fd51e650d8440dcd0759fef"
+  },
+  {
+    "file": "svg/speedometer-sharp.svg",
+    "hash": "0ba62e95dd892ea301c2c1ae74639d39"
+  },
+  {
+    "file": "svg/speedometer.svg",
+    "hash": "51fb56658d0d4e1e97a6908525fe3ecf"
+  },
+  {
+    "file": "svg/square-outline.svg",
+    "hash": "e94df26bb0c9118e83b35b4664ab5810"
+  },
+  {
+    "file": "svg/square-sharp.svg",
+    "hash": "5d3a281f08480767312757655f6bfb00"
+  },
+  {
+    "file": "svg/square.svg",
+    "hash": "7eab713373d8ace33dd9aa57e7cca91d"
+  },
+  {
+    "file": "svg/star-half-outline.svg",
+    "hash": "e7c2a9b45256ea2c8d72ea2595981787"
+  },
+  {
+    "file": "svg/star-half-sharp.svg",
+    "hash": "9d297047d8bd180e487c214219d74b0e"
+  },
+  {
+    "file": "svg/star-half.svg",
+    "hash": "e7c2a9b45256ea2c8d72ea2595981787"
+  },
+  {
+    "file": "svg/star-outline.svg",
+    "hash": "6bf2a8bd3cbce60197945d3e8976963e"
+  },
+  {
+    "file": "svg/star-sharp.svg",
+    "hash": "9827f00505ef8fa70bc169adfae42958"
+  },
+  {
+    "file": "svg/star.svg",
+    "hash": "150221112944513f46b69b139c1d9405"
+  },
+  {
+    "file": "svg/stats-chart-outline.svg",
+    "hash": "9530f7908b3bf817158e10c0bea49c58"
+  },
+  {
+    "file": "svg/stats-chart-sharp.svg",
+    "hash": "7ab6cbdc88da537864cdc4e542a4894c"
+  },
+  {
+    "file": "svg/stats-chart.svg",
+    "hash": "a43bd38cfc99c6707278726fdfeac5f3"
+  },
+  {
+    "file": "svg/stop-circle-outline.svg",
+    "hash": "3eb128b2fa73d300bdd241a15de98f9b"
+  },
+  {
+    "file": "svg/stop-circle-sharp.svg",
+    "hash": "79141d6ef7a97c6d2649ea024632e512"
+  },
+  {
+    "file": "svg/stop-circle.svg",
+    "hash": "4725a98158d36672f9b61af294d25f21"
+  },
+  {
+    "file": "svg/stop-outline.svg",
+    "hash": "0b6b2955288300550f816ae9f31c0a40"
+  },
+  {
+    "file": "svg/stop-sharp.svg",
+    "hash": "938f7ea45c56a2835bfa2ba3acf29635"
+  },
+  {
+    "file": "svg/stop.svg",
+    "hash": "d1d7b163f99e31cdb441dbe5096adfa0"
+  },
+  {
+    "file": "svg/stopwatch-outline.svg",
+    "hash": "1501dacb023b93a1553fc4a21c1bf04e"
+  },
+  {
+    "file": "svg/stopwatch-sharp.svg",
+    "hash": "ad857a4b451fb8da12365b9237526bbc"
+  },
+  {
+    "file": "svg/stopwatch.svg",
+    "hash": "637d908f9ad024c97e29eea395ca915d"
+  },
+  {
+    "file": "svg/storefront-outline.svg",
+    "hash": "f6d21f392fd0a16f130bd087a4c9d0fa"
+  },
+  {
+    "file": "svg/storefront-sharp.svg",
+    "hash": "a52c940e0aaf279bd0431ad059701c12"
+  },
+  {
+    "file": "svg/storefront.svg",
+    "hash": "fdf94dd80845dcac56615d38c3b472e5"
+  },
+  {
+    "file": "svg/subway-outline.svg",
+    "hash": "458930eab3280fbf84216e0dd0121ba6"
+  },
+  {
+    "file": "svg/subway-sharp.svg",
+    "hash": "71543a68272536787434dc165351c795"
+  },
+  {
+    "file": "svg/subway.svg",
+    "hash": "44e16512a587075b27a4cf6d0aa6ee7a"
+  },
+  {
+    "file": "svg/sunny-outline.svg",
+    "hash": "eb123c1ff0e37551626396f51a43561f"
+  },
+  {
+    "file": "svg/sunny-sharp.svg",
+    "hash": "440ca83eb95cf2b141b72b030d80335d"
+  },
+  {
+    "file": "svg/sunny.svg",
+    "hash": "5c90937f84ea76b0c9feb91cb6ed64f2"
+  },
+  {
+    "file": "svg/swap-horizontal-outline.svg",
+    "hash": "9b15ed792638c5b73aac3733e770b07f"
+  },
+  {
+    "file": "svg/swap-horizontal-sharp.svg",
+    "hash": "26b44c3b2c7404b7ebf39060cb0f19b3"
+  },
+  {
+    "file": "svg/swap-horizontal.svg",
+    "hash": "9b15ed792638c5b73aac3733e770b07f"
+  },
+  {
+    "file": "svg/swap-vertical-outline.svg",
+    "hash": "8f17639bdee1d97e053e360911c50ca4"
+  },
+  {
+    "file": "svg/swap-vertical-sharp.svg",
+    "hash": "1b9224df722ef1362808f3c6669949ce"
+  },
+  {
+    "file": "svg/swap-vertical.svg",
+    "hash": "8f17639bdee1d97e053e360911c50ca4"
+  },
+  {
+    "file": "svg/sync-circle-outline.svg",
+    "hash": "01f0d4a439c2454c07e7f74a8d5d08d4"
+  },
+  {
+    "file": "svg/sync-circle-sharp.svg",
+    "hash": "3cb3a9190d75e2b69c6993eedf659698"
+  },
+  {
+    "file": "svg/sync-circle.svg",
+    "hash": "76f641c65d1aa6efb7da5ab0edfb0ab4"
+  },
+  {
+    "file": "svg/sync-outline.svg",
+    "hash": "6fd0eaca5ea6e20198de050cb9914ed1"
+  },
+  {
+    "file": "svg/sync-sharp.svg",
+    "hash": "c563f72e23ed7cc2bed95519d3ccc93d"
+  },
+  {
+    "file": "svg/sync.svg",
+    "hash": "6fd0eaca5ea6e20198de050cb9914ed1"
+  },
+  {
+    "file": "svg/tablet-landscape-outline.svg",
+    "hash": "c21b7e1f1c95deb8a1152d0f674b58e3"
+  },
+  {
+    "file": "svg/tablet-landscape-sharp.svg",
+    "hash": "8ae2363f2cbd15d1e69e55b7b704b9d9"
+  },
+  {
+    "file": "svg/tablet-landscape.svg",
+    "hash": "a244f9dc65f292430de1a741f88e5666"
+  },
+  {
+    "file": "svg/tablet-portrait-outline.svg",
+    "hash": "271f45f9d2eb9b1627d194e95e64c68c"
+  },
+  {
+    "file": "svg/tablet-portrait-sharp.svg",
+    "hash": "02fd79c72726f43d2848e0b07b64007d"
+  },
+  {
+    "file": "svg/tablet-portrait.svg",
+    "hash": "a5a929b21390d22e00436fa821a23c0e"
+  },
+  {
+    "file": "svg/telescope-outline.svg",
+    "hash": "b28b3c01e4e791a2a3d22e128e2a41ec"
+  },
+  {
+    "file": "svg/telescope-sharp.svg",
+    "hash": "db012bc62a1cf31fa6b9b32079d2cfb1"
+  },
+  {
+    "file": "svg/telescope.svg",
+    "hash": "fb9a5d45fe9d212598cb328ac00ec449"
+  },
+  {
+    "file": "svg/tennisball-outline.svg",
+    "hash": "53785dea27472d56da4152f983feaa22"
+  },
+  {
+    "file": "svg/tennisball-sharp.svg",
+    "hash": "5991899b740c6d96cddb20cbb98f63a4"
+  },
+  {
+    "file": "svg/tennisball.svg",
+    "hash": "719aae738927073681dc2429efa6892f"
+  },
+  {
+    "file": "svg/terminal-outline.svg",
+    "hash": "654ffef0b283d9ff173691b7910afbae"
+  },
+  {
+    "file": "svg/terminal-sharp.svg",
+    "hash": "5dc9b94d38147e354f9aaa9495da0e69"
+  },
+  {
+    "file": "svg/terminal.svg",
+    "hash": "44eaee865aa49e3ace189ede686e18bf"
+  },
+  {
+    "file": "svg/text-outline.svg",
+    "hash": "44b1185b70dc5b0fa3392131b7d8b269"
+  },
+  {
+    "file": "svg/text-sharp.svg",
+    "hash": "7ea7ea33e3545e0cf775d332978751f8"
+  },
+  {
+    "file": "svg/text.svg",
+    "hash": "bc8ff9380afa21bd1dc18bb60fc53c5c"
+  },
+  {
+    "file": "svg/thermometer-outline.svg",
+    "hash": "cf85af857ed148807dce2034dbfde855"
+  },
+  {
+    "file": "svg/thermometer-sharp.svg",
+    "hash": "feb5be2b1675ef30ff4b585776d5f5fb"
+  },
+  {
+    "file": "svg/thermometer.svg",
+    "hash": "f98e9649e57d09aa03b5124f811bba63"
+  },
+  {
+    "file": "svg/thumbs-down-outline.svg",
+    "hash": "2e4edbe4f931f902a79a9bb3688b6e38"
+  },
+  {
+    "file": "svg/thumbs-down-sharp.svg",
+    "hash": "954e403f80ca61b588e3eb2cb88b80d5"
+  },
+  {
+    "file": "svg/thumbs-down.svg",
+    "hash": "aa54c6b704a4d9594a4371e5f72a681e"
+  },
+  {
+    "file": "svg/thumbs-up-outline.svg",
+    "hash": "6a578bcb15e122024f49d5458f57d130"
+  },
+  {
+    "file": "svg/thumbs-up-sharp.svg",
+    "hash": "b759b5da88275a095fe708c7fba7996a"
+  },
+  {
+    "file": "svg/thumbs-up.svg",
+    "hash": "fe89056000a4d844dced44e3b93de521"
+  },
+  {
+    "file": "svg/thunderstorm-outline.svg",
+    "hash": "8576325f3d9b18ca2f60a8dcb1bacf78"
+  },
+  {
+    "file": "svg/thunderstorm-sharp.svg",
+    "hash": "7f50faaa0ee603fcf9b2704a7d6f9cd3"
+  },
+  {
+    "file": "svg/thunderstorm.svg",
+    "hash": "3a4a217b25a108a0e665c4a6a340d226"
+  },
+  {
+    "file": "svg/ticket-outline.svg",
+    "hash": "9a55e15a2e7a4f6b60c72ad8869a3a00"
+  },
+  {
+    "file": "svg/ticket-sharp.svg",
+    "hash": "7c5926c96466418d2d30685d92e78b92"
+  },
+  {
+    "file": "svg/ticket.svg",
+    "hash": "dd04fe7cb5fc0f351e6af53d0a6a3305"
+  },
+  {
+    "file": "svg/time-outline.svg",
+    "hash": "cb812a7f8d092d334f3d09d0a803282a"
+  },
+  {
+    "file": "svg/time-sharp.svg",
+    "hash": "fb56111494514e943e33956a291b1d82"
+  },
+  {
+    "file": "svg/time.svg",
+    "hash": "bac47aa23f0ee9025cf3a8be52a998d7"
+  },
+  {
+    "file": "svg/timer-outline.svg",
+    "hash": "c8758df28b738a92a5eb6c79e834c2c5"
+  },
+  {
+    "file": "svg/timer-sharp.svg",
+    "hash": "b5405c6ece17b3818503febad7e4d1f9"
+  },
+  {
+    "file": "svg/timer.svg",
+    "hash": "1e9b3a16d7327efc817eb152029999e8"
+  },
+  {
+    "file": "svg/today-outline.svg",
+    "hash": "0416a5604273e221b71960ae3229dfbd"
+  },
+  {
+    "file": "svg/today-sharp.svg",
+    "hash": "54de86c1f25b0ba4f93ae58a17513f56"
+  },
+  {
+    "file": "svg/today.svg",
+    "hash": "783eae0016898a0eee2ae1a36851a764"
+  },
+  {
+    "file": "svg/toggle-outline.svg",
+    "hash": "07f4d48a5ee7776425dbfc47c6c74f56"
+  },
+  {
+    "file": "svg/toggle-sharp.svg",
+    "hash": "57cf3284a03f59dc3a1fef760db72835"
+  },
+  {
+    "file": "svg/toggle.svg",
+    "hash": "113d94f8f6578b3b6ac74110b0a7c844"
+  },
+  {
+    "file": "svg/trail-sign-outline.svg",
+    "hash": "eb71ba38b1abaec7f4a615ad8daa6c42"
+  },
+  {
+    "file": "svg/trail-sign-sharp.svg",
+    "hash": "95a10d3a62d32dc7a738bdbb5dd0d1dc"
+  },
+  {
+    "file": "svg/trail-sign.svg",
+    "hash": "05fa1c5457ff2d97c22348f4b9acce1a"
+  },
+  {
+    "file": "svg/train-outline.svg",
+    "hash": "6f75d37e4082285b62849f409e60ef59"
+  },
+  {
+    "file": "svg/train-sharp.svg",
+    "hash": "6ebc9193fd07bb6384ca7b00619140e8"
+  },
+  {
+    "file": "svg/train.svg",
+    "hash": "8340272a3d15b765508a8af25b6c6970"
+  },
+  {
+    "file": "svg/transgender-outline.svg",
+    "hash": "d41f9ecc4bfab7ce74a883570e144bb0"
+  },
+  {
+    "file": "svg/transgender-sharp.svg",
+    "hash": "2deb946123fcbc9d4cffb9d79714de2d"
+  },
+  {
+    "file": "svg/transgender.svg",
+    "hash": "bdc97bffb61f0c47159bcd3b609dd38d"
+  },
+  {
+    "file": "svg/trash-bin-outline.svg",
+    "hash": "9847d7e4f60722be2cbae4fd28b0af7e"
+  },
+  {
+    "file": "svg/trash-bin-sharp.svg",
+    "hash": "0c6fc0c3653624027ff208a1e3dcb691"
+  },
+  {
+    "file": "svg/trash-bin.svg",
+    "hash": "96a1e1b3003fbf3e694ce8957584137f"
+  },
+  {
+    "file": "svg/trash-outline.svg",
+    "hash": "fdb46b94b1a9dd2f87ed1bdac279d21b"
+  },
+  {
+    "file": "svg/trash-sharp.svg",
+    "hash": "5c2ebfd5e57fe4ae20b39ca0f986ca53"
+  },
+  {
+    "file": "svg/trash.svg",
+    "hash": "6e0eef200a8465b32508e12ea9efa56d"
+  },
+  {
+    "file": "svg/trending-down-outline.svg",
+    "hash": "9bff2833aeea7da8934cadd1f7f73579"
+  },
+  {
+    "file": "svg/trending-down-sharp.svg",
+    "hash": "ff41c0eac351b5a8ab741b2ba0566ea2"
+  },
+  {
+    "file": "svg/trending-down.svg",
+    "hash": "9bff2833aeea7da8934cadd1f7f73579"
+  },
+  {
+    "file": "svg/trending-up-outline.svg",
+    "hash": "9f243568d6f5af6d398733fe2dc76ec3"
+  },
+  {
+    "file": "svg/trending-up-sharp.svg",
+    "hash": "32a5dd640fdc7cb0445880487d5097fe"
+  },
+  {
+    "file": "svg/trending-up.svg",
+    "hash": "9f243568d6f5af6d398733fe2dc76ec3"
+  },
+  {
+    "file": "svg/triangle-outline.svg",
+    "hash": "2c0b6f6169d046064990ea357c8502dc"
+  },
+  {
+    "file": "svg/triangle-sharp.svg",
+    "hash": "283c1b6cb52640bd71627285895b7ad0"
+  },
+  {
+    "file": "svg/triangle.svg",
+    "hash": "55c6041cb2a94e5c91c4d21f5ddc7c69"
+  },
+  {
+    "file": "svg/trophy-outline.svg",
+    "hash": "4d5f9176771b4177606cffaffc9601b5"
+  },
+  {
+    "file": "svg/trophy-sharp.svg",
+    "hash": "8a786b0c145bf16233d3f0e57e08485c"
+  },
+  {
+    "file": "svg/trophy.svg",
+    "hash": "a963eaa12d6640a02c61f34e86093c9c"
+  },
+  {
+    "file": "svg/tv-outline.svg",
+    "hash": "51c850162f6ddf52f455858133d43d13"
+  },
+  {
+    "file": "svg/tv-sharp.svg",
+    "hash": "a4dfe95004b7ae9d573dd9f8ce9a6eeb"
+  },
+  {
+    "file": "svg/tv.svg",
+    "hash": "634f55b51ff12e6ae844256b0fbcafb5"
+  },
+  {
+    "file": "svg/umbrella-outline.svg",
+    "hash": "e32bd61d8a1360c82d7a9e8f95409ff5"
+  },
+  {
+    "file": "svg/umbrella-sharp.svg",
+    "hash": "a7204a4b7b28d1b486e335a61faa8eee"
+  },
+  {
+    "file": "svg/umbrella.svg",
+    "hash": "f3854634e863921abbcd8deb1d169eb6"
+  },
+  {
+    "file": "svg/unlink-outline.svg",
+    "hash": "843dbc8e7c1ea736eb781c00b8fbc0f0"
+  },
+  {
+    "file": "svg/unlink-sharp.svg",
+    "hash": "1e0fc8ea8ff1f5eeeedb5cd8e4a7c334"
+  },
+  {
+    "file": "svg/unlink.svg",
+    "hash": "7ff08c55da8767a3dc625b44e71e5229"
+  },
+  {
+    "file": "svg/videocam-off-outline.svg",
+    "hash": "0c0507f8c499e32ccb0a7e165ff0518b"
+  },
+  {
+    "file": "svg/videocam-off-sharp.svg",
+    "hash": "baaba38327b15fc75309893680ca13df"
+  },
+  {
+    "file": "svg/videocam-off.svg",
+    "hash": "0872f6d635a8dd9e9c2044474b8c5162"
+  },
+  {
+    "file": "svg/videocam-outline.svg",
+    "hash": "117e0f824145a905ade81e5090ed81ab"
+  },
+  {
+    "file": "svg/videocam-sharp.svg",
+    "hash": "a14c18101ad4be21ed0f2022573d7429"
+  },
+  {
+    "file": "svg/videocam.svg",
+    "hash": "dca1eda33615e11220e8ec4c2c48eb35"
+  },
+  {
+    "file": "svg/volume-high-outline.svg",
+    "hash": "754e5ea2ede4dd4a163a6502762368d2"
+  },
+  {
+    "file": "svg/volume-high-sharp.svg",
+    "hash": "f9de5c3fe20d2b0cdbe619d591909e27"
+  },
+  {
+    "file": "svg/volume-high.svg",
+    "hash": "baef863113be42dac289e117556b1f0d"
+  },
+  {
+    "file": "svg/volume-low-outline.svg",
+    "hash": "d43df0b4da7a897d33e3ed27f4c1210a"
+  },
+  {
+    "file": "svg/volume-low-sharp.svg",
+    "hash": "7fb487526cbb232526638549cb53172e"
+  },
+  {
+    "file": "svg/volume-low.svg",
+    "hash": "c07ccbf46a43001fa1c625ba7bf5429d"
+  },
+  {
+    "file": "svg/volume-medium-outline.svg",
+    "hash": "82fe966b8f44def4b317e64a3c6d42a6"
+  },
+  {
+    "file": "svg/volume-medium-sharp.svg",
+    "hash": "6dda08799a95b306d1c89244cf7eda70"
+  },
+  {
+    "file": "svg/volume-medium.svg",
+    "hash": "1c86a8346523355abd9c2c87360ea6bc"
+  },
+  {
+    "file": "svg/volume-mute-outline.svg",
+    "hash": "325e1c6907a32d97a15c64108255f2ad"
+  },
+  {
+    "file": "svg/volume-mute-sharp.svg",
+    "hash": "1b4f9c8bcda3c4646e26a7bf12360295"
+  },
+  {
+    "file": "svg/volume-mute.svg",
+    "hash": "32f104aafbfa01b2bb1ec41041d13fab"
+  },
+  {
+    "file": "svg/volume-off-outline.svg",
+    "hash": "e8008ca72ab08c8549b6290246b37cd6"
+  },
+  {
+    "file": "svg/volume-off-sharp.svg",
+    "hash": "a34eeb95f839d59749478eaedab7d67d"
+  },
+  {
+    "file": "svg/volume-off.svg",
+    "hash": "95d9d71dbb02e847253be852c130b657"
+  },
+  {
+    "file": "svg/walk-outline.svg",
+    "hash": "43a96863b58e18d665eafb8ed196a5a6"
+  },
+  {
+    "file": "svg/walk-sharp.svg",
+    "hash": "fcafac39924d2746c2e31ba88296c7b8"
+  },
+  {
+    "file": "svg/walk.svg",
+    "hash": "f4d44ac459bd2666cbec86f4e37ebfe5"
+  },
+  {
+    "file": "svg/wallet-outline.svg",
+    "hash": "52e1a94f7f2f5c4f6f8d2743f29a43cf"
+  },
+  {
+    "file": "svg/wallet-sharp.svg",
+    "hash": "ff1c43602128eefa1581f271d59b0047"
+  },
+  {
+    "file": "svg/wallet.svg",
+    "hash": "d7d5f9ab1179cc685098c535babdc6bd"
+  },
+  {
+    "file": "svg/warning-outline.svg",
+    "hash": "631d0f5e019bf196b1415bb88cab3b32"
+  },
+  {
+    "file": "svg/warning-sharp.svg",
+    "hash": "3f7c9bbc4c8796e58a32fa7a52f0693e"
+  },
+  {
+    "file": "svg/warning.svg",
+    "hash": "1f463379185178acd33404ec1853a7b5"
+  },
+  {
+    "file": "svg/watch-outline.svg",
+    "hash": "f7df24079b5b39a6bfa9a2857591e3e3"
+  },
+  {
+    "file": "svg/watch-sharp.svg",
+    "hash": "b43247ffef881aa15abdd0111d20e7c7"
+  },
+  {
+    "file": "svg/watch.svg",
+    "hash": "cfcf9c83bddb6f10881cb4ee5bc52fa8"
+  },
+  {
+    "file": "svg/water-outline.svg",
+    "hash": "ee4e872fac3b2a99976f3cc9562091f0"
+  },
+  {
+    "file": "svg/water-sharp.svg",
+    "hash": "0d05606d830baa667c0bae27c2353e77"
+  },
+  {
+    "file": "svg/water.svg",
+    "hash": "68f403c2dda4a7ece67d7abe251c9c7b"
+  },
+  {
+    "file": "svg/wifi-outline.svg",
+    "hash": "b1e99e9743b06bbdaef0463734905c04"
+  },
+  {
+    "file": "svg/wifi-sharp.svg",
+    "hash": "fe438d8446b971a1a978533fe6c346f1"
+  },
+  {
+    "file": "svg/wifi.svg",
+    "hash": "3f8d017ddf85eee0f79537d224bb21ff"
+  },
+  {
+    "file": "svg/wine-outline.svg",
+    "hash": "5d34a0157bced92d095afc46fd60b4cc"
+  },
+  {
+    "file": "svg/wine-sharp.svg",
+    "hash": "4bdc5cb2ec6b214b84e6610bc83f9b52"
+  },
+  {
+    "file": "svg/wine.svg",
+    "hash": "0c623f463ee25b5738beb539aadef47e"
+  },
+  {
+    "file": "svg/woman-outline.svg",
+    "hash": "d69d0db7e05c25a0c45f69e2d74b5559"
+  },
+  {
+    "file": "svg/woman-sharp.svg",
+    "hash": "3f986e36bcbb91b472e2294eef4bbbfa"
+  },
+  {
+    "file": "svg/woman.svg",
+    "hash": "25af1fdbd0de0780d48ed45a38b552e2"
+  },
+  {
+    "file": "sw.js",
+    "hash": "31e1b20f0c991f3f709422f034e29dfb"
+  },
+  {
+    "file": "vendor.js",
+    "hash": "f9606efd462c4eec18dcf32b65176cec"
+  },
+  {
+    "file": "vendor.js.map",
+    "hash": "1e05c94348719d6ed887a1a32b7b3ea4"
+  }
+]

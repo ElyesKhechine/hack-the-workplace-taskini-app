@@ -1,0 +1,17 @@
+
+/* Styles properties */
+ion-col[_aio-0E19FC5F] {
+	padding-top: 16px;
+	padding-right: 16px;
+	padding-bottom: 16px;
+	padding-left: 16px;
+}
+ion-button[_aio-42BF74E6] {
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+ion-button[_aio-42BF74E6]::part(native) {
+	color: #ffffff;
+}

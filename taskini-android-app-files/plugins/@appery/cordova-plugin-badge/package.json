@@ -1,0 +1,83 @@
+{
+  "_from": "@appery/cordova-plugin-badge@>=0.8.5",
+  "_id": "@appery/cordova-plugin-badge@0.8.10",
+  "_inBundle": false,
+  "_integrity": "sha512-xeWyUdqP6j2FU+0ezj+bLTDAzWMjPox+Ik6DgnkeGc0z+yWVZBYpttwxNs/LuzGPB2vBD57NGl2gATVIxD621w==",
+  "_location": "/@appery/cordova-plugin-badge",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@appery/cordova-plugin-badge@>=0.8.5",
+    "name": "@appery/cordova-plugin-badge",
+    "escapedName": "@appery%2fcordova-plugin-badge",
+    "scope": "@appery",
+    "rawSpec": ">=0.8.5",
+    "saveSpec": null,
+    "fetchSpec": ">=0.8.5"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@appery/cordova-plugin-badge/-/cordova-plugin-badge-0.8.10.tgz",
+  "_shasum": "32d02cb2953638d364e2f1408b82d0e4c5163b7f",
+  "_spec": "@appery/cordova-plugin-badge@>=0.8.5",
+  "_where": "/srv/appery/jenkins/workspace/0b7d2f0c-652d-41ca-bbff-8aebd79708d1-android/app",
+  "author": {
+    "name": "Sebastián Katzer"
+  },
+  "bugs": {
+    "url": "https://github.com/katzer/cordova-plugin-badge/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "@appery/cordova-plugin-badge",
+    "platforms": [
+      "ios",
+      "osx",
+      "android",
+      "browser",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "Shows the count of unread messages as a badge on the app icon.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.0.0"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=10.0.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.2.0"
+    }
+  ],
+  "homepage": "https://github.com/katzer/cordova-plugin-badge#readme",
+  "keywords": [
+    "appplant",
+    "badge",
+    "shortcutbadger",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-osx",
+    "cordova-android",
+    "cordova-browser",
+    "cordova-windows"
+  ],
+  "license": "Apache 2.0",
+  "name": "@appery/cordova-plugin-badge",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katzer/cordova-plugin-badge.git"
+  },
+  "version": "0.8.10"
+}

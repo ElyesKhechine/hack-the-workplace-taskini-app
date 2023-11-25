@@ -1,0 +1,13 @@
+
+:root {
+	/* Set the font family of the entire app */
+	--ion-font-family: raleway-regular;
+}
+@font-face {
+	font-family: raleway-regular;
+	src: url("../assets/fonts/Raleway-Regular.ttf");
+}
+@font-face {
+	font-family: raleway-semibold;
+	src: url("../assets/fonts/Raleway-SemiBold.ttf");
+}

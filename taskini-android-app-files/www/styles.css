@@ -1,0 +1,3195 @@
+/*!******************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/@swimlane/ngx-datatable/index.css?ngGlobalStyle ***!
+  \******************************************************************************************************************************************************************************************************************************************************/
+.ngx-datatable {
+  display: block;
+  overflow: hidden;
+  justify-content: center;
+  position: relative;
+  transform: translate3d(0, 0, 0);
+  /**
+   * Vertical Scrolling Adjustments
+   */
+  /**
+   * Horizontal Scrolling Adjustments
+   */
+  /**
+   * Fixed Header Height Adjustments
+   */
+  /**
+   * Fixed row height adjustments
+   */
+  /**
+   * Shared Styles
+   */
+  /**
+   * Header Styles
+   */
+  /**
+   * Body Styles
+   */
+  /**
+   * Footer Styles
+   */ }
+  .ngx-datatable [hidden] {
+    display: none !important; }
+  .ngx-datatable *,
+  .ngx-datatable *:before,
+  .ngx-datatable *:after {
+    box-sizing: border-box; }
+  .ngx-datatable.scroll-vertical .datatable-body {
+    overflow-y: auto; }
+  .ngx-datatable.scroll-vertical.virtualized .datatable-body .datatable-row-wrapper {
+    position: absolute; }
+  .ngx-datatable.scroll-horz .datatable-body {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; }
+  .ngx-datatable.fixed-header .datatable-header .datatable-header-inner {
+    white-space: nowrap; }
+    .ngx-datatable.fixed-header .datatable-header .datatable-header-inner .datatable-header-cell {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis; }
+  .ngx-datatable.fixed-row .datatable-scroll {
+    white-space: nowrap; }
+    .ngx-datatable.fixed-row .datatable-scroll .datatable-body-row {
+      white-space: nowrap; }
+      .ngx-datatable.fixed-row .datatable-scroll .datatable-body-row .datatable-body-cell {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis; }
+      .ngx-datatable.fixed-row .datatable-scroll .datatable-body-row .datatable-body-group-cell {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis; }
+  .ngx-datatable .datatable-body-row,
+  .ngx-datatable .datatable-row-center,
+  .ngx-datatable .datatable-header-inner {
+    display: flex;
+    flex-direction: row;
+    -o-flex-flow: row;
+    flex-flow: row; }
+  .ngx-datatable .datatable-body-cell,
+  .ngx-datatable .datatable-header-cell {
+    overflow-x: hidden;
+    vertical-align: top;
+    display: inline-block;
+    line-height: 1.625; }
+    .ngx-datatable .datatable-body-cell:focus,
+    .ngx-datatable .datatable-header-cell:focus {
+      outline: none; }
+  .ngx-datatable .datatable-row-left,
+  .ngx-datatable .datatable-row-right {
+    z-index: 9; }
+  .ngx-datatable .datatable-row-left,
+  .ngx-datatable .datatable-row-center,
+  .ngx-datatable .datatable-row-group,
+  .ngx-datatable .datatable-row-right {
+    position: relative; }
+  .ngx-datatable .datatable-header {
+    display: block;
+    overflow: hidden; }
+    .ngx-datatable .datatable-header .datatable-header-inner {
+      align-items: stretch;
+      -webkit-align-items: stretch; }
+    .ngx-datatable .datatable-header .datatable-header-cell {
+      position: relative;
+      display: inline-block; }
+      .ngx-datatable .datatable-header .datatable-header-cell.sortable .datatable-header-cell-wrapper {
+        cursor: pointer; }
+      .ngx-datatable .datatable-header .datatable-header-cell.longpress .datatable-header-cell-wrapper {
+        cursor: move; }
+      .ngx-datatable .datatable-header .datatable-header-cell .sort-btn {
+        line-height: 100%;
+        vertical-align: middle;
+        display: inline-block;
+        cursor: pointer; }
+      .ngx-datatable .datatable-header .datatable-header-cell .resize-handle,
+      .ngx-datatable .datatable-header .datatable-header-cell .resize-handle--not-resizable {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: 5px;
+        padding: 0 4px;
+        visibility: hidden; }
+      .ngx-datatable .datatable-header .datatable-header-cell .resize-handle {
+        cursor: ew-resize; }
+      .ngx-datatable .datatable-header .datatable-header-cell.resizeable:hover .resize-handle {
+        visibility: visible; }
+      .ngx-datatable .datatable-header .datatable-header-cell:hover .resize-handle--not-resizable {
+        visibility: visible; }
+      .ngx-datatable .datatable-header .datatable-header-cell .targetMarker {
+        position: absolute;
+        top: 0;
+        bottom: 0; }
+        .ngx-datatable .datatable-header .datatable-header-cell .targetMarker.dragFromLeft {
+          right: 0; }
+        .ngx-datatable .datatable-header .datatable-header-cell .targetMarker.dragFromRight {
+          left: 0; }
+      .ngx-datatable .datatable-header .datatable-header-cell .datatable-header-cell-template-wrap {
+        height: inherit; }
+  .ngx-datatable .datatable-body {
+    position: relative;
+    z-index: 10;
+    display: block; }
+    .ngx-datatable .datatable-body .datatable-scroll {
+      display: inline-block; }
+    .ngx-datatable .datatable-body .datatable-row-detail {
+      overflow-y: hidden; }
+    .ngx-datatable .datatable-body .datatable-row-wrapper {
+      display: flex;
+      flex-direction: column; }
+    .ngx-datatable .datatable-body .datatable-body-row {
+      outline: none; }
+      .ngx-datatable .datatable-body .datatable-body-row > div {
+        display: flex; }
+  .ngx-datatable .datatable-footer {
+    display: block;
+    width: 100%;
+    overflow: auto; }
+    .ngx-datatable .datatable-footer .datatable-footer-inner {
+      display: flex;
+      align-items: center;
+      width: 100%; }
+    .ngx-datatable .datatable-footer .selected-count .page-count {
+      flex: 1 1 40%; }
+    .ngx-datatable .datatable-footer .selected-count .datatable-pager {
+      flex: 1 1 60%; }
+    .ngx-datatable .datatable-footer .page-count {
+      flex: 1 1 20%; }
+    .ngx-datatable .datatable-footer .datatable-pager {
+      flex: 1 1 80%;
+      text-align: right; }
+      .ngx-datatable .datatable-footer .datatable-pager .pager,
+      .ngx-datatable .datatable-footer .datatable-pager .pager li {
+        padding: 0;
+        margin: 0;
+        display: inline-block;
+        list-style: none; }
+      .ngx-datatable .datatable-footer .datatable-pager .pager li,
+      .ngx-datatable .datatable-footer .datatable-pager .pager li a {
+        outline: none; }
+      .ngx-datatable .datatable-footer .datatable-pager .pager li a {
+        cursor: pointer;
+        display: inline-block; }
+      .ngx-datatable .datatable-footer .datatable-pager .pager li.disabled a {
+        cursor: not-allowed; }
+
+/*!****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/@swimlane/ngx-datatable/themes/material.css?ngGlobalStyle ***!
+  \****************************************************************************************************************************************************************************************************************************************************************/
+/*
+  This stylesheet uses scss valiables for most of the colors / background-colors of the table
+  to enable the customization of the displayed table without cloning the stylesheet into the
+  own application.
+
+  To modify table colors, add the following lines to the scss file of your application
+  (this example modifies the color of the selected row - selectionType = single, multi or multiClick):
+
+  $ngx-datatable-selected-active-background: yellow;
+  $ngx-datatable-selected-active-background-hover: rgba(yellow, 0.2);
+
+  @import '~@swimlane/ngx-datatable/index.css';
+  @import '~@swimlane/ngx-datatable/themes/material.scss';
+  @import '~@swimlane/ngx-datatable/assets/icons.css';
+
+That's all.
+*/
+.ngx-datatable.material {
+  background: #fff;
+  box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2), 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12);
+  /**
+	 * Shared Styles
+	 */
+  /**
+	 * Global Row Styles
+	 */
+  /**
+	 * Header Styles
+	 */
+  /**
+	 * Body Styles
+	 */
+  /**
+	 * Footer Styles
+	 */ }
+  .ngx-datatable.material.striped .datatable-row-odd {
+    background: #eee; }
+  .ngx-datatable.material.single-selection .datatable-body-row.active,
+  .ngx-datatable.material.single-selection .datatable-body-row.active .datatable-row-group, .ngx-datatable.material.multi-selection .datatable-body-row.active,
+  .ngx-datatable.material.multi-selection .datatable-body-row.active .datatable-row-group, .ngx-datatable.material.multi-click-selection .datatable-body-row.active,
+  .ngx-datatable.material.multi-click-selection .datatable-body-row.active .datatable-row-group {
+    background-color: #304ffe;
+    color: #fff; }
+  .ngx-datatable.material.single-selection .datatable-body-row.active:hover,
+  .ngx-datatable.material.single-selection .datatable-body-row.active:hover .datatable-row-group, .ngx-datatable.material.multi-selection .datatable-body-row.active:hover,
+  .ngx-datatable.material.multi-selection .datatable-body-row.active:hover .datatable-row-group, .ngx-datatable.material.multi-click-selection .datatable-body-row.active:hover,
+  .ngx-datatable.material.multi-click-selection .datatable-body-row.active:hover .datatable-row-group {
+    background-color: #193ae4;
+    color: #fff; }
+  .ngx-datatable.material.single-selection .datatable-body-row.active:focus,
+  .ngx-datatable.material.single-selection .datatable-body-row.active:focus .datatable-row-group, .ngx-datatable.material.multi-selection .datatable-body-row.active:focus,
+  .ngx-datatable.material.multi-selection .datatable-body-row.active:focus .datatable-row-group, .ngx-datatable.material.multi-click-selection .datatable-body-row.active:focus,
+  .ngx-datatable.material.multi-click-selection .datatable-body-row.active:focus .datatable-row-group {
+    background-color: #2041ef;
+    color: #fff; }
+  .ngx-datatable.material:not(.cell-selection) .datatable-body-row:hover,
+  .ngx-datatable.material:not(.cell-selection) .datatable-body-row:hover .datatable-row-group {
+    background-color: #eee;
+    transition-property: background;
+    transition-duration: 0.3s;
+    transition-timing-function: linear; }
+  .ngx-datatable.material:not(.cell-selection) .datatable-body-row:focus,
+  .ngx-datatable.material:not(.cell-selection) .datatable-body-row:focus .datatable-row-group {
+    background-color: #ddd; }
+  .ngx-datatable.material.cell-selection .datatable-body-cell:hover,
+  .ngx-datatable.material.cell-selection .datatable-body-cell:hover .datatable-row-group {
+    background-color: #eee;
+    transition-property: background;
+    transition-duration: 0.3s;
+    transition-timing-function: linear; }
+  .ngx-datatable.material.cell-selection .datatable-body-cell:focus,
+  .ngx-datatable.material.cell-selection .datatable-body-cell:focus .datatable-row-group {
+    background-color: #ddd; }
+  .ngx-datatable.material.cell-selection .datatable-body-cell.active,
+  .ngx-datatable.material.cell-selection .datatable-body-cell.active .datatable-row-group {
+    background-color: #304ffe;
+    color: #fff; }
+  .ngx-datatable.material.cell-selection .datatable-body-cell.active:hover,
+  .ngx-datatable.material.cell-selection .datatable-body-cell.active:hover .datatable-row-group {
+    background-color: #193ae4;
+    color: #fff; }
+  .ngx-datatable.material.cell-selection .datatable-body-cell.active:focus,
+  .ngx-datatable.material.cell-selection .datatable-body-cell.active:focus .datatable-row-group {
+    background-color: #2041ef;
+    color: #fff; }
+  .ngx-datatable.material .empty-row {
+    height: 50px;
+    text-align: left;
+    padding: 0.5rem 1.2rem;
+    vertical-align: top;
+    border-top: 0; }
+  .ngx-datatable.material .loading-row {
+    text-align: left;
+    padding: 0.5rem 1.2rem;
+    vertical-align: top;
+    border-top: 0; }
+  .ngx-datatable.material .datatable-header .datatable-row-left,
+  .ngx-datatable.material .datatable-body .datatable-row-left {
+    background-color: #fff;
+    background-position: 100% 0;
+    background-repeat: repeat-y;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAFklEQVQIHWPSkNeSBmJhTQVtbiDNCgASagIIuJX8OgAAAABJRU5ErkJggg==); }
+  .ngx-datatable.material .datatable-header .datatable-row-right,
+  .ngx-datatable.material .datatable-body .datatable-row-right {
+    background-position: 0 0;
+    background-color: #fff;
+    background-repeat: repeat-y;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAFklEQVQI12PQkNdi1VTQ5gbSwkAsDQARLAIGtOSFUAAAAABJRU5ErkJggg==); }
+  .ngx-datatable.material .datatable-header {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12); }
+    .ngx-datatable.material .datatable-header .datatable-header-cell {
+      text-align: left;
+      padding: 0.9rem 1.2rem;
+      font-weight: 400;
+      background-color: #fff;
+      color: rgba(0, 0, 0, 0.54);
+      vertical-align: bottom;
+      font-size: 12px;
+      font-weight: 500; }
+      .ngx-datatable.material .datatable-header .datatable-header-cell .datatable-header-cell-wrapper {
+        position: relative; }
+      .ngx-datatable.material .datatable-header .datatable-header-cell.longpress .draggable::after {
+        transition: transform 400ms ease, opacity 400ms ease;
+        opacity: 0.5;
+        transform: scale(1); }
+      .ngx-datatable.material .datatable-header .datatable-header-cell .draggable::after {
+        content: ' ';
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin: -30px 0 0 -30px;
+        height: 60px;
+        width: 60px;
+        background: #eee;
+        border-radius: 100%;
+        opacity: 1;
+        filter: none;
+        transform: scale(0);
+        z-index: 9999;
+        pointer-events: none; }
+      .ngx-datatable.material .datatable-header .datatable-header-cell.dragging .resize-handle {
+        border-right: none; }
+    .ngx-datatable.material .datatable-header .resize-handle {
+      border-right: solid 1px #eee; }
+  .ngx-datatable.material .datatable-body {
+    position: relative; }
+    .ngx-datatable.material .datatable-body .datatable-row-detail {
+      background: #f5f5f5;
+      padding: 10px; }
+    .ngx-datatable.material .datatable-body .datatable-group-header {
+      background: #f5f5f5;
+      border-bottom: solid 1px #d9d8d9;
+      border-top: solid 1px #d9d8d9; }
+    .ngx-datatable.material .datatable-body .datatable-body-row .datatable-body-cell {
+      text-align: left;
+      padding: 0.9rem 1.2rem;
+      vertical-align: top;
+      border-top: 0;
+      color: rgba(0, 0, 0, 0.87);
+      transition: width 0.3s ease;
+      font-size: 14px;
+      font-weight: 400; }
+    .ngx-datatable.material .datatable-body .datatable-body-row .datatable-body-group-cell {
+      text-align: left;
+      padding: 0.9rem 1.2rem;
+      vertical-align: top;
+      border-top: 0;
+      color: rgba(0, 0, 0, 0.87);
+      transition: width 0.3s ease;
+      font-size: 14px;
+      font-weight: 400; }
+    .ngx-datatable.material .datatable-body .progress-linear {
+      display: block;
+      position: sticky;
+      width: 100%;
+      height: 5px;
+      padding: 0;
+      margin: 0;
+      top: 0; }
+      .ngx-datatable.material .datatable-body .progress-linear .container {
+        display: block;
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        height: 5px;
+        transform: translate(0, 0) scale(1, 1);
+        background-color: #aad1f9; }
+        .ngx-datatable.material .datatable-body .progress-linear .container .bar {
+          transition: all 0.2s linear;
+          animation: query 0.8s infinite cubic-bezier(0.39, 0.575, 0.565, 1);
+          transition: transform 0.2s linear;
+          background-color: #106cc8;
+          position: absolute;
+          left: 0;
+          top: 0;
+          bottom: 0;
+          width: 100%;
+          height: 5px; }
+  .ngx-datatable.material .datatable-footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+    font-size: 12px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.54); }
+    .ngx-datatable.material .datatable-footer .page-count {
+      line-height: 50px;
+      height: 50px;
+      padding: 0 1.2rem; }
+    .ngx-datatable.material .datatable-footer .datatable-pager {
+      margin: 0 10px; }
+      .ngx-datatable.material .datatable-footer .datatable-pager li {
+        vertical-align: middle; }
+        .ngx-datatable.material .datatable-footer .datatable-pager li.disabled a {
+          color: rgba(0, 0, 0, 0.26) !important;
+          background-color: transparent !important; }
+        .ngx-datatable.material .datatable-footer .datatable-pager li.active a {
+          background-color: rgba(158, 158, 158, 0.2);
+          font-weight: bold; }
+      .ngx-datatable.material .datatable-footer .datatable-pager a {
+        height: 22px;
+        min-width: 24px;
+        line-height: 22px;
+        padding: 0 6px;
+        border-radius: 3px;
+        margin: 6px 3px;
+        text-align: center;
+        vertical-align: top;
+        color: rgba(0, 0, 0, 0.54);
+        text-decoration: none;
+        vertical-align: bottom; }
+        .ngx-datatable.material .datatable-footer .datatable-pager a:hover {
+          color: rgba(0, 0, 0, 0.75);
+          background-color: rgba(158, 158, 158, 0.2); }
+      .ngx-datatable.material .datatable-footer .datatable-pager .datatable-icon-left,
+      .ngx-datatable.material .datatable-footer .datatable-pager .datatable-icon-skip,
+      .ngx-datatable.material .datatable-footer .datatable-pager .datatable-icon-right,
+      .ngx-datatable.material .datatable-footer .datatable-pager .datatable-icon-prev {
+        font-size: 20px;
+        line-height: 20px;
+        padding: 0 3px; }
+  .ngx-datatable.material .datatable-summary-row .datatable-body-row {
+    background-color: #ddd; }
+    .ngx-datatable.material .datatable-summary-row .datatable-body-row:hover {
+      background-color: #ddd; }
+    .ngx-datatable.material .datatable-summary-row .datatable-body-row .datatable-body-cell {
+      font-weight: bold; }
+
+/**
+ * Checkboxes
+**/
+.datatable-checkbox {
+  position: relative;
+  margin: 0;
+  cursor: pointer;
+  vertical-align: middle;
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 0; }
+  .datatable-checkbox input[type='checkbox'] {
+    position: relative;
+    margin: 0 1rem 0 0;
+    cursor: pointer;
+    outline: none; }
+    .datatable-checkbox input[type='checkbox']:before {
+      transition: all 0.3s ease-in-out;
+      content: '';
+      position: absolute;
+      left: 0;
+      z-index: 1;
+      width: 1rem;
+      height: 1rem;
+      border: 2px solid #f2f2f2; }
+    .datatable-checkbox input[type='checkbox']:checked:before {
+      transform: rotate(-45deg);
+      height: 0.5rem;
+      border-color: #009688;
+      border-top-style: none;
+      border-right-style: none; }
+    .datatable-checkbox input[type='checkbox']:after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 1rem;
+      height: 1rem;
+      background: #fff;
+      cursor: pointer; }
+
+/**
+ * Progress bar animations
+ */
+@keyframes query {
+  0% {
+    opacity: 1;
+    transform: translateX(35%) scale(0.3, 1); }
+  100% {
+    opacity: 0;
+    transform: translateX(-50%) scale(0, 1); } }
+
+/*!************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/@swimlane/ngx-datatable/themes/dark.css?ngGlobalStyle ***!
+  \************************************************************************************************************************************************************************************************************************************************************/
+.ngx-datatable.dark {
+  box-shadow: none;
+  background: #1b1e27;
+  border: 1px solid #2f3646;
+  color: #fff;
+  font-size: 13px; }
+  .ngx-datatable.dark .datatable-header {
+    background: #181b24;
+    color: #72809b; }
+    .ngx-datatable.dark .datatable-header .datatable-header-cell {
+      text-align: left;
+      padding: 0.5rem 1.2rem;
+      font-weight: bold; }
+      .ngx-datatable.dark .datatable-header .datatable-header-cell .datatable-header-cell-label {
+        line-height: 24px; }
+  .ngx-datatable.dark .datatable-body {
+    background: #1a1e28; }
+    .ngx-datatable.dark .datatable-body .datatable-body-row {
+      border-top: 1px solid #2f3646; }
+      .ngx-datatable.dark .datatable-body .datatable-body-row .datatable-body-cell {
+        text-align: left;
+        padding: 0.5rem 1.2rem;
+        vertical-align: top; }
+      .ngx-datatable.dark .datatable-body .datatable-body-row:hover {
+        background: #171b24;
+        transition-property: background;
+        transition-duration: 0.3s;
+        transition-timing-function: linear; }
+      .ngx-datatable.dark .datatable-body .datatable-body-row:focus {
+        background-color: #232837; }
+      .ngx-datatable.dark .datatable-body .datatable-body-row.active {
+        background-color: #1483ff;
+        color: #fff; }
+  .ngx-datatable.dark .datatable-footer {
+    background: #232837;
+    color: #72809b;
+    margin-top: -1px; }
+    .ngx-datatable.dark .datatable-footer .page-count {
+      line-height: 50px;
+      height: 50px;
+      padding: 0 1.2rem; }
+    .ngx-datatable.dark .datatable-footer .datatable-pager {
+      margin: 0 10px;
+      vertical-align: top; }
+      .ngx-datatable.dark .datatable-footer .datatable-pager ul li {
+        margin: 10px 0px; }
+        .ngx-datatable.dark .datatable-footer .datatable-pager ul li:not(.disabled).active a,
+        .ngx-datatable.dark .datatable-footer .datatable-pager ul li:not(.disabled):hover a {
+          background-color: #455066;
+          font-weight: bold; }
+      .ngx-datatable.dark .datatable-footer .datatable-pager a {
+        height: 22px;
+        min-width: 24px;
+        line-height: 22px;
+        padding: 0;
+        border-radius: 3px;
+        margin: 0 3px;
+        text-align: center;
+        vertical-align: top;
+        text-decoration: none;
+        vertical-align: bottom;
+        color: #72809b; }
+      .ngx-datatable.dark .datatable-footer .datatable-pager .datatable-icon-left,
+      .ngx-datatable.dark .datatable-footer .datatable-pager .datatable-icon-skip,
+      .ngx-datatable.dark .datatable-footer .datatable-pager .datatable-icon-right,
+      .ngx-datatable.dark .datatable-footer .datatable-pager .datatable-icon-prev {
+        font-size: 18px;
+        line-height: 27px;
+        padding: 0 3px; }
+  .ngx-datatable.dark .datatable-summary-row .datatable-body-row {
+    background-color: #14171f; }
+    .ngx-datatable.dark .datatable-summary-row .datatable-body-row:hover {
+      background-color: #14171f; }
+    .ngx-datatable.dark .datatable-summary-row .datatable-body-row .datatable-body-cell {
+      font-weight: bold; }
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/@swimlane/ngx-datatable/themes/bootstrap.css?ngGlobalStyle ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+/*
+bootstrap table theme
+*/
+.ngx-datatable.bootstrap {
+  box-shadow: none;
+  font-size: 13px; }
+  .ngx-datatable.bootstrap .datatable-header {
+    height: unset !important; }
+    .ngx-datatable.bootstrap .datatable-header .datatable-header-cell {
+      vertical-align: bottom;
+      padding: 0.75rem;
+      border-bottom: 1px solid #d1d4d7; }
+      .ngx-datatable.bootstrap .datatable-header .datatable-header-cell .datatable-header-cell-label {
+        line-height: 24px; }
+  .ngx-datatable.bootstrap .datatable-body .datatable-body-row {
+    vertical-align: top;
+    border-top: 1px solid #d1d4d7; }
+    .ngx-datatable.bootstrap .datatable-body .datatable-body-row.datatable-row-even {
+      background-color: rgba(0, 0, 0, 0.05); }
+    .ngx-datatable.bootstrap .datatable-body .datatable-body-row.active {
+      background-color: #1483ff;
+      color: #fff; }
+    .ngx-datatable.bootstrap .datatable-body .datatable-body-row .datatable-body-cell {
+      padding: 0.75rem;
+      text-align: left;
+      vertical-align: top; }
+  .ngx-datatable.bootstrap .datatable-body .empty-row {
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0; }
+  .ngx-datatable.bootstrap .datatable-footer {
+    background: #424242;
+    color: #ededed;
+    margin-top: -1px; }
+    .ngx-datatable.bootstrap .datatable-footer .page-count {
+      line-height: 50px;
+      height: 50px;
+      padding: 0 1.2rem; }
+    .ngx-datatable.bootstrap .datatable-footer .datatable-pager {
+      margin: 0 10px;
+      vertical-align: top; }
+      .ngx-datatable.bootstrap .datatable-footer .datatable-pager ul li {
+        margin: 10px 0px; }
+        .ngx-datatable.bootstrap .datatable-footer .datatable-pager ul li:not(.disabled).active a, .ngx-datatable.bootstrap .datatable-footer .datatable-pager ul li:not(.disabled):hover a {
+          background-color: #545454;
+          font-weight: bold; }
+      .ngx-datatable.bootstrap .datatable-footer .datatable-pager a {
+        height: 22px;
+        min-width: 24px;
+        line-height: 22px;
+        padding: 0;
+        border-radius: 3px;
+        margin: 0 3px;
+        text-align: center;
+        vertical-align: top;
+        text-decoration: none;
+        vertical-align: bottom;
+        color: #ededed; }
+      .ngx-datatable.bootstrap .datatable-footer .datatable-pager .datatable-icon-left,
+      .ngx-datatable.bootstrap .datatable-footer .datatable-pager .datatable-icon-skip,
+      .ngx-datatable.bootstrap .datatable-footer .datatable-pager .datatable-icon-right,
+      .ngx-datatable.bootstrap .datatable-footer .datatable-pager .datatable-icon-prev {
+        font-size: 18px;
+        line-height: 27px;
+        padding: 0 3px; }
+  .ngx-datatable.bootstrap .datatable-summary-row .datatable-body-row .datatable-body-cell {
+    font-weight: bold; }
+
+/*!*************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/@swimlane/ngx-datatable/assets/icons.css?ngGlobalStyle ***!
+  \*************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'data-table';
+  src: url('data-table.eot');
+  src: url('data-table.eot?#iefix') format('embedded-opentype'), url('data-table.woff') format('woff'),
+    url('data-table.ttf') format('truetype'), url('data-table.svg#data-table') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]::before {
+  font-family: 'data-table' !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^='datatable-icon-']::before,
+[class*=' datatable-icon-']::before {
+  font-family: 'data-table' !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.datatable-icon-filter::before {
+  content: '\62';
+}
+
+.datatable-icon-collapse::before {
+  content: '\61';
+}
+
+.datatable-icon-expand::before {
+  content: '\63';
+}
+
+.datatable-icon-close::before {
+  content: '\64';
+}
+
+.datatable-icon-up::before {
+  content: '\65';
+}
+
+.datatable-icon-down::before {
+  content: '\66';
+}
+
+.datatable-icon-sort-unset::before {
+  content: '\63';
+  opacity: 0.5;
+}
+
+.datatable-icon-sort::before {
+  content: '\67';
+}
+
+.datatable-icon-done::before {
+  content: '\68';
+}
+
+.datatable-icon-done-all::before {
+  content: '\69';
+}
+
+.datatable-icon-search::before {
+  content: '\6a';
+}
+
+.datatable-icon-pin::before {
+  content: '\6b';
+}
+
+.datatable-icon-add::before {
+  content: '\6d';
+}
+
+.datatable-icon-left::before {
+  content: '\6f';
+}
+
+.datatable-icon-right::before {
+  content: '\70';
+}
+
+.datatable-icon-skip::before {
+  content: '\71';
+}
+
+.datatable-icon-prev::before {
+  content: '\72';
+}
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/scss/__aio_variables.scss?ngGlobalStyle ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+:root {
+  /** primary **/
+  --ion-color-primary: #3880ff;
+  --ion-color-primary-rgb: 56, 128, 255;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #3171e0;
+  --ion-color-primary-tint: #4c8dff;
+  /** secondary **/
+  --ion-color-secondary: #3dc2ff;
+  --ion-color-secondary-rgb: 61, 194, 255;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+  --ion-color-secondary-shade: #36abe0;
+  --ion-color-secondary-tint: #50c8ff;
+  /** tertiary **/
+  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary-rgb: 82, 96, 255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255, 255, 255;
+  --ion-color-tertiary-shade: #4854e0;
+  --ion-color-tertiary-tint: #6370ff;
+  /** success **/
+  --ion-color-success: #2dd36f;
+  --ion-color-success-rgb: 45, 211, 111;
+  --ion-color-success-contrast: #ffffff;
+  --ion-color-success-contrast-rgb: 255, 255, 255;
+  --ion-color-success-shade: #28ba62;
+  --ion-color-success-tint: #42d77d;
+  /** warning **/
+  --ion-color-warning: #ffc409;
+  --ion-color-warning-rgb: 255, 196, 9;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0, 0, 0;
+  --ion-color-warning-shade: #e0ac08;
+  --ion-color-warning-tint: #ffca22;
+  /** danger **/
+  --ion-color-danger: #eb445a;
+  --ion-color-danger-rgb: 235, 68, 90;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255, 255, 255;
+  --ion-color-danger-shade: #cf3c4f;
+  --ion-color-danger-tint: #ed576b;
+  /** dark **/
+  --ion-color-dark: #222428;
+  --ion-color-dark-rgb: 34, 36, 40;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255, 255, 255;
+  --ion-color-dark-shade: #1e2023;
+  --ion-color-dark-tint: #383a3e;
+  /** medium **/
+  --ion-color-medium: #92949c;
+  --ion-color-medium-rgb: 146, 148, 156;
+  --ion-color-medium-contrast: #ffffff;
+  --ion-color-medium-contrast-rgb: 255, 255, 255;
+  --ion-color-medium-shade: #808289;
+  --ion-color-medium-tint: #9d9fa6;
+  /** light **/
+  --ion-color-light: #f4f5f8;
+  --ion-color-light-rgb: 244, 245, 248;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0, 0, 0;
+  --ion-color-light-shade: #d7d8da;
+  --ion-color-light-tint: #f5f6f9;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/theme/Aqua.scss?ngGlobalStyle ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+body.Aqua {
+  --ion-color-primary: #23b1de;
+  --ion-color-primary-rgb: 35,177,222;
+  --ion-color-primary-contrast: #000000;
+  --ion-color-primary-contrast-rgb: 0,0,0;
+  --ion-color-primary-shade: #1f9cc3;
+  --ion-color-primary-tint: #39b9e1;
+  --ion-color-secondary: #4389fc;
+  --ion-color-secondary-rgb: 67,137,252;
+  --ion-color-secondary-contrast: #000000;
+  --ion-color-secondary-contrast-rgb: 0,0,0;
+  --ion-color-secondary-shade: #3b79de;
+  --ion-color-secondary-tint: #5695fc;
+  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary-rgb: 82,96,255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255,255,255;
+  --ion-color-tertiary-shade: #4854e0;
+  --ion-color-tertiary-tint: #6370ff;
+  --ion-color-success: #2dd36f;
+  --ion-color-success-rgb: 45,211,111;
+  --ion-color-success-contrast: #000000;
+  --ion-color-success-contrast-rgb: 0,0,0;
+  --ion-color-success-shade: #28ba62;
+  --ion-color-success-tint: #42d77d;
+  --ion-color-warning: #ffc409;
+  --ion-color-warning-rgb: 255,196,9;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0,0,0;
+  --ion-color-warning-shade: #e0ac08;
+  --ion-color-warning-tint: #ffca22;
+  --ion-color-danger: #ff3b3b;
+  --ion-color-danger-rgb: 255,59,59;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255,255,255;
+  --ion-color-danger-shade: #e03434;
+  --ion-color-danger-tint: #ff4f4f;
+  --ion-color-dark: #2d2d2d;
+  --ion-color-dark-rgb: 45,45,45;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255,255,255;
+  --ion-color-dark-shade: #282828;
+  --ion-color-dark-tint: #424242;
+  --ion-color-medium: #92949c;
+  --ion-color-medium-rgb: 146,148,156;
+  --ion-color-medium-contrast: #000000;
+  --ion-color-medium-contrast-rgb: 0,0,0;
+  --ion-color-medium-shade: #808289;
+  --ion-color-medium-tint: #9d9fa6;
+  --ion-color-light: #ffffff;
+  --ion-color-light-rgb: 255,255,255;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0,0,0;
+  --ion-color-light-shade: #e0e0e0;
+  --ion-color-light-tint: #ffffff;
+  --ion-background-color: #f8f8f8;
+  --ion-background-color-rgb: 248,248,248;
+  --ion-text-color: #000000;
+  --ion-text-color-rgb: 0,0,0;
+  --ion-color-step-50: #ececec;
+  --ion-color-step-100: #dfdfdf;
+  --ion-color-step-150: #d3d3d3;
+  --ion-color-step-200: #c6c6c6;
+  --ion-color-step-250: #bababa;
+  --ion-color-step-300: #aeaeae;
+  --ion-color-step-350: #a1a1a1;
+  --ion-color-step-400: #959595;
+  --ion-color-step-450: #888888;
+  --ion-color-step-500: #7c7c7c;
+  --ion-color-step-550: #707070;
+  --ion-color-step-600: #636363;
+  --ion-color-step-650: #575757;
+  --ion-color-step-700: #4a4a4a;
+  --ion-color-step-750: #3e3e3e;
+  --ion-color-step-800: #323232;
+  --ion-color-step-850: #252525;
+  --ion-color-step-900: #191919;
+  --ion-color-step-950: #0c0c0c;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255,255,255;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/theme/Blue.scss?ngGlobalStyle ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+body.Blue {
+  --ion-color-primary: #4389fc;
+  --ion-color-primary-rgb: 67,137,252;
+  --ion-color-primary-contrast: #000000;
+  --ion-color-primary-contrast-rgb: 0,0,0;
+  --ion-color-primary-shade: #3b79de;
+  --ion-color-primary-tint: #5695fc;
+  --ion-color-secondary: #706ed9;
+  --ion-color-secondary-rgb: 112,110,217;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255,255,255;
+  --ion-color-secondary-shade: #6361bf;
+  --ion-color-secondary-tint: #7e7ddd;
+  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary-rgb: 82,96,255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255,255,255;
+  --ion-color-tertiary-shade: #4854e0;
+  --ion-color-tertiary-tint: #6370ff;
+  --ion-color-success: #2dd36f;
+  --ion-color-success-rgb: 45,211,111;
+  --ion-color-success-contrast: #000000;
+  --ion-color-success-contrast-rgb: 0,0,0;
+  --ion-color-success-shade: #28ba62;
+  --ion-color-success-tint: #42d77d;
+  --ion-color-warning: #ffc409;
+  --ion-color-warning-rgb: 255,196,9;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0,0,0;
+  --ion-color-warning-shade: #e0ac08;
+  --ion-color-warning-tint: #ffca22;
+  --ion-color-danger: #ff3b3b;
+  --ion-color-danger-rgb: 255,59,59;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255,255,255;
+  --ion-color-danger-shade: #e03434;
+  --ion-color-danger-tint: #ff4f4f;
+  --ion-color-dark: #2d2d2d;
+  --ion-color-dark-rgb: 45,45,45;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255,255,255;
+  --ion-color-dark-shade: #282828;
+  --ion-color-dark-tint: #424242;
+  --ion-color-medium: #92949c;
+  --ion-color-medium-rgb: 146,148,156;
+  --ion-color-medium-contrast: #000000;
+  --ion-color-medium-contrast-rgb: 0,0,0;
+  --ion-color-medium-shade: #808289;
+  --ion-color-medium-tint: #9d9fa6;
+  --ion-color-light: #ffffff;
+  --ion-color-light-rgb: 255,255,255;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0,0,0;
+  --ion-color-light-shade: #e0e0e0;
+  --ion-color-light-tint: #ffffff;
+  --ion-background-color: #f8f8f8;
+  --ion-background-color-rgb: 248,248,248;
+  --ion-text-color: #000000;
+  --ion-text-color-rgb: 0,0,0;
+  --ion-color-step-50: #ececec;
+  --ion-color-step-100: #dfdfdf;
+  --ion-color-step-150: #d3d3d3;
+  --ion-color-step-200: #c6c6c6;
+  --ion-color-step-250: #bababa;
+  --ion-color-step-300: #aeaeae;
+  --ion-color-step-350: #a1a1a1;
+  --ion-color-step-400: #959595;
+  --ion-color-step-450: #888888;
+  --ion-color-step-500: #7c7c7c;
+  --ion-color-step-550: #707070;
+  --ion-color-step-600: #636363;
+  --ion-color-step-650: #575757;
+  --ion-color-step-700: #4a4a4a;
+  --ion-color-step-750: #3e3e3e;
+  --ion-color-step-800: #323232;
+  --ion-color-step-850: #252525;
+  --ion-color-step-900: #191919;
+  --ion-color-step-950: #0c0c0c;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255,255,255;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/theme/Default.scss?ngGlobalStyle ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+body.Default {
+  --ion-color-primary: #3880ff;
+  --ion-color-primary-rgb: 56,128,255;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255,255,255;
+  --ion-color-primary-shade: #3171e0;
+  --ion-color-primary-tint: #4c8dff;
+  --ion-color-secondary: #3dc2ff;
+  --ion-color-secondary-rgb: 61,194,255;
+  --ion-color-secondary-contrast: #000000;
+  --ion-color-secondary-contrast-rgb: 0,0,0;
+  --ion-color-secondary-shade: #36abe0;
+  --ion-color-secondary-tint: #50c8ff;
+  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary-rgb: 82,96,255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255,255,255;
+  --ion-color-tertiary-shade: #4854e0;
+  --ion-color-tertiary-tint: #6370ff;
+  --ion-color-success: #2dd36f;
+  --ion-color-success-rgb: 45,211,111;
+  --ion-color-success-contrast: #000000;
+  --ion-color-success-contrast-rgb: 0,0,0;
+  --ion-color-success-shade: #28ba62;
+  --ion-color-success-tint: #42d77d;
+  --ion-color-warning: #ffc409;
+  --ion-color-warning-rgb: 255,196,9;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0,0,0;
+  --ion-color-warning-shade: #e0ac08;
+  --ion-color-warning-tint: #ffca22;
+  --ion-color-danger: #eb445a;
+  --ion-color-danger-rgb: 235,68,90;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255,255,255;
+  --ion-color-danger-shade: #cf3c4f;
+  --ion-color-danger-tint: #ed576b;
+  --ion-color-dark: #222428;
+  --ion-color-dark-rgb: 34,36,40;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255,255,255;
+  --ion-color-dark-shade: #1e2023;
+  --ion-color-dark-tint: #383a3e;
+  --ion-color-medium: #92949c;
+  --ion-color-medium-rgb: 146,148,156;
+  --ion-color-medium-contrast: #000000;
+  --ion-color-medium-contrast-rgb: 0,0,0;
+  --ion-color-medium-shade: #808289;
+  --ion-color-medium-tint: #9d9fa6;
+  --ion-color-light: #f4f5f8;
+  --ion-color-light-rgb: 244,245,248;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0,0,0;
+  --ion-color-light-shade: #d7d8da;
+  --ion-color-light-tint: #f5f6f9;
+  --ion-background-color: #ffffff;
+  --ion-background-color-rgb: 255,255,255;
+  --ion-text-color: #000000;
+  --ion-text-color-rgb: 0,0,0;
+  --ion-color-step-50: #f2f2f2;
+  --ion-color-step-100: #e6e6e6;
+  --ion-color-step-150: #d9d9d9;
+  --ion-color-step-200: #cccccc;
+  --ion-color-step-250: #bfbfbf;
+  --ion-color-step-300: #b3b3b3;
+  --ion-color-step-350: #a6a6a6;
+  --ion-color-step-400: #999999;
+  --ion-color-step-450: #8c8c8c;
+  --ion-color-step-500: #808080;
+  --ion-color-step-550: #737373;
+  --ion-color-step-600: #666666;
+  --ion-color-step-650: #595959;
+  --ion-color-step-700: #4d4d4d;
+  --ion-color-step-750: #404040;
+  --ion-color-step-800: #333333;
+  --ion-color-step-850: #262626;
+  --ion-color-step-900: #1a1a1a;
+  --ion-color-step-950: #0d0d0d;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/theme/Green.scss?ngGlobalStyle ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+body.Green {
+  --ion-color-primary: #18c77d;
+  --ion-color-primary-rgb: 24,199,125;
+  --ion-color-primary-contrast: #000000;
+  --ion-color-primary-contrast-rgb: 0,0,0;
+  --ion-color-primary-shade: #15af6e;
+  --ion-color-primary-tint: #2fcd8a;
+  --ion-color-secondary: #159d64;
+  --ion-color-secondary-rgb: 21,157,100;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255,255,255;
+  --ion-color-secondary-shade: #128a58;
+  --ion-color-secondary-tint: #2ca774;
+  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary-rgb: 82,96,255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255,255,255;
+  --ion-color-tertiary-shade: #4854e0;
+  --ion-color-tertiary-tint: #6370ff;
+  --ion-color-success: #2dd36f;
+  --ion-color-success-rgb: 45,211,111;
+  --ion-color-success-contrast: #000000;
+  --ion-color-success-contrast-rgb: 0,0,0;
+  --ion-color-success-shade: #28ba62;
+  --ion-color-success-tint: #42d77d;
+  --ion-color-warning: #ffc409;
+  --ion-color-warning-rgb: 255,196,9;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0,0,0;
+  --ion-color-warning-shade: #e0ac08;
+  --ion-color-warning-tint: #ffca22;
+  --ion-color-danger: #ff3b3b;
+  --ion-color-danger-rgb: 255,59,59;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255,255,255;
+  --ion-color-danger-shade: #e03434;
+  --ion-color-danger-tint: #ff4f4f;
+  --ion-color-dark: #2d2d2d;
+  --ion-color-dark-rgb: 45,45,45;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255,255,255;
+  --ion-color-dark-shade: #282828;
+  --ion-color-dark-tint: #424242;
+  --ion-color-medium: #92949c;
+  --ion-color-medium-rgb: 146,148,156;
+  --ion-color-medium-contrast: #000000;
+  --ion-color-medium-contrast-rgb: 0,0,0;
+  --ion-color-medium-shade: #808289;
+  --ion-color-medium-tint: #9d9fa6;
+  --ion-color-light: #ffffff;
+  --ion-color-light-rgb: 255,255,255;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0,0,0;
+  --ion-color-light-shade: #e0e0e0;
+  --ion-color-light-tint: #ffffff;
+  --ion-background-color: #f8f8f8;
+  --ion-background-color-rgb: 248,248,248;
+  --ion-text-color: #000000;
+  --ion-text-color-rgb: 0,0,0;
+  --ion-color-step-50: #ececec;
+  --ion-color-step-100: #dfdfdf;
+  --ion-color-step-150: #d3d3d3;
+  --ion-color-step-200: #c6c6c6;
+  --ion-color-step-250: #bababa;
+  --ion-color-step-300: #aeaeae;
+  --ion-color-step-350: #a1a1a1;
+  --ion-color-step-400: #959595;
+  --ion-color-step-450: #888888;
+  --ion-color-step-500: #7c7c7c;
+  --ion-color-step-550: #707070;
+  --ion-color-step-600: #636363;
+  --ion-color-step-650: #575757;
+  --ion-color-step-700: #4a4a4a;
+  --ion-color-step-750: #3e3e3e;
+  --ion-color-step-800: #323232;
+  --ion-color-step-850: #252525;
+  --ion-color-step-900: #191919;
+  --ion-color-step-950: #0c0c0c;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255,255,255;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/theme/Magenta.scss?ngGlobalStyle ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+body.Magenta {
+  --ion-color-primary: #c555ec;
+  --ion-color-primary-rgb: 197,85,236;
+  --ion-color-primary-contrast: #000000;
+  --ion-color-primary-contrast-rgb: 0,0,0;
+  --ion-color-primary-shade: #ad4bd0;
+  --ion-color-primary-tint: #cb66ee;
+  --ion-color-secondary: #706ed9;
+  --ion-color-secondary-rgb: 112,110,217;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255,255,255;
+  --ion-color-secondary-shade: #6361bf;
+  --ion-color-secondary-tint: #7e7ddd;
+  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary-rgb: 82,96,255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255,255,255;
+  --ion-color-tertiary-shade: #4854e0;
+  --ion-color-tertiary-tint: #6370ff;
+  --ion-color-success: #2dd36f;
+  --ion-color-success-rgb: 45,211,111;
+  --ion-color-success-contrast: #000000;
+  --ion-color-success-contrast-rgb: 0,0,0;
+  --ion-color-success-shade: #28ba62;
+  --ion-color-success-tint: #42d77d;
+  --ion-color-warning: #ffc409;
+  --ion-color-warning-rgb: 255,196,9;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0,0,0;
+  --ion-color-warning-shade: #e0ac08;
+  --ion-color-warning-tint: #ffca22;
+  --ion-color-danger: #ff3b3b;
+  --ion-color-danger-rgb: 255,59,59;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255,255,255;
+  --ion-color-danger-shade: #e03434;
+  --ion-color-danger-tint: #ff4f4f;
+  --ion-color-dark: #2d2d2d;
+  --ion-color-dark-rgb: 45,45,45;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255,255,255;
+  --ion-color-dark-shade: #282828;
+  --ion-color-dark-tint: #424242;
+  --ion-color-medium: #92949c;
+  --ion-color-medium-rgb: 146,148,156;
+  --ion-color-medium-contrast: #000000;
+  --ion-color-medium-contrast-rgb: 0,0,0;
+  --ion-color-medium-shade: #808289;
+  --ion-color-medium-tint: #9d9fa6;
+  --ion-color-light: #ffffff;
+  --ion-color-light-rgb: 255,255,255;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0,0,0;
+  --ion-color-light-shade: #e0e0e0;
+  --ion-color-light-tint: #ffffff;
+  --ion-background-color: #f8f8f8;
+  --ion-background-color-rgb: 248,248,248;
+  --ion-text-color: #000000;
+  --ion-text-color-rgb: 0,0,0;
+  --ion-color-step-50: #ececec;
+  --ion-color-step-100: #dfdfdf;
+  --ion-color-step-150: #d3d3d3;
+  --ion-color-step-200: #c6c6c6;
+  --ion-color-step-250: #bababa;
+  --ion-color-step-300: #aeaeae;
+  --ion-color-step-350: #a1a1a1;
+  --ion-color-step-400: #959595;
+  --ion-color-step-450: #888888;
+  --ion-color-step-500: #7c7c7c;
+  --ion-color-step-550: #707070;
+  --ion-color-step-600: #636363;
+  --ion-color-step-650: #575757;
+  --ion-color-step-700: #4a4a4a;
+  --ion-color-step-750: #3e3e3e;
+  --ion-color-step-800: #323232;
+  --ion-color-step-850: #252525;
+  --ion-color-step-900: #191919;
+  --ion-color-step-950: #0c0c0c;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255,255,255;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/theme/Purple.scss?ngGlobalStyle ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+body.Purple {
+  --ion-color-primary: #706ed9;
+  --ion-color-primary-rgb: 112,110,217;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255,255,255;
+  --ion-color-primary-shade: #6361bf;
+  --ion-color-primary-tint: #7e7ddd;
+  --ion-color-secondary: #4389fc;
+  --ion-color-secondary-rgb: 67,137,252;
+  --ion-color-secondary-contrast: #000000;
+  --ion-color-secondary-contrast-rgb: 0,0,0;
+  --ion-color-secondary-shade: #3b79de;
+  --ion-color-secondary-tint: #5695fc;
+  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary-rgb: 82,96,255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255,255,255;
+  --ion-color-tertiary-shade: #4854e0;
+  --ion-color-tertiary-tint: #6370ff;
+  --ion-color-success: #2dd36f;
+  --ion-color-success-rgb: 45,211,111;
+  --ion-color-success-contrast: #000000;
+  --ion-color-success-contrast-rgb: 0,0,0;
+  --ion-color-success-shade: #28ba62;
+  --ion-color-success-tint: #42d77d;
+  --ion-color-warning: #ffc409;
+  --ion-color-warning-rgb: 255,196,9;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0,0,0;
+  --ion-color-warning-shade: #e0ac08;
+  --ion-color-warning-tint: #ffca22;
+  --ion-color-danger: #ff3b3b;
+  --ion-color-danger-rgb: 255,59,59;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255,255,255;
+  --ion-color-danger-shade: #e03434;
+  --ion-color-danger-tint: #ff4f4f;
+  --ion-color-dark: #2d2d2d;
+  --ion-color-dark-rgb: 45,45,45;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255,255,255;
+  --ion-color-dark-shade: #282828;
+  --ion-color-dark-tint: #424242;
+  --ion-color-medium: #92949c;
+  --ion-color-medium-rgb: 146,148,156;
+  --ion-color-medium-contrast: #000000;
+  --ion-color-medium-contrast-rgb: 0,0,0;
+  --ion-color-medium-shade: #808289;
+  --ion-color-medium-tint: #9d9fa6;
+  --ion-color-light: #ffffff;
+  --ion-color-light-rgb: 255,255,255;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0,0,0;
+  --ion-color-light-shade: #e0e0e0;
+  --ion-color-light-tint: #ffffff;
+  --ion-background-color: #f8f8f8;
+  --ion-background-color-rgb: 248,248,248;
+  --ion-text-color: #000000;
+  --ion-text-color-rgb: 0,0,0;
+  --ion-color-step-50: #ececec;
+  --ion-color-step-100: #dfdfdf;
+  --ion-color-step-150: #d3d3d3;
+  --ion-color-step-200: #c6c6c6;
+  --ion-color-step-250: #bababa;
+  --ion-color-step-300: #aeaeae;
+  --ion-color-step-350: #a1a1a1;
+  --ion-color-step-400: #959595;
+  --ion-color-step-450: #888888;
+  --ion-color-step-500: #7c7c7c;
+  --ion-color-step-550: #707070;
+  --ion-color-step-600: #636363;
+  --ion-color-step-650: #575757;
+  --ion-color-step-700: #4a4a4a;
+  --ion-color-step-750: #3e3e3e;
+  --ion-color-step-800: #323232;
+  --ion-color-step-850: #252525;
+  --ion-color-step-900: #191919;
+  --ion-color-step-950: #0c0c0c;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255,255,255;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/scss/variables.scss?ngGlobalStyle ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/** Ionic CSS Variables **/
+@font-face {
+  font-family: "Raleway";
+  src: url('Raleway-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+:root {
+  /** primary **/
+  --ion-color-primary: #3880ff;
+  --ion-color-primary-rgb: 56, 128, 255;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #3171e0;
+  --ion-color-primary-tint: #4c8dff;
+  /** secondary **/
+  --ion-color-secondary: #3dc2ff;
+  --ion-color-secondary-rgb: 61, 194, 255;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+  --ion-color-secondary-shade: #36abe0;
+  --ion-color-secondary-tint: #50c8ff;
+  /** tertiary **/
+  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary-rgb: 82, 96, 255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255, 255, 255;
+  --ion-color-tertiary-shade: #4854e0;
+  --ion-color-tertiary-tint: #6370ff;
+  /** success **/
+  --ion-color-success: #2dd36f;
+  --ion-color-success-rgb: 45, 211, 111;
+  --ion-color-success-contrast: #ffffff;
+  --ion-color-success-contrast-rgb: 255, 255, 255;
+  --ion-color-success-shade: #28ba62;
+  --ion-color-success-tint: #42d77d;
+  /** warning **/
+  --ion-color-warning: #ffc409;
+  --ion-color-warning-rgb: 255, 196, 9;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0, 0, 0;
+  --ion-color-warning-shade: #e0ac08;
+  --ion-color-warning-tint: #ffca22;
+  /** danger **/
+  --ion-color-danger: #eb445a;
+  --ion-color-danger-rgb: 235, 68, 90;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255, 255, 255;
+  --ion-color-danger-shade: #cf3c4f;
+  --ion-color-danger-tint: #ed576b;
+  /** dark **/
+  --ion-color-dark: #222428;
+  --ion-color-dark-rgb: 34, 36, 40;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255, 255, 255;
+  --ion-color-dark-shade: #1e2023;
+  --ion-color-dark-tint: #383a3e;
+  /** medium **/
+  --ion-color-medium: #92949c;
+  --ion-color-medium-rgb: 146, 148, 156;
+  --ion-color-medium-contrast: #ffffff;
+  --ion-color-medium-contrast-rgb: 255, 255, 255;
+  --ion-color-medium-shade: #808289;
+  --ion-color-medium-tint: #9d9fa6;
+  /** light **/
+  --ion-color-light: #f4f5f8;
+  --ion-color-light-rgb: 244, 245, 248;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0, 0, 0;
+  --ion-color-light-shade: #d7d8da;
+  --ion-color-light-tint: #f5f6f9;
+}
+
+.custom-button {
+  margin: 50px 20px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  --padding-top: 25.5px;
+  --padding-bottom: 25.5px;
+}
+
+ion-footer::before {
+  display: none;
+}
+
+.alert-button, .alert-radio-label {
+  color: var(--ion-color-primary) !important;
+}
+
+.alert-radio-icon {
+  border-color: var(--ion-color-primary) !important;
+}
+
+.menu-button {
+  display: block;
+}
+
+.modal-custom .modal-wrapper {
+  height: 75%;
+  top: 25%;
+  position: absolute;
+  display: block;
+  --border-radius: 20px 20px 0px 0px;
+}
+
+.ios .modal-custom .modal-wrapper {
+  overflow: hidden;
+}
+
+.modal-screen {
+  --background: transparent;
+}
+
+.toggle-icon {
+  background-color: var(--ion-color-primary) !important;
+}
+
+.text-color-red {
+  color: var(--ion-color-danger) !important;
+}
+
+.md .picker-opt {
+  white-space: nowrap;
+  text-overflow: unset;
+  overflow: unset;
+}
+
+.cloned-input {
+  top: unset !important;
+}
+
+.waiting-spinner {
+  --background: none;
+  --spinner-color: #FCFCFC;
+}
+.waiting-spinner .loading-wrapper {
+  box-shadow: none;
+}
+
+body.dark {
+  --ion-color-secondary: #50c8ff;
+  --ion-color-secondary-rgb: 80, 200, 255;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+  --ion-color-secondary-shade: #46b0e0;
+  --ion-color-secondary-tint: #62ceff;
+  --ion-color-tertiary: #6a64ff;
+  --ion-color-tertiary-rgb: 106, 100, 255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255, 255, 255;
+  --ion-color-tertiary-shade: #5d58e0;
+  --ion-color-tertiary-tint: #7974ff;
+  --ion-color-success: #2fdf75;
+  --ion-color-success-rgb: 47, 223, 117;
+  --ion-color-success-contrast: #000000;
+  --ion-color-success-contrast-rgb: 0, 0, 0;
+  --ion-color-success-shade: #29c467;
+  --ion-color-success-tint: #44e283;
+  --ion-color-warning: #ffd534;
+  --ion-color-warning-rgb: 255, 213, 52;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0, 0, 0;
+  --ion-color-warning-shade: #e0bb2e;
+  --ion-color-warning-tint: #ffd948;
+  --ion-color-dark: #434343;
+  --ion-color-dark-rgb: 244, 245, 248;
+  --ion-color-dark-contrast: #000000;
+  --ion-color-dark-contrast-rgb: 0, 0, 0;
+  --ion-color-dark-shade: #d7d8da;
+  --ion-color-dark-tint: #f5f6f9;
+  --ion-color-medium: #989aa2;
+  --ion-color-medium-rgb: 152, 154, 162;
+  --ion-color-medium-contrast: #000000;
+  --ion-color-medium-contrast-rgb: 0, 0, 0;
+  --ion-color-medium-shade: #86888f;
+  --ion-color-medium-tint: #a2a4ab;
+  --ion-color-light: #222428;
+  --ion-color-light-rgb: 34, 36, 40;
+  --ion-color-light-contrast: #ffffff;
+  --ion-color-light-contrast-rgb: 255, 255, 255;
+  --ion-color-light-shade: #1e2023;
+  --ion-color-light-tint: #383a3e;
+  --ion-color-light-base: #706ECD;
+  --ion-toolbar-background: #0d0d0d;
+  --ion-item-background: #434343;
+  --ion-item-background-activated: #313131;
+}
+body.dark .toggle-checked.ion-color-primary {
+  --ion-color-shade: var(--ion-color-primary);
+}
+body.dark ion-list {
+  background: none;
+}
+
+/*
+ * iOS Dark Theme
+ * -------------------
+ */
+.ios body.dark {
+  --ion-background-color: #2D2D2D;
+  --ion-background-color-rgb: 45, 45, 45;
+  --ion-background: transparent;
+  --ion-text-color: #ffffff;
+  --ion-text-color-rgb: 255, 255, 255;
+  --ion-color-step-50: #0d0d0d;
+  --ion-color-step-100: #1a1a1a;
+  --ion-color-step-150: #434343;
+  --ion-color-step-200: #333333;
+  --ion-color-step-250: #575757;
+  --ion-color-step-300: #4d4d4d;
+  --ion-color-step-350: #595959;
+  --ion-color-step-400: #666666;
+  --ion-color-step-450: #737373;
+  --ion-color-step-500: #808080;
+  --ion-color-step-550: #8c8c8c;
+  --ion-color-step-600: #999999;
+  --ion-color-step-650: #a6a6a6;
+  --ion-color-step-700: #b3b3b3;
+  --ion-color-step-750: #bfbfbf;
+  --ion-color-step-800: #cccccc;
+  --ion-color-step-850: #d9d9d9;
+  --ion-color-step-900: #e6e6e6;
+  --ion-color-step-950: #f2f2f2;
+  --ion-toolbar-background: #0d0d0d;
+  --ion-item-background: #434343;
+  --ion-item-background-activated: #313131;
+}
+
+.ios body.dark .modal-wrapper {
+  --ion-background-color: var(--ion-background-color);
+  --ion-toolbar-background: var(--ion-background-color);
+  --ion-toolbar-border-color: var(--ion-color-step-250);
+  --ion-item-background: var(--ion-color-step-150);
+}
+
+/*
+ * Android Dark Theme
+ * -------------------
+ */
+.md body.dark {
+  --ion-background-color: #2D2D2D;
+  --ion-background-color-rgb: 45, 45, 45;
+  --ion-background: transparent;
+  --ion-text-color: #ffffff;
+  --ion-text-color-rgb: 255, 255, 255;
+  --ion-color-step-50: #0d0d0d;
+  --ion-color-step-100: #1a1a1a;
+  --ion-color-step-150: #434343;
+  --ion-color-step-200: #333333;
+  --ion-color-step-250: #575757;
+  --ion-color-step-300: #4d4d4d;
+  --ion-color-step-350: #595959;
+  --ion-color-step-400: #666666;
+  --ion-color-step-450: #737373;
+  --ion-color-step-500: #808080;
+  --ion-color-step-550: #8c8c8c;
+  --ion-color-step-600: #999999;
+  --ion-color-step-650: #a6a6a6;
+  --ion-color-step-700: #b3b3b3;
+  --ion-color-step-750: #bfbfbf;
+  --ion-color-step-800: #cccccc;
+  --ion-color-step-850: #d9d9d9;
+  --ion-color-step-900: #e6e6e6;
+  --ion-color-step-950: #f2f2f2;
+  --ion-toolbar-background: #0d0d0d;
+  --ion-item-background: #434343;
+  --ion-item-background-activated: #313131;
+}
+
+/* Optional CSS, this is added for the flashing that happens when toggling between themes */
+ion-item {
+  --transition: none;
+}
+
+.md body.dark .modal-wrapper {
+  --ion-background-color: var(--ion-background-color);
+  --ion-toolbar-background: var(--ion-background-color);
+  --ion-toolbar-border-color: var(--ion-color-step-250);
+  --ion-item-background: var(--ion-color-step-150);
+}
+
+body.dark ion-item {
+  --background: var(--ion-color-step-150) !important;
+}
+body.dark ion-item-sliding {
+  --background:#2D2D2D !important;
+}
+body.dark .list-ios {
+  background: #2D2D2D !important;
+}
+body.dark .icon-clock-dark {
+  display: block;
+}
+body.dark .icon-clock {
+  display: none;
+}
+body.dark .custom-slide {
+  box-shadow: unset;
+  background: var(--ion-color-step-150) !important;
+}
+body.dark .swiper-slide-active .custom-slide {
+  background-color: var(--ion-color-primary) !important;
+}
+body.dark .swiper-slide-active .custom-slide a {
+  background-color: var(--ion-color-primary) !important;
+  color: #fff !important;
+}
+body.dark .dayLink {
+  background: var(--ion-color-step-150) !important;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.5215686275);
+}
+body.dark .header-date-container ion-item {
+  --background:#2D2D2D !important;
+}
+body.dark .menu-button-dark {
+  display: block;
+}
+body.dark .menu-button {
+  display: none;
+}
+body.dark .back-button {
+  color: #fff !important;
+}
+body.dark .row {
+  color: #fff !important;
+}
+body.dark .modal-wrapper ion-content, body.dark .modal-wrapper ion-card {
+  --background: var(--ion-color-step-150) !important;
+  color: #fff;
+}
+body.dark .modal-wrapper ion-footer {
+  background-color: var(--ion-color-step-150) !important;
+  color: #fff;
+}
+body.dark .modal-wrapper ion-input {
+  color: #fff;
+}
+body.dark .modal-wrapper .modal-card {
+  --background: var(--ion-color-step-150) !important;
+}
+body.dark .modal-wrapper .reminder-card {
+  background: var(--ion-color-step-250) !important;
+}
+body.dark .modal-wrapper ion-grid, body.dark .modal-wrapper ion-item, body.dark .modal-wrapper ion-card-content {
+  --background: var(--ion-color-step-250) !important;
+}
+
+ion-content {
+  --padding-top: 30px;
+}
+/*!**********************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/core.css ***!
+  \**********************************************************************************************************************************************************************************************************************************/
+html.ios {
+  --ion-default-font: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Roboto", sans-serif;
+}
+
+html.md {
+  --ion-default-font: "Roboto", "Helvetica Neue", sans-serif;
+}
+
+html {
+  --ion-font-family: var(--ion-default-font);
+}
+
+body {
+  background: var(--ion-background-color);
+}
+
+body.backdrop-no-scroll {
+  overflow: hidden;
+}
+
+/**
+ * Card style modal needs additional padding on the
+ * top of the header. We accomplish this by targeting
+ * the first toolbar in the header.
+ * Footer also needs this. We do not adjust the bottom
+ * padding though because of the safe area.
+ */
+html.ios ion-modal.modal-card ion-header ion-toolbar:first-of-type,
+html.ios ion-modal.modal-sheet ion-header ion-toolbar:first-of-type,
+html.ios ion-modal ion-footer ion-toolbar:first-of-type {
+  padding-top: 6px;
+}
+
+/**
+* Card style modal needs additional padding on the
+* bottom of the header. We accomplish this by targeting
+* the last toolbar in the header.
+*/
+html.ios ion-modal.modal-card ion-header ion-toolbar:last-of-type,
+html.ios ion-modal.modal-sheet ion-header ion-toolbar:last-of-type {
+  padding-bottom: 6px;
+}
+
+/**
+* Add padding on the left and right
+* of toolbars while accounting for
+* safe area values when in landscape.
+*/
+html.ios ion-modal ion-toolbar {
+  padding-right: calc(var(--ion-safe-area-right) + 8px);
+  padding-left: calc(var(--ion-safe-area-left) + 8px);
+}
+
+/**
+ * Card style modal on iPadOS
+ * should only have backdrop on first instance.
+ */
+@media screen and (min-width: 768px) {
+  html.ios ion-modal.modal-card:first-of-type {
+    --backdrop-opacity: 0.18;
+  }
+}
+/**
+ * Subsequent modals should not have a backdrop/box shadow
+ * as it will cause the screen to appear to get progressively
+ * darker. With Ionic 6, declarative modals made it
+ * possible to have multiple non-presented modals in the DOM,
+ * so we could no longer rely on ion-modal:first-of-type.
+ * Here we disable the opacity/box-shadow for every modal
+ * that comes after the first presented modal.
+ *
+ * Note: ion-modal:not(.overlay-hidden):first-of-type
+ * does not match the first modal to not have
+ * the .overlay-hidden class, it will match the
+ * first modal in general only if it does not
+ * have the .overlay-hidden class.
+ * The :nth-child() pseudo-class has support
+ * for selectors which would help us here. At the
+ * time of writing it does not have great cross browser
+ * support.
+ *
+ * Note 2: This should only apply to non-card and
+ * non-sheet modals. Card and sheet modals have their
+ * own criteria for displaying backdrops/box shadows.
+ *
+ * Do not use :not(.overlay-hidden) in place of
+ * .show-modal because that triggers a memory
+ * leak in Blink: https://bugs.chromium.org/p/chromium/issues/detail?id=1418768
+ */
+ion-modal.modal-default.show-modal ~ ion-modal.modal-default {
+  --backdrop-opacity: 0;
+  --box-shadow: none;
+}
+
+/**
+ * This works around a bug in WebKit where the
+ * content will overflow outside of the bottom border
+ * radius when re-painting. As long as a single
+ * border radius value is set on .ion-page, this
+ * issue does not happen. We set the top left radius
+ * here because the top left corner will always have a
+ * radius no matter the platform.
+ * This behavior only applies to card modals.
+ */
+html.ios ion-modal.modal-card .ion-page {
+  border-top-left-radius: var(--border-radius);
+}
+
+.ion-color-primary {
+  --ion-color-base: var(--ion-color-primary, #3880ff) !important;
+  --ion-color-base-rgb: var(--ion-color-primary-rgb, 56, 128, 255) !important;
+  --ion-color-contrast: var(--ion-color-primary-contrast, #fff) !important;
+  --ion-color-contrast-rgb: var(--ion-color-primary-contrast-rgb, 255, 255, 255) !important;
+  --ion-color-shade: var(--ion-color-primary-shade, #3171e0) !important;
+  --ion-color-tint: var(--ion-color-primary-tint, #4c8dff) !important;
+}
+
+.ion-color-secondary {
+  --ion-color-base: var(--ion-color-secondary, #3dc2ff) !important;
+  --ion-color-base-rgb: var(--ion-color-secondary-rgb, 61, 194, 255) !important;
+  --ion-color-contrast: var(--ion-color-secondary-contrast, #fff) !important;
+  --ion-color-contrast-rgb: var(--ion-color-secondary-contrast-rgb, 255, 255, 255) !important;
+  --ion-color-shade: var(--ion-color-secondary-shade, #36abe0) !important;
+  --ion-color-tint: var(--ion-color-secondary-tint, #50c8ff) !important;
+}
+
+.ion-color-tertiary {
+  --ion-color-base: var(--ion-color-tertiary, #5260ff) !important;
+  --ion-color-base-rgb: var(--ion-color-tertiary-rgb, 82, 96, 255) !important;
+  --ion-color-contrast: var(--ion-color-tertiary-contrast, #fff) !important;
+  --ion-color-contrast-rgb: var(--ion-color-tertiary-contrast-rgb, 255, 255, 255) !important;
+  --ion-color-shade: var(--ion-color-tertiary-shade, #4854e0) !important;
+  --ion-color-tint: var(--ion-color-tertiary-tint, #6370ff) !important;
+}
+
+.ion-color-success {
+  --ion-color-base: var(--ion-color-success, #2dd36f) !important;
+  --ion-color-base-rgb: var(--ion-color-success-rgb, 45, 211, 111) !important;
+  --ion-color-contrast: var(--ion-color-success-contrast, #fff) !important;
+  --ion-color-contrast-rgb: var(--ion-color-success-contrast-rgb, 255, 255, 255) !important;
+  --ion-color-shade: var(--ion-color-success-shade, #28ba62) !important;
+  --ion-color-tint: var(--ion-color-success-tint, #42d77d) !important;
+}
+
+.ion-color-warning {
+  --ion-color-base: var(--ion-color-warning, #ffc409) !important;
+  --ion-color-base-rgb: var(--ion-color-warning-rgb, 255, 196, 9) !important;
+  --ion-color-contrast: var(--ion-color-warning-contrast, #000) !important;
+  --ion-color-contrast-rgb: var(--ion-color-warning-contrast-rgb, 0, 0, 0) !important;
+  --ion-color-shade: var(--ion-color-warning-shade, #e0ac08) !important;
+  --ion-color-tint: var(--ion-color-warning-tint, #ffca22) !important;
+}
+
+.ion-color-danger {
+  --ion-color-base: var(--ion-color-danger, #eb445a) !important;
+  --ion-color-base-rgb: var(--ion-color-danger-rgb, 235, 68, 90) !important;
+  --ion-color-contrast: var(--ion-color-danger-contrast, #fff) !important;
+  --ion-color-contrast-rgb: var(--ion-color-danger-contrast-rgb, 255, 255, 255) !important;
+  --ion-color-shade: var(--ion-color-danger-shade, #cf3c4f) !important;
+  --ion-color-tint: var(--ion-color-danger-tint, #ed576b) !important;
+}
+
+.ion-color-light {
+  --ion-color-base: var(--ion-color-light, #f4f5f8) !important;
+  --ion-color-base-rgb: var(--ion-color-light-rgb, 244, 245, 248) !important;
+  --ion-color-contrast: var(--ion-color-light-contrast, #000) !important;
+  --ion-color-contrast-rgb: var(--ion-color-light-contrast-rgb, 0, 0, 0) !important;
+  --ion-color-shade: var(--ion-color-light-shade, #d7d8da) !important;
+  --ion-color-tint: var(--ion-color-light-tint, #f5f6f9) !important;
+}
+
+.ion-color-medium {
+  --ion-color-base: var(--ion-color-medium, #92949c) !important;
+  --ion-color-base-rgb: var(--ion-color-medium-rgb, 146, 148, 156) !important;
+  --ion-color-contrast: var(--ion-color-medium-contrast, #fff) !important;
+  --ion-color-contrast-rgb: var(--ion-color-medium-contrast-rgb, 255, 255, 255) !important;
+  --ion-color-shade: var(--ion-color-medium-shade, #808289) !important;
+  --ion-color-tint: var(--ion-color-medium-tint, #9d9fa6) !important;
+}
+
+.ion-color-dark {
+  --ion-color-base: var(--ion-color-dark, #222428) !important;
+  --ion-color-base-rgb: var(--ion-color-dark-rgb, 34, 36, 40) !important;
+  --ion-color-contrast: var(--ion-color-dark-contrast, #fff) !important;
+  --ion-color-contrast-rgb: var(--ion-color-dark-contrast-rgb, 255, 255, 255) !important;
+  --ion-color-shade: var(--ion-color-dark-shade, #1e2023) !important;
+  --ion-color-tint: var(--ion-color-dark-tint, #383a3e) !important;
+}
+
+.ion-page {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  contain: layout size style;
+  overflow: hidden;
+  z-index: 0;
+}
+
+/**
+ * When making custom dialogs, using
+ * ion-content is not required. As a result,
+ * some developers may wish to have dialogs
+ * that are automatically sized by the browser.
+ * These changes allow certain dimension values
+ * such as fit-content to work correctly.
+ */
+ion-modal > .ion-page {
+  position: relative;
+  contain: layout style;
+  height: 100%;
+}
+
+.split-pane-visible > .ion-page.split-pane-main {
+  position: relative;
+}
+
+ion-route,
+ion-route-redirect,
+ion-router,
+ion-select-option,
+ion-nav-controller,
+ion-menu-controller,
+ion-action-sheet-controller,
+ion-alert-controller,
+ion-loading-controller,
+ion-modal-controller,
+ion-picker-controller,
+ion-popover-controller,
+ion-toast-controller,
+.ion-page-hidden,
+[hidden] {
+  /* stylelint-disable-next-line declaration-no-important */
+  display: none !important;
+}
+
+.ion-page-invisible {
+  opacity: 0;
+}
+
+.can-go-back > ion-header ion-back-button {
+  display: block;
+}
+
+html.plt-ios.plt-hybrid, html.plt-ios.plt-pwa {
+  --ion-statusbar-padding: 20px;
+}
+
+@supports (padding-top: 20px) {
+  html {
+    --ion-safe-area-top: var(--ion-statusbar-padding);
+  }
+}
+@supports (padding-top: constant(safe-area-inset-top)) {
+  html {
+    --ion-safe-area-top: constant(safe-area-inset-top);
+    --ion-safe-area-bottom: constant(safe-area-inset-bottom);
+    --ion-safe-area-left: constant(safe-area-inset-left);
+    --ion-safe-area-right: constant(safe-area-inset-right);
+  }
+}
+@supports (padding-top: env(safe-area-inset-top)) {
+  html {
+    --ion-safe-area-top: env(safe-area-inset-top);
+    --ion-safe-area-bottom: env(safe-area-inset-bottom);
+    --ion-safe-area-left: env(safe-area-inset-left);
+    --ion-safe-area-right: env(safe-area-inset-right);
+  }
+}
+ion-card.ion-color .ion-inherit-color,
+ion-card-header.ion-color .ion-inherit-color {
+  color: inherit;
+}
+
+.menu-content {
+  transform: translate3d(0,  0,  0);
+}
+
+.menu-content-open {
+  cursor: pointer;
+  touch-action: manipulation;
+  pointer-events: none;
+}
+
+.ios .menu-content-reveal {
+  box-shadow: -8px 0 42px rgba(0, 0, 0, 0.08);
+}
+
+[dir=rtl].ios .menu-content-reveal {
+  box-shadow: 8px 0 42px rgba(0, 0, 0, 0.08);
+}
+
+.md .menu-content-reveal {
+  box-shadow: 4px 0px 16px rgba(0, 0, 0, 0.18);
+}
+
+.md .menu-content-push {
+  box-shadow: 4px 0px 16px rgba(0, 0, 0, 0.18);
+}
+
+ion-accordion-group.accordion-group-expand-inset > ion-accordion:first-of-type {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+ion-accordion-group.accordion-group-expand-inset > ion-accordion:last-of-type {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+ion-accordion-group > ion-accordion:last-of-type ion-item[slot=header] {
+  --border-width: 0px;
+}
+
+ion-accordion.accordion-animated > [slot=header] .ion-accordion-toggle-icon {
+  transition: 300ms transform cubic-bezier(0.25, 0.8, 0.5, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ion-accordion .ion-accordion-toggle-icon {
+    /* stylelint-disable declaration-no-important */
+    transition: none !important;
+  }
+}
+/**
+ * The > [slot="header"] selector ensures that we do
+ * not modify toggle icons for any nested accordions. The state
+ * of one accordion should not affect any accordions inside
+ * of a nested accordion group.
+ */
+ion-accordion.accordion-expanding > [slot=header] .ion-accordion-toggle-icon,
+ion-accordion.accordion-expanded > [slot=header] .ion-accordion-toggle-icon {
+  transform: rotate(180deg);
+}
+
+ion-accordion-group.accordion-group-expand-inset.md > ion-accordion.accordion-previous ion-item[slot=header] {
+  --border-width: 0px;
+  --inner-border-width: 0px;
+}
+
+ion-accordion-group.accordion-group-expand-inset.md > ion-accordion.accordion-expanding:first-of-type,
+ion-accordion-group.accordion-group-expand-inset.md > ion-accordion.accordion-expanded:first-of-type {
+  margin-top: 0;
+}
+
+ion-input input::-webkit-date-and-time-value {
+  text-align: start;
+}
+
+/**
+ * The .ion-datetime-button-overlay class contains
+ * styles that allow any modal/popover to be
+ * sized according to the dimensions of the datetime
+ * when used with ion-datetime-button.
+ */
+.ion-datetime-button-overlay {
+  --width: fit-content;
+  --height: fit-content;
+}
+
+/**
+ * The grid variant can scale down when inline.
+ * When used in a `fit-content` overlay, this causes
+ * the overlay to shrink when the month/year picker is open.
+ * Explicitly setting the dimensions lets us have a consistently
+ * sized grid interface.
+ */
+.ion-datetime-button-overlay ion-datetime.datetime-grid {
+  width: 320px;
+  min-height: 320px;
+}
+
+/*# sourceMappingURL=core.css.map */
+
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/normalize.css ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+audio,
+canvas,
+progress,
+video {
+  vertical-align: baseline;
+}
+
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
+
+hr {
+  height: 1px;
+  border-width: 0;
+  box-sizing: content-box;
+}
+
+pre {
+  overflow: auto;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+label,
+input,
+select,
+textarea {
+  font-family: inherit;
+  line-height: normal;
+}
+
+textarea {
+  overflow: auto;
+  height: auto;
+  font: inherit;
+  color: inherit;
+}
+
+textarea::placeholder {
+  padding-left: 2px;
+}
+
+form,
+input,
+optgroup,
+select {
+  margin: 0;
+  font: inherit;
+  color: inherit;
+}
+
+html input[type=button],
+input[type=reset],
+input[type=submit] {
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+
+a,
+a div,
+a span,
+a ion-icon,
+a ion-label,
+button,
+button div,
+button span,
+button ion-icon,
+button ion-label,
+.ion-tappable,
+[tappable],
+[tappable] div,
+[tappable] span,
+[tappable] ion-icon,
+[tappable] ion-label,
+input,
+textarea {
+  touch-action: manipulation;
+}
+
+a ion-label,
+button ion-label {
+  pointer-events: none;
+}
+
+button {
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  font-family: inherit;
+  font-style: inherit;
+  font-variant: inherit;
+  line-height: 1;
+  text-transform: none;
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+
+[tappable] {
+  cursor: pointer;
+}
+
+a[disabled],
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+input[type=search]::-webkit-search-cancel-button,
+input[type=search]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+/*# sourceMappingURL=normalize.css.map */
+
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/structure.css ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  -webkit-text-size-adjust: 100%;
+          text-size-adjust: 100%;
+}
+
+html:not(.hydrated) body {
+  display: none;
+}
+
+html.ion-ce body {
+  display: block;
+}
+
+html.plt-pwa {
+  height: 100vh;
+}
+
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  position: fixed;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+  /**
+   * Because body has position: fixed,
+   * it should be promoted to its own
+   * layer.
+   *
+   * WebKit does not always promote
+   * the body to its own layer on page
+   * load in Ionic apps. Once scrolling on
+   * ion-content starts, WebKit will promote
+   * body. Unfortunately, this causes a re-paint
+   * which results in scrolling being halted
+   * until the next user gesture.
+   *
+   * This impacts the Custom Elements build.
+   * The lazy loaded build causes the browser to
+   * re-paint during hydration which causes WebKit
+   * to promote body to its own layer.
+   * In the CE Build, this hydration does not
+   * happen, so the additional re-paint does not occur.
+   */
+  transform: translateZ(0);
+  text-rendering: optimizeLegibility;
+  overflow: hidden;
+  touch-action: manipulation;
+  -webkit-user-drag: none;
+  -ms-content-zooming: none;
+  word-wrap: break-word;
+  overscroll-behavior-y: none;
+  -webkit-text-size-adjust: none;
+          text-size-adjust: none;
+}
+
+/*# sourceMappingURL=structure.css.map */
+
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/typography.css ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+html {
+  font-family: var(--ion-font-family);
+}
+
+a {
+  background-color: transparent;
+  color: var(--ion-color-primary, #3880ff);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 16px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+h1 {
+  margin-top: 20px;
+  font-size: 26px;
+}
+h2 {
+  margin-top: 18px;
+  font-size: 24px;
+}
+h3 {
+  font-size: 22px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+small {
+  font-size: 75%;
+}
+
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+/*# sourceMappingURL=typography.css.map */
+
+/*!*************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/padding.css ***!
+  \*************************************************************************************************************************************************************************************************************************************/
+.ion-no-padding {
+  --padding-start: 0;
+  --padding-end: 0;
+  --padding-top: 0;
+  --padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.ion-padding {
+  --padding-start: var(--ion-padding, 16px);
+  --padding-end: var(--ion-padding, 16px);
+  --padding-top: var(--ion-padding, 16px);
+  --padding-bottom: var(--ion-padding, 16px);
+  padding-left: var(--ion-padding, 16px);
+  padding-right: var(--ion-padding, 16px);
+  padding-top: var(--ion-padding, 16px);
+  padding-bottom: var(--ion-padding, 16px);
+}
+@supports (margin-inline-start: 0) or (-webkit-margin-start: 0) {
+  .ion-padding {
+    padding-left: unset;
+    padding-right: unset;
+    padding-inline-start: var(--ion-padding, 16px);
+    padding-inline-end: var(--ion-padding, 16px);
+  }
+}
+
+.ion-padding-top {
+  --padding-top: var(--ion-padding, 16px);
+  padding-top: var(--ion-padding, 16px);
+}
+.ion-padding-start {
+  --padding-start: var(--ion-padding, 16px);
+  padding-left: var(--ion-padding, 16px);
+}
+@supports (margin-inline-start: 0) or (-webkit-margin-start: 0) {
+  .ion-padding-start {
+    padding-left: unset;
+    padding-inline-start: var(--ion-padding, 16px);
+  }
+}
+
+.ion-padding-end {
+  --padding-end: var(--ion-padding, 16px);
+  padding-right: var(--ion-padding, 16px);
+}
+@supports (margin-inline-start: 0) or (-webkit-margin-start: 0) {
+  .ion-padding-end {
+    padding-right: unset;
+    padding-inline-end: var(--ion-padding, 16px);
+  }
+}
+
+.ion-padding-bottom {
+  --padding-bottom: var(--ion-padding, 16px);
+  padding-bottom: var(--ion-padding, 16px);
+}
+.ion-padding-vertical {
+  --padding-top: var(--ion-padding, 16px);
+  --padding-bottom: var(--ion-padding, 16px);
+  padding-top: var(--ion-padding, 16px);
+  padding-bottom: var(--ion-padding, 16px);
+}
+.ion-padding-horizontal {
+  --padding-start: var(--ion-padding, 16px);
+  --padding-end: var(--ion-padding, 16px);
+  padding-left: var(--ion-padding, 16px);
+  padding-right: var(--ion-padding, 16px);
+}
+@supports (margin-inline-start: 0) or (-webkit-margin-start: 0) {
+  .ion-padding-horizontal {
+    padding-left: unset;
+    padding-right: unset;
+    padding-inline-start: var(--ion-padding, 16px);
+    padding-inline-end: var(--ion-padding, 16px);
+  }
+}
+
+.ion-no-margin {
+  --margin-start: 0;
+  --margin-end: 0;
+  --margin-top: 0;
+  --margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.ion-margin {
+  --margin-start: var(--ion-margin, 16px);
+  --margin-end: var(--ion-margin, 16px);
+  --margin-top: var(--ion-margin, 16px);
+  --margin-bottom: var(--ion-margin, 16px);
+  margin-left: var(--ion-margin, 16px);
+  margin-right: var(--ion-margin, 16px);
+  margin-top: var(--ion-margin, 16px);
+  margin-bottom: var(--ion-margin, 16px);
+}
+@supports (margin-inline-start: 0) or (-webkit-margin-start: 0) {
+  .ion-margin {
+    margin-left: unset;
+    margin-right: unset;
+    margin-inline-start: var(--ion-margin, 16px);
+    margin-inline-end: var(--ion-margin, 16px);
+  }
+}
+
+.ion-margin-top {
+  --margin-top: var(--ion-margin, 16px);
+  margin-top: var(--ion-margin, 16px);
+}
+.ion-margin-start {
+  --margin-start: var(--ion-margin, 16px);
+  margin-left: var(--ion-margin, 16px);
+}
+@supports (margin-inline-start: 0) or (-webkit-margin-start: 0) {
+  .ion-margin-start {
+    margin-left: unset;
+    margin-inline-start: var(--ion-margin, 16px);
+  }
+}
+
+.ion-margin-end {
+  --margin-end: var(--ion-margin, 16px);
+  margin-right: var(--ion-margin, 16px);
+}
+@supports (margin-inline-start: 0) or (-webkit-margin-start: 0) {
+  .ion-margin-end {
+    margin-right: unset;
+    margin-inline-end: var(--ion-margin, 16px);
+  }
+}
+
+.ion-margin-bottom {
+  --margin-bottom: var(--ion-margin, 16px);
+  margin-bottom: var(--ion-margin, 16px);
+}
+.ion-margin-vertical {
+  --margin-top: var(--ion-margin, 16px);
+  --margin-bottom: var(--ion-margin, 16px);
+  margin-top: var(--ion-margin, 16px);
+  margin-bottom: var(--ion-margin, 16px);
+}
+.ion-margin-horizontal {
+  --margin-start: var(--ion-margin, 16px);
+  --margin-end: var(--ion-margin, 16px);
+  margin-left: var(--ion-margin, 16px);
+  margin-right: var(--ion-margin, 16px);
+}
+@supports (margin-inline-start: 0) or (-webkit-margin-start: 0) {
+  .ion-margin-horizontal {
+    margin-left: unset;
+    margin-right: unset;
+    margin-inline-start: var(--ion-margin, 16px);
+    margin-inline-end: var(--ion-margin, 16px);
+  }
+}
+
+/*# sourceMappingURL=padding.css.map */
+
+/*!********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/float-elements.css ***!
+  \********************************************************************************************************************************************************************************************************************************************/
+.ion-float-left {
+  float: left !important;
+}
+
+.ion-float-right {
+  float: right !important;
+}
+
+.ion-float-start {
+  float: left !important;
+}
+[dir=rtl] .ion-float-start, :host-context([dir=rtl]) .ion-float-start {
+  float: right !important;
+}
+
+.ion-float-end {
+  float: right !important;
+}
+[dir=rtl] .ion-float-end, :host-context([dir=rtl]) .ion-float-end {
+  float: left !important;
+}
+
+@media (min-width: 576px) {
+  .ion-float-sm-left {
+    float: left !important;
+  }
+
+  .ion-float-sm-right {
+    float: right !important;
+  }
+
+  .ion-float-sm-start {
+    float: left !important;
+  }
+  [dir=rtl] .ion-float-sm-start, :host-context([dir=rtl]) .ion-float-sm-start {
+    float: right !important;
+  }
+
+  .ion-float-sm-end {
+    float: right !important;
+  }
+  [dir=rtl] .ion-float-sm-end, :host-context([dir=rtl]) .ion-float-sm-end {
+    float: left !important;
+  }
+}
+@media (min-width: 768px) {
+  .ion-float-md-left {
+    float: left !important;
+  }
+
+  .ion-float-md-right {
+    float: right !important;
+  }
+
+  .ion-float-md-start {
+    float: left !important;
+  }
+  [dir=rtl] .ion-float-md-start, :host-context([dir=rtl]) .ion-float-md-start {
+    float: right !important;
+  }
+
+  .ion-float-md-end {
+    float: right !important;
+  }
+  [dir=rtl] .ion-float-md-end, :host-context([dir=rtl]) .ion-float-md-end {
+    float: left !important;
+  }
+}
+@media (min-width: 992px) {
+  .ion-float-lg-left {
+    float: left !important;
+  }
+
+  .ion-float-lg-right {
+    float: right !important;
+  }
+
+  .ion-float-lg-start {
+    float: left !important;
+  }
+  [dir=rtl] .ion-float-lg-start, :host-context([dir=rtl]) .ion-float-lg-start {
+    float: right !important;
+  }
+
+  .ion-float-lg-end {
+    float: right !important;
+  }
+  [dir=rtl] .ion-float-lg-end, :host-context([dir=rtl]) .ion-float-lg-end {
+    float: left !important;
+  }
+}
+@media (min-width: 1200px) {
+  .ion-float-xl-left {
+    float: left !important;
+  }
+
+  .ion-float-xl-right {
+    float: right !important;
+  }
+
+  .ion-float-xl-start {
+    float: left !important;
+  }
+  [dir=rtl] .ion-float-xl-start, :host-context([dir=rtl]) .ion-float-xl-start {
+    float: right !important;
+  }
+
+  .ion-float-xl-end {
+    float: right !important;
+  }
+  [dir=rtl] .ion-float-xl-end, :host-context([dir=rtl]) .ion-float-xl-end {
+    float: left !important;
+  }
+}
+
+/*# sourceMappingURL=float-elements.css.map */
+
+/*!********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/text-alignment.css ***!
+  \********************************************************************************************************************************************************************************************************************************************/
+.ion-text-center {
+  text-align: center !important;
+}
+
+.ion-text-justify {
+  text-align: justify !important;
+}
+
+.ion-text-start {
+  text-align: start !important;
+}
+
+.ion-text-end {
+  text-align: end !important;
+}
+
+.ion-text-left {
+  text-align: left !important;
+}
+
+.ion-text-right {
+  text-align: right !important;
+}
+
+.ion-text-nowrap {
+  white-space: nowrap !important;
+}
+
+.ion-text-wrap {
+  white-space: normal !important;
+}
+
+@media (min-width: 576px) {
+  .ion-text-sm-center {
+    text-align: center !important;
+  }
+
+  .ion-text-sm-justify {
+    text-align: justify !important;
+  }
+
+  .ion-text-sm-start {
+    text-align: start !important;
+  }
+
+  .ion-text-sm-end {
+    text-align: end !important;
+  }
+
+  .ion-text-sm-left {
+    text-align: left !important;
+  }
+
+  .ion-text-sm-right {
+    text-align: right !important;
+  }
+
+  .ion-text-sm-nowrap {
+    white-space: nowrap !important;
+  }
+
+  .ion-text-sm-wrap {
+    white-space: normal !important;
+  }
+}
+@media (min-width: 768px) {
+  .ion-text-md-center {
+    text-align: center !important;
+  }
+
+  .ion-text-md-justify {
+    text-align: justify !important;
+  }
+
+  .ion-text-md-start {
+    text-align: start !important;
+  }
+
+  .ion-text-md-end {
+    text-align: end !important;
+  }
+
+  .ion-text-md-left {
+    text-align: left !important;
+  }
+
+  .ion-text-md-right {
+    text-align: right !important;
+  }
+
+  .ion-text-md-nowrap {
+    white-space: nowrap !important;
+  }
+
+  .ion-text-md-wrap {
+    white-space: normal !important;
+  }
+}
+@media (min-width: 992px) {
+  .ion-text-lg-center {
+    text-align: center !important;
+  }
+
+  .ion-text-lg-justify {
+    text-align: justify !important;
+  }
+
+  .ion-text-lg-start {
+    text-align: start !important;
+  }
+
+  .ion-text-lg-end {
+    text-align: end !important;
+  }
+
+  .ion-text-lg-left {
+    text-align: left !important;
+  }
+
+  .ion-text-lg-right {
+    text-align: right !important;
+  }
+
+  .ion-text-lg-nowrap {
+    white-space: nowrap !important;
+  }
+
+  .ion-text-lg-wrap {
+    white-space: normal !important;
+  }
+}
+@media (min-width: 1200px) {
+  .ion-text-xl-center {
+    text-align: center !important;
+  }
+
+  .ion-text-xl-justify {
+    text-align: justify !important;
+  }
+
+  .ion-text-xl-start {
+    text-align: start !important;
+  }
+
+  .ion-text-xl-end {
+    text-align: end !important;
+  }
+
+  .ion-text-xl-left {
+    text-align: left !important;
+  }
+
+  .ion-text-xl-right {
+    text-align: right !important;
+  }
+
+  .ion-text-xl-nowrap {
+    white-space: nowrap !important;
+  }
+
+  .ion-text-xl-wrap {
+    white-space: normal !important;
+  }
+}
+
+/*# sourceMappingURL=text-alignment.css.map */
+
+/*!*************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/text-transformation.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************/
+.ion-text-uppercase {
+  /* stylelint-disable-next-line declaration-no-important */
+  text-transform: uppercase !important;
+}
+
+.ion-text-lowercase {
+  /* stylelint-disable-next-line declaration-no-important */
+  text-transform: lowercase !important;
+}
+
+.ion-text-capitalize {
+  /* stylelint-disable-next-line declaration-no-important */
+  text-transform: capitalize !important;
+}
+
+@media (min-width: 576px) {
+  .ion-text-sm-uppercase {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: uppercase !important;
+  }
+
+  .ion-text-sm-lowercase {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: lowercase !important;
+  }
+
+  .ion-text-sm-capitalize {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: capitalize !important;
+  }
+}
+@media (min-width: 768px) {
+  .ion-text-md-uppercase {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: uppercase !important;
+  }
+
+  .ion-text-md-lowercase {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: lowercase !important;
+  }
+
+  .ion-text-md-capitalize {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: capitalize !important;
+  }
+}
+@media (min-width: 992px) {
+  .ion-text-lg-uppercase {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: uppercase !important;
+  }
+
+  .ion-text-lg-lowercase {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: lowercase !important;
+  }
+
+  .ion-text-lg-capitalize {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: capitalize !important;
+  }
+}
+@media (min-width: 1200px) {
+  .ion-text-xl-uppercase {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: uppercase !important;
+  }
+
+  .ion-text-xl-lowercase {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: lowercase !important;
+  }
+
+  .ion-text-xl-capitalize {
+    /* stylelint-disable-next-line declaration-no-important */
+    text-transform: capitalize !important;
+  }
+}
+
+/*# sourceMappingURL=text-transformation.css.map */
+
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/flex-utils.css ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+.ion-align-self-start {
+  align-self: flex-start !important;
+}
+
+.ion-align-self-end {
+  align-self: flex-end !important;
+}
+
+.ion-align-self-center {
+  align-self: center !important;
+}
+
+.ion-align-self-stretch {
+  align-self: stretch !important;
+}
+
+.ion-align-self-baseline {
+  align-self: baseline !important;
+}
+
+.ion-align-self-auto {
+  align-self: auto !important;
+}
+
+.ion-wrap {
+  flex-wrap: wrap !important;
+}
+
+.ion-nowrap {
+  flex-wrap: nowrap !important;
+}
+
+.ion-wrap-reverse {
+  flex-wrap: wrap-reverse !important;
+}
+
+.ion-justify-content-start {
+  justify-content: flex-start !important;
+}
+
+.ion-justify-content-center {
+  justify-content: center !important;
+}
+
+.ion-justify-content-end {
+  justify-content: flex-end !important;
+}
+
+.ion-justify-content-around {
+  justify-content: space-around !important;
+}
+
+.ion-justify-content-between {
+  justify-content: space-between !important;
+}
+
+.ion-justify-content-evenly {
+  justify-content: space-evenly !important;
+}
+
+.ion-align-items-start {
+  align-items: flex-start !important;
+}
+
+.ion-align-items-center {
+  align-items: center !important;
+}
+
+.ion-align-items-end {
+  align-items: flex-end !important;
+}
+
+.ion-align-items-stretch {
+  align-items: stretch !important;
+}
+
+.ion-align-items-baseline {
+  align-items: baseline !important;
+}
+
+/*# sourceMappingURL=flex-utils.css.map */
+
+/*!*************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/display.css ***!
+  \*************************************************************************************************************************************************************************************************************************************/
+.ion-hide {
+  display: none !important;
+}
+
+.ion-hide-up {
+  display: none !important;
+}
+
+.ion-hide-down {
+  display: none !important;
+}
+
+@media (min-width: 576px) {
+  .ion-hide-sm-up {
+    display: none !important;
+  }
+}
+@media (max-width: 575.98px) {
+  .ion-hide-sm-down {
+    display: none !important;
+  }
+}
+@media (min-width: 768px) {
+  .ion-hide-md-up {
+    display: none !important;
+  }
+}
+@media (max-width: 767.98px) {
+  .ion-hide-md-down {
+    display: none !important;
+  }
+}
+@media (min-width: 992px) {
+  .ion-hide-lg-up {
+    display: none !important;
+  }
+}
+@media (max-width: 991.98px) {
+  .ion-hide-lg-down {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  .ion-hide-xl-up {
+    display: none !important;
+  }
+}
+@media (max-width: 1199.98px) {
+  .ion-hide-xl-down {
+    display: none !important;
+  }
+}
+
+/*# sourceMappingURL=display.css.map */
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/global.scss?ngGlobalStyle ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+ion-app.mobile .aio-mobile-hide,
+ion-app.web-browser .aio-web-browser-hide,
+.aioHidden {
+  display: none !important;
+}
+
+.aio-validation-error {
+  color: var(--ion-color-danger);
+  --padding-top: 5px;
+  --padding-bottom: 5px;
+  padding: var(--padding-top, 5px) var(--padding-end, 15px) var(--padding-bottom, 5px) var(--padding-start, 15px);
+  text-align: start;
+}
+
+ion-content.aio-vertical-align-center::part(scroll),
+ion-content.aio-vertical-align-bottom::part(scroll) {
+  display: flex;
+  padding-top: 0px;
+}
+
+ion-content.aio-vertical-align-center::part(scroll) {
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+ion-content.aio-vertical-align-bottom::part(scroll) {
+  align-items: flex-end;
+  padding-bottom: 0px;
+}
+
+.aio-vertical-align-wrapper {
+  flex: auto;
+}
+
+ion-item.item-label-stacked.item-input > ion-icon[slot=start],
+ion-item.item-label-stacked.item-input > ion-icon[slot=end],
+ion-item.item-label-floating.item-input > ion-icon[slot=start],
+ion-item.item-label-floating.item-input > ion-icon[slot=end],
+ion-item.item-label-floating::part(detail-icon),
+ion-item.item-label-stacked::part(detail-icon) {
+  margin-top: auto;
+}
+
+ion-item.item-label-stacked.item-textarea > ion-icon[slot=start],
+ion-item.item-label-stacked.item-textarea > ion-icon[slot=end],
+ion-item.item-label-floating.item-textarea > ion-icon[slot=start],
+ion-item.item-label-floating.item-textarea > ion-icon[slot=end] {
+  margin-top: 10px;
+}
+
+ion-item.item-label-floating::part(detail-icon),
+ion-item.item-label-stacked::part(detail-icon) {
+  margin-bottom: 10px;
+}
+
+/* Fix Ionic 5 issues */
+ion-item ion-reorder:not([slot]) {
+  z-index: 100;
+}
+
+/** ngx-datatable fix pagination **/
+@media only screen and (max-width: 500px) {
+  .ngx-datatable.material .datatable-footer .page-count {
+    white-space: nowrap;
+  }
+  .ngx-datatable.material .datatable-footer .pager {
+    white-space: nowrap;
+  }
+}
+aio-datetime {
+  display: flex;
+  position: static;
+}
+
+aio-datetime.no-item {
+  position: relative;
+}
+
+.aio-datetime-modal ion-datetime {
+  width: 100%;
+  height: 100%;
+}
+
+[ng-reflect-router-link] {
+  cursor: pointer;
+}
+
+/*
+* Appery.io component.
+*/
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-rounded {
+  border-radius: 6px;
+}
+
+ion-img::part(image) {
+  box-sizing: border-box;
+}
+
+.action-sheet-group.sc-ion-action-sheet-ios {
+  overflow: auto;
+}
+
+.action-sheet-wrapper.sc-ion-action-sheet-ios {
+  top: 0;
+  height: auto;
+}
+
+ion-toolbar {
+  width: auto;
+}
+
+ion-toolbar.ios ion-title.title-large {
+  text-align: center;
+}
+
+/* [ETST-42825 Ionic Input Margin Bug] Temporary fix for ion-input width */
+:not(ion-item) > ion-input.sc-ion-input-ios-h,
+:not(ion-item) > ion-input.sc-ion-input-md-h {
+  width: auto;
+}
+
+ion-menu::part(container) {
+  box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+  ion-modal {
+    --border-radius: 8px;
+  }
+}
+:root {
+  /* Set the font family of the entire app */
+  --ion-font-family: raleway-regular;
+}
+
+@font-face {
+  font-family: raleway-regular;
+  src: url('Raleway-Regular.ttf');
+}
+@font-face {
+  font-family: raleway-semibold;
+  src: url('Raleway-SemiBold.ttf');
+}
+
+/*# sourceMappingURL=styles.css.map*/

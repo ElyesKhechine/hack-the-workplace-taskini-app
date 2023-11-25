@@ -1,0 +1,116 @@
+<ion-content _aio-705FBE6A>
+    <ion-grid _aio-CEF553D4 #j_3 class="grid">
+        <ion-row _aio-747B5E8C #j_4 class="row">
+            <ion-col _aio-0E19FC5F #j_5 class="ion-align-self-start">
+                <ion-menu-button _aio-BA06E728 #j_6 class="menu-button" (click)="menubuttonClick__j_6($event, currentItem)">
+                    <ion-icon #j_6__icon src="assets/images/menu.svg">
+                    </ion-icon>
+                </ion-menu-button>
+                <ion-menu-button _aio-99BB037A #j_7 class="menu-button-dark" (click)="menubuttondarkClick__j_7($event, currentItem)">
+                    <ion-icon #j_7__icon src="assets/images/menu-dark.svg">
+                    </ion-icon>
+                </ion-menu-button>
+            </ion-col>
+            <ion-col _aio-8B212E37 #j_8 class="ion-align-self-center ion-text-center">
+                <ion-text _aio-BCEBC408 #j_9 class="header-title">
+                    CheckList
+                </ion-text>
+            </ion-col>
+            <ion-col _aio-0E04FB84 #j_10 class="header-date-container ion-align-self-end ion-text-end">
+                <ion-item #j_11 _aio-882BBB51>
+                    <aio-datetime _aio-4546455A #j_12 (ionChange)="currentmonthdatetimeIonChange__j_12($event, currentItem)"
+                    name="Datetime1" presentation="date" [formatOptions]='' [(ngModel)]="currentDateISO">
+                        <ion-datetime [showDefaultButtons]="true" presentation="date" max="2099-12-31T10:00:00.000Z"
+                        firstDayOfWeek="0" value="2021-03-25T09:48:42.000Z" class="header-date">
+                        </ion-datetime>
+                    </aio-datetime>
+                </ion-item>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+    <ion-slides _aio-4097C516 #j_13 *ngIf="didInit" #slider="" (ionSlideDidChange)="selectDateOnSlideChange()"
+    [options]="slideOpt">
+        <ion-slide _aio-CA8C1085 #j_14 class="slide-item" *ngFor="let day of days; index as i">
+            <div _aio-B857E60C #j_15 class="custom-slide" (click)="selectDate(day, i);">
+                <a _aio-8C15CEFF #j_16 class="dayLink">
+                <ion-text  _aio-0B56FFCE  #j_17   class="week-name">{{day.weekday}}</ion-text>
+                <ion-text  _aio-AC81A816  #j_18   class="week-number">{{day.date}}</ion-text>
+                </a>
+            </div>
+        </ion-slide>
+    </ion-slides>
+    <div _aio-E8C1FDA2 #j_19 class="date-container ion-hide">
+        <ion-item #j_20 _aio-2CA32BB0>
+            <aio-datetime _aio-DC50E618 #j_21 placeholder="Select date" name="Datetime2" presentation="date"
+            [formatOptions]='' (ionChange)="timeChange($event)">
+                <ion-datetime [showDefaultButtons]="true" presentation="date" firstDayOfWeek="0"
+                class="hidden-date ion-hide">
+                </ion-datetime>
+            </aio-datetime>
+        </ion-item>
+    </div>
+    <ion-list _aio-31CAC8CE #j_22 lines="none" class="list" *ngIf="currentTasks.length">
+        <ion-item-sliding #j_23__sliding *ngFor="let currentItem of __getMapping(currentItem, 'j_23', []);">
+            <ion-item _aio-9BC07D60 #j_23 class="task" lines="none" #slidingItem="" (click)="toggleDone(currentItem.itemData , $event)"
+            [class.done]="currentItem.itemData.isDone">
+                <ion-checkbox _aio-AA9BFBB9 #j_25 mode="md" name="checkbox-outline" slot="start"
+                value="" checked="{{ currentItem.itemData.isDone }}" color="primary" class="checkbox"
+                #checkbox="">
+                </ion-checkbox>
+                <div _aio-3182F8C8 #j_26 class="html-wrapper" [class.notime]="!currentItem.itemData.reminderId">
+                    <div _aio-F6DF8855 #j_27 class="title-row">
+                        <span _aio-4D38710C #j_28 class="title-text" #title="">
+                            {{currentItem.itemData.taskName}}
+                        </span>
+                        <div _aio-538430ED #j_29 class="title-time">
+                            <ion-icon _aio-A88C2845 #j_30 name="logo-ionic" size="small" color="custom" class="icon-clock"
+                            src="assets/images/clock-icon.svg" *ngIf="currentItem.itemData.reminderId">
+                            </ion-icon>
+                            <ion-icon _aio-107DC18C #j_31 name="logo-ionic" size="small" color="custom" class="icon-clock-dark"
+                            src="assets/images/clock__2__1.svg" *ngIf="currentItem.itemData.reminderId">
+                            </ion-icon>
+                            <ion-text _aio-A5DD9FFA #j_32 class="time-text" *ngIf="currentItem.itemData.reminderId"
+                            [id]="currentItem?.itemData._id">
+                                {{currentItem.itemData.taskDueDate | timePipe: 'yyyy-MM-dd HH:mm'}}
+                            </ion-text>
+                        </div>
+                    </div>
+                    <ion-text _aio-4EDBFD98 #j_33 class="description">
+                        {{currentItem.itemData.taskDescription}}
+                    </ion-text>
+                </div>
+            </ion-item>
+            <ion-item-options _aio-2E5BAAFC #j_34 side="end" class="task-options_delete" (ionSwipe)="deleteitemoptionsIonSwipe__j_34($event, currentItem)">
+                <ion-item-option _aio-173E9699 #j_35 color="danger" class="task-option task-option_delete"
+                [id]="currentItem.itemData._id" (click)="deleteitemoptionClick__j_35($event, currentItem)">
+                    <ion-icon #j_35__icon slot="icon-only" src="assets/images/delete-icon.svg">
+                    </ion-icon>
+                </ion-item-option>
+            </ion-item-options>
+            <ion-item-options _aio-7FDBF41F #j_36 side="start" class="task-options_remind" (ionSwipe)="clockitemoptionsIonSwipe__j_36($event, currentItem)"
+            *ngIf="!isCurrentDateIsPastDay">
+                <ion-item-option _aio-3F2C9291 #j_37 color="custom" disabled="{{isCurrentDateIsPastDay}}"
+                class="task-option task-option_remind" [id]="currentItem.itemData._id" (click)="clockitemoptionClick__j_37($event, currentItem)">
+                    <ion-icon #j_37__icon slot="icon-only" src="assets/images/clockwise.svg">
+                    </ion-icon>
+                </ion-item-option>
+            </ion-item-options>
+        </ion-item-sliding>
+    </ion-list>
+    <img _aio-85C3FB53 #j_38 class="placeholder-image" src="assets/images/placeholder.png"
+    alt="Image error" [ngClass]="{'ion-hide': currentTasks.length !== 0}">
+    <ion-text _aio-96F07008 #j_39 class="empty-text" [ngClass]="{'ion-hide': currentTasks.length !== 0}">
+        You don't have any active tasks
+    </ion-text>
+    <aio-tester-buttons slot="fixed">
+    </aio-tester-buttons>
+</ion-content>
+<ion-footer _aio-8BA763CC>
+    <ion-button _aio-556BE6DF #j_41 expand="block" size="default" class="custom-button"
+    color="primary" (click)="createbuttonClick__j_41($event, currentItem)" [disabled]="__getMapping(currentItem, 'j_41__disabled', isCurrentDateIsPastDay, undefined, true)">
+        Create New Task
+    </ion-button>
+    <ion-button _aio-42BF74E6 #j_42 expand="block" strong="true" color="secondary" [routerLink]="['/orderby']">
+        Sort By
+    </ion-button>
+</ion-footer>

@@ -1,0 +1,96 @@
+
+
+
+
+/* Custom SCSS */
+.card {
+    min-height: 54px;
+}
+
+.time-card{
+    min-height: 54px;
+}
+
+.header-row {
+    //margin: 10px 0;   
+}
+
+.back-button{
+    display: block;
+    margin-top: 5px;
+    width: 50px;
+    color: var(--ion-text-color);
+    --padding-start: 0;
+}
+
+.select-options {
+    .select-placeholder {
+        color: var(--ion-color-light) !important;
+        opacity: 1 !important;
+    }
+    .select-icon {
+        color: var(--ion-color-light) !important;
+        opacity: 1 !important;
+    }
+}
+
+ion-select::part(icon) {
+  display: none !important;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 600;  
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 600; 
+}
+
+ion-select {
+   font-size: 16px !important;
+   font-weight: 500 !important;   
+   color: var(--ion-color-primary) !important; 
+   opacity: 1;
+}
+
+ion-item {
+    --border-style: unset;
+}
+
+.select-text {
+    font-size: 16px !important;
+    font-weight: 500 !important;   
+    color: var(--ion-color-primary) !important;
+}
+
+.padding-t-b-6{
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.padding-r-10 {
+    padding-right: 10px;
+}
+
+.margin-r-0 {
+    margin-right:0;
+}
+
+ion-toggle{
+    padding-right: 0px;
+}
+
+ion-item{
+    --inner-padding-start:0;    
+    --inner-padding-end:0;
+    --padding-start:0;
+}
+
+.wrapper-padding { 
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 4px;
+    padding-bottom: 0px;
+}

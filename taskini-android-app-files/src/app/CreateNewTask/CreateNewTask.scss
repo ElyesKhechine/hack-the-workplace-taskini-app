@@ -1,0 +1,59 @@
+
+
+
+
+/* Custom SCSS */
+ion-content{
+    --ion-background-color: transparent;
+    --padding-top:0;
+}
+
+#background-content {
+    --background: transparent;
+    --ion-background-color: transparent;
+}
+
+.create-title {
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.text {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.margin-botom {
+    margin-bottom: -20px;
+}
+
+.desc-input {
+    height: 100px;
+}
+
+.column{
+    display: flex;
+    align-items: center;
+}
+
+.end {
+    justify-content: flex-end;
+}
+
+.set-time {
+    color: var(--ion-color-primary);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.error {
+    display: block;
+    margin: 20px 0;
+}
+
+.picker-prefix, .picker-suffix, .picker-opt.picker-opt-selected {
+   color: var(--ion-color-primary) !important; 
+}
+
+

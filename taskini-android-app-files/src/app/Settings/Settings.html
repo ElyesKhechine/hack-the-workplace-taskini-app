@@ -1,0 +1,70 @@
+<ion-content _aio-4C1C9306>
+    <ion-grid _aio-27C7A4EF #j_47>
+        <ion-row _aio-E92C646C #j_48 class="header-row">
+            <ion-col _aio-D3CF1DA2 #j_49 class="back-button ion-align-self-start" size="4">
+                <ion-back-button _aio-ADD283E9 #j_50 defaultHref="alltasks" mode="md" icon="chevron-back-outline"
+                class="back-button">
+                </ion-back-button>
+            </ion-col>
+            <ion-col _aio-7A4A7EB0 #j_51 class="ion-align-self-center ion-text-center">
+                <ion-text _aio-D937E8C5 #j_52 class="title">
+                    Settings
+                </ion-text>
+            </ion-col>
+            <ion-col _aio-DD3859BD #j_53>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+    <ion-card _aio-14398764 #j_54 class="card" *ngIf="isInitialized">
+        <ion-item #j_55 _aio-8812C169 lines="none" class="wrapper-padding">
+            <ion-label _aio-B2182EDD #j_56 class="text">
+                Dark Theme
+            </ion-label>
+            <ion-toggle _aio-E5DAB6A3 #j_57 value="" name="Toggle1" mode="ios" slot="end" checked="false"
+            color="primary" [(ngModel)]="this.dark" (ionChange)="themeToggle($event)">
+            </ion-toggle>
+        </ion-item>
+    </ion-card>
+    <ion-card _aio-4E9D1EB9 #j_58 class="card" *ngIf="isInitialized">
+        <ion-item #j_59 _aio-806DB943 lines="none" class="wrapper-padding">
+            <ion-label _aio-E28173C0 #j_60 class="text">
+                Reminder
+            </ion-label>
+            <ion-toggle _aio-A2CA33E4 #j_61 value="Toggle1_value" name="Toggle1" mode="ios"
+            slot="end" checked="false" color="primary" (ionChange)="remaindertoggleIonChange__j_61($event, currentItem)"
+            [(ngModel)]="reminder">
+            </ion-toggle>
+        </ion-item>
+    </ion-card>
+    <ion-card _aio-E177342B #j_62 class="time-card no-padding">
+        <ion-item #j_63 _aio-D5CBE294 lines="none" class="select wrapper-padding">
+            <ion-label _aio-19ABE32A #j_64 class="text">
+                Time Format
+            </ion-label>
+            <ion-select _aio-A3BCFD38 #j_65 cancelText="CANCEL" name="SelectItemWrapper" okText="OK"
+            placeholder="12h" slot="end" class="select-options margin-r-0" [(ngModel)]="timeFormat"
+            (ionChange)="timeToggle($event)">
+                <ion-select-option #j_66 value="12" class="option">
+                    12 h
+                </ion-select-option>
+                <ion-select-option #j_67 value="24" class="option">
+                    24 h
+                </ion-select-option>
+            </ion-select>
+        </ion-item>
+    </ion-card>
+    <ion-button _aio-DE07AC7D #j_68 expand="block" [routerLink]="['/profileconfig']">
+        <ion-icon _aio-DE07AC7D #j_68__icon name="man">
+        </ion-icon>
+        Edit Profile
+    </ion-button>
+    <ion-button _aio-ACD094BF #j_69 expand="block" routerDirection="forward" [routerLink]="['/notif']">
+        <ion-icon _aio-ACD094BF #j_69__icon name="notifications">
+        </ion-icon>
+        Notifications
+    </ion-button>
+    <aio-tester-buttons slot="fixed">
+    </aio-tester-buttons>
+</ion-content>
+<ion-footer _aio-249F6910>
+</ion-footer>

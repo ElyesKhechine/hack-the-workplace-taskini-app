@@ -1,0 +1,55 @@
+<ion-content class="modal-container" _aio-AD2B86BC forceOverscroll="false">
+    <ion-card-content _aio-7A5847FC #j_123>
+        <ion-card-title _aio-1FBF6D3E #j_124 class="create-title">
+            Create New Task
+        </ion-card-title>
+    </ion-card-content>
+    <ion-text _aio-4B81A1BA #j_125 class="text ion-padding-start margin-botom">
+        Title
+    </ion-text>
+    <ion-card _aio-63D91C16 #j_126>
+        <ion-item #j_127 _aio-726BA8C0 lines="none">
+            <ion-input _aio-E3E3B481 #j_128 name="titleInput" placeholder="Title" [(ngModel)]="title">
+            </ion-input>
+        </ion-item>
+    </ion-card>
+    <ion-text _aio-048345CC #j_129 class="text ion-padding-start margin-botom">
+        Description
+    </ion-text>
+    <ion-card _aio-44182001 #j_130>
+        <ion-item #j_131 _aio-3672F0E8 lines="none">
+            <ion-input _aio-66D35139 #j_132 name="Input2" placeholder="Description" class="desc-input"
+            [(ngModel)]="description">
+            </ion-input>
+        </ion-item>
+    </ion-card>
+    <ion-card _aio-CE12A7B3 #j_133 class="reminder-card no-padding">
+        <ion-card-content _aio-E3DF3558 #j_134 class="reminder-grid no-padding">
+            <ion-grid _aio-35010FDB #j_135>
+                <ion-row _aio-64D3722B #j_136 class="row">
+                    <ion-col _aio-E76B6FC7 #j_137 class="column ion-text-start">
+                        <ion-text _aio-C83B99E4 #j_138 class="text">
+                            Reminder Time
+                        </ion-text>
+                    </ion-col>
+                    <ion-col _aio-70930E87 #j_139 class="column end ion-align-self-end ion-text-end">
+                        <ion-item #j_140 _aio-EA9E3030 lines="none">
+                            <aio-datetime _aio-07F05B2B #j_141 placeholder="Set Date Time" name="Datetime1"
+                            presentation="date-time" [formatOptions]='' [(ngModel)]="date-time">
+                                <ion-datetime [showDefaultButtons]="true" presentation="date-time" firstDayOfWeek="0"
+                                class="set-time">
+                                </ion-datetime>
+                            </aio-datetime>
+                        </ion-item>
+                    </ion-col>
+                </ion-row>
+            </ion-grid>
+        </ion-card-content>
+    </ion-card>
+</ion-content>
+<ion-footer _aio-9BAAEF33 class="ion-no-border">
+    <ion-button _aio-A6340EE4 #j_143 expand="block" class="custom-button" color="primary"
+    (click)="savebuttonClick__j_143($event, currentItem)" [disabled]="__getMapping(currentItem, 'j_143__disabled', !title, undefined, true)">
+        Save New Task
+    </ion-button>
+</ion-footer>

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en" class="aio-preview-loading">
+    
+    <head>
+        <meta charset="utf-8">
+        <title id="projectName">
+            hg
+        </title>
+        <base href=""/>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="msapplication-tap-highlight" content="no"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+        <link rel="icon" type="image/png" href="assets/icon/favicon.png"/>
+        <!-- Uncomment this tag to activate web app manifest -->
+        <!-- link rel="manifest" href="manifest.json" crossOrigin="use-credentials" -->
+        <!-- meta name="theme-color" content="#ffffff" -->
+        <!-- Uncomment this script to activate service worker -->
+        <!-- <script>
+        if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js')
+        .then(() => console.log('service worker installed'))
+        .catch(err => console.error('Error', err));
+        }
+        </script>
+        -->
+        <script>
+            if (!location.host.includes("appery.io")) {
+                document.documentElement.classList.remove("aio-preview-loading");
+            }
+        </script>
+        <style type="text/css">
+            html.aio-preview-loading:not(.hydrated) { height: 100%; width: 100%; margin: 0;
+            padding: 0; background: url(./assets/images/buildstartprogress.gif); background-position:
+            50% 50%; background-repeat: no-repeat; background-color: white; }
+        </style>
+    <link rel="stylesheet" href="styles.css"></head>
+    
+    <body class="Purple ionic4" data-theme-name="Purple">
+        <script>
+            var apperyioIsLiveDebug = location.href.includes("preview_build=true") || location.href.includes("hot_reload=true");
+            if (apperyioIsLiveDebug) {
+                var isIOS = window.navigator.vendor.includes("Apple");
+                if (isIOS && location.href.startsWith("https://")) {
+                    location.href = location.href.replace("https://", "http://");
+                } else {
+                    const script = document.createElement("script");
+                    script.src = isIOS? "ionic://localhost/cordova.js": "https://localhost/cordova.js";
+                    script.id = "localhost_cordova_js";
+                    document.head.append(script);
+                }
+            }
+        </script>
+        <!-- External js libraries --><!--
+        --><app-root>
+        </app-root>
+    <script src="runtime.js" type="module"></script><script src="polyfills.js" type="module"></script><script src="cordova.js" defer></script><script src="vendor.js" type="module"></script><script src="main.js" type="module"></script></body>
+
+</html>

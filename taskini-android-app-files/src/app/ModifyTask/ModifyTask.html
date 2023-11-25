@@ -1,0 +1,44 @@
+<ion-header _aio-4104151D>
+    <ion-toolbar _aio-985D9F7D #j_193>
+        <ion-title _aio-7E5E6F49 #j_195>
+            Task
+        </ion-title>
+    </ion-toolbar>
+</ion-header>
+<ion-content class="ion-padding" _aio-2330CFCB>
+    <ion-item #j_182 _aio-C6422438>
+        <ion-label _aio-47154DC8 #j_183 position="stacked">
+            Add Details
+        </ion-label>
+        <ion-input _aio-F8C52B2D #j_184 name="Input1" placeholder="Enter text" [(ngModel)]="details">
+        </ion-input>
+    </ion-item>
+    <ion-button _aio-20D5F1BD #j_185 expand="block">
+        Add
+    </ion-button>
+    <ion-item #j_186 _aio-83256FB5>
+        <ion-label _aio-6ADDAEF5 #j_187>
+            Completed
+        </ion-label>
+        <ion-toggle _aio-14760643 #j_188 value="Toggle1_value" name="Toggle1">
+        </ion-toggle>
+    </ion-item>
+    <ion-button _aio-D7188054 #j_189 expand="block" (click)="button1_copyClick__j_189($event, currentItem)">
+        Generate Subtasks
+    </ion-button>
+    <ion-button _aio-3962EEBA #j_190 expand="block" (click)="button3Click__j_190($event, currentItem)">
+        AI assistance
+    </ion-button>
+    <ion-button _aio-C811631F #j_191 expand="block" [routerLink]="['/alltasks']">
+        Back
+    </ion-button>
+    <aio-tester-buttons slot="fixed">
+    </aio-tester-buttons>
+</ion-content>
+<ion-footer _aio-52219CC9>
+    <ion-toolbar _aio-0057C064 #j_197>
+        <ion-title _aio-CC8DC9A7 #j_199>
+            Toolbar title
+        </ion-title>
+    </ion-toolbar>
+</ion-footer>

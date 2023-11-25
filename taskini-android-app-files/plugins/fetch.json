@@ -1,0 +1,108 @@
+{
+  "cordova-hot-code-push-plugin": {
+    "source": {
+      "type": "local",
+      "path": "/srv/appery/jenkins/workspace/0b7d2f0c-652d-41ca-bbff-8aebd79708d1-android/app/node_modules/cordova-hot-code-push-plugin"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "@moodlehq/cordova-plugin-local-notification": {
+    "source": {
+      "type": "local",
+      "path": "/srv/appery/jenkins/workspace/0b7d2f0c-652d-41ca-bbff-8aebd79708d1-android/app/node_modules/@moodlehq/cordova-plugin-local-notification"
+    },
+    "is_top_level": true,
+    "variables": {
+      "ANDROID_SUPPORT_V4_VERSION": "26.+"
+    }
+  },
+  "cordova-plugin-network-information": {
+    "source": {
+      "type": "local",
+      "path": "/srv/appery/jenkins/workspace/0b7d2f0c-652d-41ca-bbff-8aebd79708d1-android/app/node_modules/cordova-plugin-network-information"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-resource-generator": {
+    "source": {
+      "type": "local",
+      "path": "/srv/appery/jenkins/workspace/0b7d2f0c-652d-41ca-bbff-8aebd79708d1-android/app/node_modules/cordova-plugin-resource-generator"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-screen-orientation": {
+    "source": {
+      "type": "local",
+      "path": "/srv/appery/jenkins/workspace/0b7d2f0c-652d-41ca-bbff-8aebd79708d1-android/app/node_modules/cordova-plugin-screen-orientation"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "es6-promise-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "es6-promise-plugin@^4.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "@appery/cordova-plugin-badge": {
+    "source": {
+      "type": "registry",
+      "id": "@appery/cordova-plugin-badge@>=0.8.5"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-ionic-webview": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-ionic-webview@^5.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-splashscreen": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-splashscreen@6.0.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-statusbar": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-statusbar@2.4.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-ionic-keyboard": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-ionic-keyboard@^2.2.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-sqlite-ext": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-sqlite-ext"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "cordova-hot-code-push-plugin",
+  "version": "1.6.10",
+  "description": "Cordova plugin to perform code updates on the fly",
+  "cordova": {
+    "id": "cordova-hot-code-push-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apperyio/cordova-hot-code-push.git"
+  },
+  "keywords": [
+    "appery",
+    "appery.io",
+    "cordova",
+    "nordnet",
+    "mobile",
+    "code",
+    "update",
+    "push",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.2.0"
+    }
+  ],
+  "dependencies": {
+    "md5-file": "^5.0.0",
+    "xcode": "^2.1.0",
+    "xml2js": "^0.4"
+  },
+  "author": "Nikolay Demyankov for Nordnet Bank AB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nordnet/cordova-hot-code-push/issues"
+  },
+  "homepage": "https://github.com/nordnet/cordova-hot-code-push#readme"
+}

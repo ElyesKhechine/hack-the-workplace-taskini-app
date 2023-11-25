@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:rim="http://www.blackberry.com/ns/widgets" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" id="cordova-plugin-resource-generator" version="0.1.0">
+
+  <name>Appery.io Resource Generator</name>
+
+  <description>
+    This plugin uses cordova-res to generate icons and splashscreens
+  </description>
+
+  <engines>
+    <engine name="cordova" version="&gt;=3.0.0"/>
+  </engines>
+
+  <platform name="android">
+    <hook src="scripts/android/before_prepare.js" type="before_prepare"/>
+  </platform>
+
+  <platform name="ios">
+    <hook src="scripts/ios/before_prepare.js" type="before_prepare"/>
+  </platform>
+
+  <issue>https://github.com/apperyio/cordova-plugin-resource-generator/issues</issue>
+  <author>Andrii Iakovenko</author>
+</plugin>

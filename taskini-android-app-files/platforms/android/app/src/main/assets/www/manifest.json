@@ -1,0 +1,14 @@
+{
+    "short_name": "hg",
+    "name": "hg",
+    "description": "",
+    "display": "fullscreen",
+    "orientation": "any",
+    "start_url": "/",
+    "scope": "/",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+
+    ]
+}

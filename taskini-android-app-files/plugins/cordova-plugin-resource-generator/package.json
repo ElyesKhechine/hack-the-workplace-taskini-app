@@ -1,0 +1,39 @@
+{
+  "name": "cordova-plugin-resource-generator",
+  "version": "0.1.0",
+  "description": "This plugin uses cordova-res to generate icons and splashscreens",
+  "cordova": {
+    "id": "cordova-plugin-resource-generator",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apperyio/cordova-plugin-resource-generator"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "appery",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-res"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "dependencies": {
+    "cordova-res": "^0.15.2"
+  },
+  "author": "Andrii Iakovenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apperyio/cordova-plugin-resource-generator/issues"
+  },
+  "homepage": "https://appery.io"
+}

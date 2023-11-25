@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+  Licensed to the Apache Software Foundation (ASF) under one
+  or more contributor license agreements.  See the NOTICE file
+  distributed with this work for additional information
+  regarding copyright ownership.  The ASF licenses this file
+  to you under the Apache License, Version 2.0 (the
+  "License"); you may not use this file except in compliance
+  with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing,
+  software distributed under the License is distributed on an
+  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  KIND, either express or implied.  See the License for the
+  specific language governing permissions and limitations
+  under the License.
+--><plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:rim="http://www.blackberry.com/ns/widgets" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" id="cordova-plugin-network-information" version="3.0.0">
+
+    <name>Network Information</name>
+    <description>Cordova Network Information Plugin</description>
+    <license>Apache 2.0</license>
+    <keywords>cordova,network,information</keywords>
+    <repo>https://github.com/apache/cordova-plugin-network-information</repo>
+    <issue>https://github.com/apache/cordova-plugin-network-information/issues</issue>
+
+    <js-module name="network" src="www/network.js">
+        <clobbers target="navigator.connection"/>
+    </js-module>
+
+    <js-module name="Connection" src="www/Connection.js">
+        <clobbers target="Connection"/>
+    </js-module>
+
+
+    <!-- android -->
+    <platform name="android">
+        <config-file parent="/*" target="res/xml/config.xml">
+            <feature name="NetworkStatus">
+                <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager"/>
+            </feature>
+        </config-file>
+
+        <config-file parent="/*" target="AndroidManifest.xml">
+            <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+        </config-file>
+
+        <source-file src="src/android/NetworkManager.java" target-dir="src/org/apache/cordova/networkinformation"/>
+
+    </platform>
+
+    <!-- ios -->
+    <platform name="ios">
+        <config-file parent="/*" target="config.xml">
+            <feature name="NetworkStatus">
+                <param name="ios-package" value="CDVConnection"/>
+            </feature>
+        </config-file>
+
+        <header-file src="src/ios/CDVConnection.h"/>
+        <source-file src="src/ios/CDVConnection.m"/>
+        <header-file src="src/ios/CDVReachability.h"/>
+	    <source-file src="src/ios/CDVReachability.m"/>
+	    <framework src="SystemConfiguration.framework" weak="true"/>
+	    <framework src="CoreTelephony.framework"/>
+    </platform>
+
+    <!-- windows -->
+    <platform name="windows">
+        <js-module name="NetworkInfoProxy" src="src/windows/NetworkInfoProxy.js">
+            <runs/>
+        </js-module>
+    </platform>
+
+    <!-- browser -->
+    <platform name="browser">
+        <js-module name="NetworkInfoProxy" src="src/browser/network.js">
+            <runs/>
+        </js-module>
+    </platform>
+</plugin>

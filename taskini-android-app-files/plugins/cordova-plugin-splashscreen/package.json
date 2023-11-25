@@ -1,0 +1,81 @@
+{
+  "_from": "cordova-plugin-splashscreen@6.0.1",
+  "_id": "cordova-plugin-splashscreen@6.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-olJPBFRUuzunzeuB76TOBoq3yYlnhpWDk/S7ErR6MdqPz1KuK36omB9u4o//SdgfBbxHz+SsUtyvst68NrU3pA==",
+  "_location": "/cordova-plugin-splashscreen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-splashscreen@6.0.1",
+    "name": "cordova-plugin-splashscreen",
+    "escapedName": "cordova-plugin-splashscreen",
+    "rawSpec": "6.0.1",
+    "saveSpec": null,
+    "fetchSpec": "6.0.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-splashscreen/-/cordova-plugin-splashscreen-6.0.1.tgz",
+  "_shasum": "dc7bf1365ed1da13382faccd339bd6f7f85aa53a",
+  "_spec": "cordova-plugin-splashscreen@6.0.1",
+  "_where": "/srv/appery/jenkins/workspace/0b7d2f0c-652d-41ca-bbff-8aebd79708d1-android/app",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-splashscreen/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-splashscreen",
+    "platforms": [
+      "android",
+      "windows",
+      "browser"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Splashscreen Plugin",
+  "devDependencies": {
+    "@cordova/eslint-config": "^3.0.0"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova-android": ">=3.6.0"
+      },
+      "7.0.0": {
+        "cordova": ">100"
+      },
+      ">=4.0.0": {
+        "cordova-android": ">=3.6.0",
+        "cordova-windows": ">=4.4.0"
+      }
+    }
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-splashscreen#readme",
+  "keywords": [
+    "cordova",
+    "splashscreen",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-windows",
+    "cordova-browser"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-splashscreen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-splashscreen.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
+  "types": "./types/index.d.ts",
+  "version": "6.0.1"
+}
